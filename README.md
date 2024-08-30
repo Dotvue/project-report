@@ -74,6 +74,15 @@ Mediante nuestra plataforma AquaEngine, enfocada a brindar servicios al sector d
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
 
+El estado actual de la gestión de producción se ha centrado principalmente en las empresas productoras de maquinaria pesquera y las empresas pesqueras, utilizando tecnicas tradicionales y manuales, lo que realentiza el proceso.
+
+Lo que los servicios existentes no abordan es una transición sencilla tanto para los productores como para los pesqueros, además de monitoreo de equipos a distancia, y facturación.
+
+Nuestro producto AquaEngine abordará esta brecha mediante enfocarnos en empresas con años de experiencia, que todavía no han digitalizado su negocio, nos ganaremos su confianza con propuestas sólidas y realizables a un presupuesto al alcance de una empresa.
+
+Nuestro enfoque inicial será acercarnos al sector de producción de maquinaría pesquera. 
+
+Sabremos que tendremos éxito cuando veamos un aumento significativo de pedidos de empresas pesqueras por trimestre. La comparativa se hará en trimestres, debido a que los equipos de esta magnitud deben ser hechos a medida y probados por lo que este proceso es largo
 
 
 #### 1.2.2.2. Lean UX Assumptions.
