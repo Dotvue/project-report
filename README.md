@@ -65,8 +65,8 @@ Mediante nuestra plataforma AquaEngine, enfocada a brindar servicios al sector d
 **How ¿Cómo ayudará nuestra solución?**
  - Optimizaremos procesos, brindaremos funcionalidades nuevas, como seguimiento preventivo a distancia de equipos manufacturados.
 
-***How much ¿Cúanto costará?***
- - Nuestra solución costará alrededor de 50 dólares mensuales, ese presupuesto está al alcance de la mayoría de pequeñas empresas para la contratación del software.
+**How much ¿Cúanto costará?***
+ - Nuestra solución costará alrededor de 50 dólares mensuales en un plan básico. El plan "Plus" costará 100 dólares pero habrán funciones mejoradas, dicho presupuesto está al alcance de la mayoría de pequeñas empresas para la contratación del software.
 
 
 
@@ -131,8 +131,8 @@ Sabremos que tendremos éxito cuando veamos un aumento significativo de pedidos 
  - Presentar al menos un 50% mejoras al plan Plus en nuestro primer año.
  - Aumentar la tasa de adopción del software en un 30% en nuestro segundo trimestre en comparación al anterior.
  - Mantener la tasa de retención de clientes en 80%
- - Conseguir un puntaje de satisfacción del cliente (CSAT) en un 15%
- 
+ - Conseguir un puntaje de satisfacción del cliente (CSAT) en un 90%
+
 
 ***User Outcome Assumptions:***
 
@@ -149,11 +149,48 @@ Sabremos que tendremos éxito cuando veamos un aumento significativo de pedidos 
  - Implementar funciones dedicadas al monitoreo de equipos para realizarle mantenimientos con sensores. 
  - Automatizar el proceso de facturación de la empresa para realizar facturas electronicas verificadas con la sunat.
  - Implementar una conexión a una base de datos, para visualización dentro de la aplicación web.
- - Implementar una función para solicitar equipos a través de una aplicación.
+ - Implementar una función para solicitar equipos a través de nuestra aplicación web.
 
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
+***Hypothesis 1:***
 
+**Creemos que lograremos** conseguir una tasa de 75% de renovación de planes cada mes.
+**Si** los productores de maquinaria
+**Logran** dedicar menos tiempo al contacto con el cliente, para enfocarse en producción
+**Con** la función de optimización de proceso de pedido
+
+
+***Hypothesis 2:***
+
+**Creemos que lograremos** Presentar al menos una tasa del 50% en mejoras al plan "Plus" el ultimo semestre de nuestro primer año con respecto al semestre anterior
+**Si** los pescadores
+**Logran** erradicar las fallas críticas en sus equipos
+**Con** la función dedicada al monitoreo de equipos con alerta de mantenimiento preventivo
+
+
+***Hypothesis 3:***
+
+**Creemos que lograremos** Aumentar la tasa de adopción del software un 30% en nuestro segundo trimestre en comparación al anteior
+**Si** los productores
+**Logran** transicionar adecuadamente a facturación electronica
+**Con**
+
+
+***Hypothesis 4:***
+
+**Creemos que lograremos** Mantener una tasa de retención de 30% en nuestro segundo trimestre. 
+**Si** los pescadores
+**Logran** tener un mejor manejo de recursos para la manufacturación de equipos.
+**Con** la función de conexión a la base de datos a través de la aplicación web
+
+
+***Hypothesis 5:***
+
+**Creemos que lograremos** conseguir un puntaje de satisfación del cliente (CSAT) en 90%
+**Si** los pescadores
+**Logran** facilitar el proceso de pedido de un equipo
+**Con** la implementación de una función para realizar pedidos a través de nuestra aplicación
 
 
 #### 1.2.2.4. Lean UX Canvas.
