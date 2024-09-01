@@ -126,56 +126,44 @@ Sabremos que tendremos éxito cuando veamos un aumento significativo de pedidos 
 
 
 ***Business Outcome Assumptions:***
- - Lograr que la cantidad de equipos que fallan al año en empresas pesqueras se reduzca a 0%.
-
- - Asegurar que el 70% de nuestros clientes nos prefieran para realizar su facturación.
-
- - Lograr un porcentaje de renovación de suscripción del 80%.
-
- - Presentar al menos un 60% mejoras al plan Plus en nuestro primer año.
-
- - Aumentar un 30% la cantidad de equipos solicitados por trimestre
  
- - Lograr que el 10% de nuestros clientes sean migrantes de otra empresa rival en nuestro primer año.
+ - Conseguir una tasa de 75% de renovación de planes cada mes.
+ - Presentar al menos un 50% mejoras al plan Plus en nuestro primer año.
+ - Aumentar la tasa de adopción del software en un 30% en nuestro segundo trimestre en comparación al anterior.
+ - Mantener la tasa de retención de clientes en 80%
+ - Conseguir un puntaje de satisfacción del cliente (CSAT) en un 15%
+ 
 
 ***User Outcome Assumptions:***
 
- - Dedicar menos tiempo a las revisiones de mantenimiento de emergencia.
-
- - Dedicar más tiempo a la producción que al proceso de la maquinaria pesquera
- 
- - Para los pesqueros, dedicar menos recursos en reparaciones de emergencia
- 
- - Presentarán un mejor rendimiento laboral.
-
- - Podrán participar en más proyectos.
- 
- - Con la información del monitoreo podrán conseguir más detalles
+ - Dedicar menos tiempo al contacto con el cliente, para enfocarse en la producción 
+ - Radicar las fallas críticas de los equipos del cliente.
+ - Transicionar a facturación electronica.
+ - Tener un mejor manejo de recursos para realizar productos
+ - Facilitar el proceso de pedido de un equipo
 
 
 ***Features:***
  
- - Implementar funciones dedicadas al monitoreo de equipos, esta funcionalidad de la solución implementará información recopilada de sensores en la maquinaria que nuestros clientes manufacturen. Esta información será util para prevenir fallos y averías.
- 
- - Implementar proceso de facturación electronica, de modo que pueden emitir recibos para la Sunat.
-
- - Implementar una base de datos a la que se puede acceder a través de un servicio web, en la que se podrá visualizar el inventario de la empresa.
-
- - Implementar una función de alarma de revisión de mantenimiento programado.
- 
- - Automatizar la venta de equipos, brindando al departamento de facturación y contabilidad una herramienta poderosa para utilizar.
+ - Implementar una funcion que optimice el proceso de aceptación o rechazo de pedidos
+ - Implementar funciones dedicadas al monitoreo de equipos para realizarle mantenimientos con sensores. 
+ - Automatizar el proceso de facturación de la empresa para realizar facturas electronicas verificadas con la sunat.
+ - Implementar una conexión a una base de datos, para visualización dentro de la aplicación web.
+ - Implementar una función para solicitar equipos a través de una aplicación.
 
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
 
+
 #### 1.2.2.4. Lean UX Canvas.
+
 (imagen con texto)
 ## 1.3. Segmentos objetivo.
 | | Empresas pesqueras | Productoras de maquinaría |
 | - | - |-|
 | Variables                 |  |  |
-| Geográfica                | Litoral peruano |  |
+| Geográfica                | Litoral peruano | Litoral peruano |
 | Demográfica               |  |  |
 | Psicológica               |  |  |
 | Función de comportamiento |  |  |
