@@ -55,17 +55,21 @@ Mediante nuestra plataforma AquaEngine, enfocada a brindar servicios al sector d
 
 
 **When: ¿Cuándo deberíamos implementar AquaEngine?**
+ 
  - Tan pronto como una empresa productora de maquinaria quiera comenzar a digitalizar su negocio. 
 
 
 **Where: ¿Dónde implementaríamos nuestra solución?**
+ 
  - En empresas donde todavía no ha habido una transición a la digitalización.
  
 
 **How ¿Cómo ayudará nuestra solución?**
+ 
  - Optimizaremos procesos, brindaremos funcionalidades nuevas, como seguimiento preventivo a distancia de equipos manufacturados.
 
 **How much ¿Cúanto costará?***
+ 
  - Nuestra solución costará alrededor de 50 dólares mensuales en un plan básico. El plan "Plus" costará 100 dólares pero habrán funciones mejoradas, dicho presupuesto está al alcance de la mayoría de pequeñas empresas para la contratación del software.
 
 
