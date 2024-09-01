@@ -32,20 +32,26 @@
 
 1. ¿Cuál es su nombre? 
 2. ¿Qué edad tiene? 
-3. ¿A qué se dedica? 
-4. ¿[Opinion de idea de propuesta]? 
+3. ¿Cuál es su ocupación? 
+4. ¿En que sector trabajas (empresas de maquinaria/pesqueros)? 
+5. ¿Cuánto tiempo llevas en esta industria?
 
-**Entrevistas usuario segmento 2**
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?  
+**Entrevistas para el Segmento 1**
+1. ¿Cómo gestionan actualmente la aceptación de pedidos y el inventario de componentes?
+2. ¿Qué tan precisos y actualizados suelen estar sus inventarios de componentes?
+3. ¿Cuánto tiempo y recursos destinan al monitoreo de equipos vendidos?
+4. ¿Cómo gestionan la facturación por la venta de maquinaria y qué tan eficiente es este proceso?
+5. ¿Qué mejoras específicas desearían ver en un sistema de gestión de producción?
+6. ¿Qué problemas han surgido en la gestión de inventario y cómo los han resuelto?
    
-**Entrevistas usuario segmento 2**
-1. ¿Lorem? 
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem? 
+**Entrevistas para el Segmento 1**
+1. ¿Cómo llenan actualmente los datos relacionados con la pesca y el equipo utilizado? 
+2. ¿Con qué frecuencia monitorean el estado de sus equipos de pesca?
+3. ¿Qué problemas han tenido en la comunicación con las empresas de maquinaria respecto a pedidos y mantenimiento de equipos?
+4. ¿Qué tan fácil es para ustedes realizar pedidos de componentes o maquinaria nueva?
+5. ¿Cómo prefieren recibir actualizaciones o alertas sobre el estado de sus equipos?
+6. ¿Qué factores consideran más importantes al decidir comprar maquinaria de una empresa específica?
+   
 ### 2.2.2. Registro de entrevistas.
 **Segmento 1**  
 Nombre: _____
