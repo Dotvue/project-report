@@ -44,7 +44,7 @@
 5. ¿Qué mejoras específicas desearían ver en un sistema de gestión de producción?
 6. ¿Qué problemas han surgido en la gestión de inventario y cómo los han resuelto?
    
-**Entrevistas para el Segmento 1**
+**Entrevistas para el Segmento 2**
 1. ¿Cómo llenan actualmente los datos relacionados con la pesca y el equipo utilizado? 
 2. ¿Con qué frecuencia monitorean el estado de sus equipos de pesca?
 3. ¿Qué problemas han tenido en la comunicación con las empresas de maquinaria respecto a pedidos y mantenimiento de equipos?
