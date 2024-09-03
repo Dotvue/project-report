@@ -67,10 +67,19 @@ La interfaz de búsqueda contará con un diseño intuitivo para ayudar a los usu
 ![Search interface preview web](/assets/images/chapter-iv/searching-system.png)
 
 ### 4.2.5. Navigation Systems.
-Basicamente aqui definimos como funciona la navegacion del web app
-**Hierarchical Navigation System:** Main page a destination pages.
-**Global Navigation Systems** (Complemento del Hierachical) Movimiento vertical (te mueves por la pagina)con nav(debe poder regresar a la principal)
-**Local Navigation Systems** (vas a otras paginas) (complemento del global nav sistem sub-site) Usas otras paginas
+La navegación en la aplicación web será sencilla y minimalista, permitiendo a los usuarios acceder fácilmente a las diversas opciones disponibles.
+
+**Hierarchical Navigation System:**  
+La navegación se organiza de manera jerárquica desde la página principal hacia las páginas de destino.
+
+**Global Navigation Systems**  
+Permite el movimiento vertical dentro de la página. Incluye una barra de navegación que facilita el retorno a la página principal y la navegación entre secciones importantes sin necesidad de retroceder.
+
+**Local Navigation System**  
+Complementa al sistema global permitiendo el acceso a otras páginas dentro del sub-sitio.
+
+![Navigation interface preview web](/assets/images/chapter-iv/nav.png)
+
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
 la pagina donde te registras y ves info del web app (te manda al web app)
