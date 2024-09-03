@@ -1,7 +1,10 @@
 # Capítulo IV: Product Design
+En este capítulo, abordamos el diseño integral de la startup, cubriendo aspectos clave como el estilo visual, los diagramas C4 para la arquitectura del sistema, los diagramas de clases, y los modelos de base de datos, proporcionando una visión clara y estructurada de la infraestructura y el funcionamiento del proyecto.
+
 ## 4.1. Style Guidelines.
+En esta sección se presentan los estándares que definen el formato y el diseño de la solución, asegurando ycalidad en su implementación.
+
 ### 4.1.1. General Style Guidelines.
-Descripcion del porque estos elementos seran importantes
 
 **Color:** (Descripcion de los colores escogidos y porque)  
 ![Colores generales](image.jpg)
