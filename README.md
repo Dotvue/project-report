@@ -19,6 +19,7 @@ Desarrollar aplicaciones web de alta calidad utilizando tecnologías Open Source
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-|
 |Daniel Mateo del Castillo Bueno|U202211212|Ingenieria de software|C++, Angular, Java, Python, SQL|
+|Pedro Andre Guía Carrasco| U20221201| Ingenieria de Software| Java, Python, SQL, HTML|
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
