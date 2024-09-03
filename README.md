@@ -95,11 +95,11 @@ Sabremos que tendremos éxito cuando veamos un aumento significativo de pedidos 
 
 1. Consideramos que nuestros clientes necesitan procesos más eficientes para atender la demanda.
 
-2. Estas necesidades pueden ser satisfechas con una aplicación web, que ofrezcan una automatización de pedidos.
+2. Estas necesidades pueden ser satisfechas con una aplicación web, que ofrezca una automatización de pedidos.
 
 3. Nuestros cientes iniciales serán empresas pesqueras, y empresas productoras de maquinaria pesquera.
 
-4. El aspecto más importante que un cliente buscará en mi servicio es la facturación.
+4. El aspecto más importante que un cliente buscará en mi servicio es el monitoreo.
 
 5. Como Startup generaremos dinero mediante un modelo de negocios de suscripciones.
 
@@ -141,7 +141,7 @@ Sabremos que tendremos éxito cuando veamos un aumento significativo de pedidos 
 ***User Outcome Assumptions:***
 
  - Dedicar menos tiempo al contacto con el cliente, para enfocarse en la producción 
- - Radicar las fallas críticas de los equipos del cliente.
+ - Eradicar las fallas críticas de los equipos del cliente.
  - Transicionar a facturación electronica.
  - Tener un mejor manejo de recursos para realizar productos
  - Facilitar el proceso de pedido de un equipo
@@ -201,13 +201,36 @@ Sabremos que tendremos éxito cuando veamos un aumento significativo de pedidos 
 
 (imagen con texto)
 ## 1.3. Segmentos objetivo.
-| | Empresas pesqueras | Productoras de maquinaría |
-| - | - |-|
-| Variables                 |  |  |
-| Geográfica                | Litoral peruano | Litoral peruano |
-| Demográfica               |  |  |
-| Psicológica               |  |  |
-| Función de comportamiento |  |  |
+***Segmento #1: Productoras de maquinaria pesquera***
+
+Aspectos demográficos:
+ - Sexo:Masculino y femenino
+ - Edad:23-60 años
+ - Estado Civil:Soltero o casado
+
+Aspectos geográficos:
+ - Ubicación: Lima, Perú
+
+Aspectos psicologicos:
+ - Objetivo: Aumentar la cantidad de pedidos que pueden procesar.
+ - Valores: Eficiencia, Honestidad, Responsabilidad, Asertividad.
+ 
+ 
+
+
+***Segmento #2:Empresas pesqueras***
+
+Aspectos demográficos:
+ - Sexo:Masculino o Femenino
+ - Edad: 24- 60 años
+ - Estado Civil:Soltero o Casado
+
+Aspectos geográficos:
+ - Ubicación: Departamentos costeros del perú(Lima, Ica, Piura, Lambayeque, etc.)
+
+Aspectos psicologicos:
+ - Objetivo: Obtener maquinaria más rápido 
+ - Valores: Eficiencia, Trabajo en equipo, Puntualidad
 
 ---
 
