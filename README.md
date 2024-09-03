@@ -82,13 +82,21 @@ Complementa al sistema global permitiendo el acceso a otras páginas dentro del 
 
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
-la pagina donde te registras y ves info del web app (te manda al web app)
+Link a los Wireframes de la Landing Page (Figma):  
+**https://shorturl.at/0RTW9**
 
-Wireframe es todo lo funcional de la pagina
-![Landing page Wireframe](image.jpg)
+![Landing page Wireframe](/assets/images/chapter-iv/landing%20page%20wireframe/wireframe1.png)
+![Landing page Wireframe](/assets/images/chapter-iv/landing%20page%20wireframe/wireframe2.png)
+![Landing page Wireframe](/assets/images/chapter-iv/landing%20page%20wireframe/wireframe3.png)
+
 ### 4.3.2. Landing Page Mock-up.
-Mockup es todo lo relacionado al diseño de la pagina
-![Landing page mockup](image.jpg)
+Link a los Mock-up de la Landing Page (Figma):  
+**https://shorturl.at/0RTW9**
+
+![Landing page mockup](/assets/images/chapter-iv/landing%20page%20mock-up/mock-up1.png)
+![Landing page mockup](/assets/images/chapter-iv/landing%20page%20mock-up/mock-up2.png)
+![Landing page mockup](/assets/images/chapter-iv/landing%20page%20mock-up/mock-up3.png)
+
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 lo funcional de cada aspecto del wireframe 
