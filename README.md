@@ -25,29 +25,46 @@ Nuestra página web está diseñada para ofrecer una experiencia de navegación 
 Hemos implementado un diseño basado en el patrón Z, que guía de manera intuitiva la mirada de los usuarios hacia los elementos clave, permitiendo que la información más importante sea fácilmente captada.
 
 ## 4.2. Information Architecture.
+En esta sección se presenta la estructura del software según cada segmento objetivo, así como los elementos que se utilizarán para la navegación dentro de la plataforma
+
 ### 4.2.1. Organization Systems.
-Descripcion corta respecto a los sistemas de organizacion que usaremos  (Escoger)
-"Hierarchical. This structures advices to present the content in a way to distinguish the level of importance by making use of physical differences, such as size, colour, contrast, alignment etc.
+El Sistema de Organización tiene como objetivo la interacción entre los usuarios y la plataforma mediante una jerarquía visual (visual hierarchy) que resalta funciones clave, como la gestión de pedidos y el monitoreo de equipos, facilitando su acceso inmediato.
 
-Sequential. Guide users to follow a specific path towards their goal and provide content step-by-step based on the current step. 
+#### **Sequential** 
+Se implementará una organización secuencial (step-by-step) en procesos como el llenado de datos, asegurando que los usuarios sigan pasos claros y estructurados para completar sus tareas de manera eficiente.
 
-Matrix. You can always give the users the option to choose the type of navigation they prefer, i.e. Alphabetical, Chronological, by topic."
+#### **Matrix**
+Se aplicarán filtros avanzados para la búsqueda de componentes de maquinaria o equipos, así como el estado de los pedidos, brindando opciones específicas que mejoren la navegación.
+
 ### 4.2.2. Labeling Systems.
-The labeling system aims at uniting the data effectively and represent them in simple way and avoid confusing great amount of information. A widely adopted way to achieve this is by creating the labels which represent loads of data in few words. 
+En AquaEngine Components, el sistema de etiquetas está diseñado para que los usuarios encuentren fácilmente la información que necesitan, haciendo que la navegación sea intuitiva y accesible.
 
-Como decir "home, about us, etc" basicamente lo que iria en un nav var y asi
+* **Inicio:** Botón en el logo que redirige a la página principal, facilitando el acceso a la vista general del sistema.
+
+* **Suscripciones/Plus:** Suscripción en un periodo de tiempo donde te brindan diferentes beneficios según tu tipo de usuario
+
 ### 4.2.3. SEO Tags and Meta Tags
 
 **Meta & SEO (Search Engine Optimization) Tags:**  sirven para que la pagina web sea encontrada facilmente es lo que sale al encontrar la pagina en el buscador (se ponen en el <"head">)
-* Titulo: ```<title> ___ </title> ```
-* Descripcion: ```<meta name = "description" content = "texto descipcion"/> ```
-* Palabras Clave: ```<meta name = "keyword" content = "keyword1, 2 3"/> ```
+* Titulo:   
+```<title>AquaEngine - Oficial Landing Page</title> ```
+
+* Descripcion:  
+```<meta name = "description" content = "where you will find fishing machinery management, including orders, inventory and equipment monitoring."/> ```
+* Palabras Clave:  
+```<meta name = "keyword" content = "fishing machinery, production management, equipment monitoring, inventory control, fishing orders, fishing software"/> ```
 
 ### 4.2.4. Searching Systems.
-**Que se busca?:** Que buscara el usuario  
-**Que resultados se mostraran?:** Que se mostrara  
-**Interface de busqueda:** Descripcion de como ayuda a encontrar lo deseado 
-![Search interface preview web](image.jpg)
+**Que se busca?:**   
+Los usuarios buscarán componentes de maquinaria pesquera, el estado de los equipos, detalles de pedidos y niveles de inventario. También podrán buscar pedidos específicos, partes o el estado de sus solicitudes en curso.
+
+**Que resultados se mostraran?:**  
+Los resultados de búsqueda mostrarán información relevante sobre componentes, incluyendo detalles de maquinaria, estados actuales de pedidos, inventario disponible y datos de monitoreo de equipos. Los resultados estarán organizados para resaltar la información más pertinente según la consulta de búsqueda. 
+
+**Interface de busqueda:**  
+La interfaz de búsqueda contará con un diseño intuitivo para ayudar a los usuarios a encontrar la información deseada de manera rápida. Los filtros incluirán categorías como tipo de equipo, estado del pedido y niveles de inventario. La interfaz amigable mejorará la eficiencia en la búsqueda de datos específicos y optimizará la experiencia del usuario.
+
+![Search interface preview web](/assets/images/chapter-iv/searching-system.png)
 
 ### 4.2.5. Navigation Systems.
 Basicamente aqui definimos como funciona la navegacion del web app
