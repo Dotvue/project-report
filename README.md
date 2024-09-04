@@ -106,10 +106,10 @@ Why would they invite others?
 
 ### 2.3.4. Empathy Mapping.
 **Segmento 1:**
-![Empathy Map Segmento1](image.jpg)
+<img src="assests/Segmento 1 Empathy Map.png" style="width:300%">
 
 **Segmento 2:**
-![Empathy Map Segmento1](image.jpg)
+<img src="assests/Segmento 2 Empathy Map.png" style="width:300%">
 ### 2.3.5. As-is Scenario Mapping.
 
 **Segmento 1**  
