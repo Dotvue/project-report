@@ -78,7 +78,7 @@ Ocupación: _____
  <img src="https://github.com/Dotvue/project-report/blob/e3f43bb037c497ea564bb25e601dfb8b19a2e932/assests/Ricardo%20Salas-user.png" alt="User-Persona-1" />
 
 **Segmento 2:**
-![Imagen User Persona 1](image.jpg)
+<img src="https://github.com/Dotvue/project-report/blob/89e65c50d35d7fcf8d4b3162bc3e882a6eee4532/assests/Carlos%20Martinez-userpesque.png" />
 
 ### 2.3.2. User Task Matrix.
 | --- | ------ | Segmento 1  | ------/----- | Segmento 2  | ---------- |
