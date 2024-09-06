@@ -9,15 +9,15 @@ En esta sección se presentan los estándares que definen el formato y el diseñ
 **Color:**
 Seleccionamos esta gama de colores porque armoniza con el diseño del logo y refleja la temática de nuestra aplicación, asegurando la identidad de la marca.  
 
-![Colores generales](/assets/images/chapter-iv/color-palette.png)
+![Colores generales](/assets/images/chapter-iv/style-guidelines/color-palette.png)
 
 **Tipografia:** Seleccionamos esta tipografía por su excelente legibilidad en diversos entornos, además de su carácter poco común, lo que nos permite diferenciarnos frente a la competencia y aportar una identidad única a nuestra marca.
 
-![Tipografias generales](/assets/images/chapter-iv/typography.png)
+![Tipografias generales](/assets/images/chapter-iv/style-guidelines/typography.png)
 
 **Branding** El nombre del producto es ArtCollab, el cual cuenta con un logo representado por el icono de un bolígrafo con motivos coloridos a su alrededor haciendo referencia tanto a los escritores como artistas que son parte de los usuarios principales de nuestro aplicativo.
 
-![Branding general](/assets/images/chapter-iv/logo.png)
+![Branding general](/assets/images/chapter-iv/style-guidelines/logo.png)
 
 ### 4.1.2. Web Style Guidelines.
 Nuestra página web está diseñada para ofrecer una experiencia de navegación fluida y accesible, sin importar el dispositivo que utilices. 
@@ -64,7 +64,7 @@ Los resultados de búsqueda mostrarán información relevante sobre componentes,
 **Interface de busqueda:**  
 La interfaz de búsqueda contará con un diseño intuitivo para ayudar a los usuarios a encontrar la información deseada de manera rápida. Los filtros incluirán categorías como tipo de equipo, estado del pedido y niveles de inventario. La interfaz amigable mejorará la eficiencia en la búsqueda de datos específicos y optimizará la experiencia del usuario.
 
-![Search interface preview web](/assets/images/chapter-iv/searching-system.png)
+![Search interface preview web](/assets/images/chapter-iv/style-guidelines/searching-system.png)
 
 ### 4.2.5. Navigation Systems.
 La navegación en la aplicación web será sencilla y minimalista, permitiendo a los usuarios acceder fácilmente a las diversas opciones disponibles.
@@ -78,7 +78,7 @@ Permite el movimiento vertical dentro de la página. Incluye una barra de navega
 **Local Navigation System**  
 Complementa al sistema global permitiendo el acceso a otras páginas dentro del sub-sitio.
 
-![Navigation interface preview web](/assets/images/chapter-iv/nav.png)
+![Navigation interface preview web](/assets/images/chapter-iv/style-guidelines/nav.png)
 
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
