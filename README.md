@@ -86,23 +86,14 @@ Ocupación: _____
 | ID  | Titulo | Importancia | Frecuencia   | Importancia | Frecuencia |
 | U01X| {Texto}| Alta        | Alta         | Media       | Baja       |
 ### 2.3.3. User Journey Mapping.
-**Registration:**
-Why would they trust us?
-- s
-- s
-- s
-  
-**Onboarding and first use:**
-How can they feel successful?
-- s
-- s
-- s  
-  
-**Sharing:**
-Why would they invite others?
-- s
-- s
-- s
+
+**Segmento 1**
+
+<img src="https://github.com/Dotvue/project-report/blob/c9d26ac59c9b1be625a4a33801fa477c2489bf8b/assests/user1-journey.png" />
+
+**Segmento 2**
+
+<img src="https://github.com/Dotvue/project-report/blob/c9d26ac59c9b1be625a4a33801fa477c2489bf8b/assests/user2%20-%20journey%20map.png" />
 
 ### 2.3.4. Empathy Mapping.
 **Segmento 1:**
