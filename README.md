@@ -85,33 +85,102 @@ Complementa al sistema global permitiendo el acceso a otras páginas dentro del 
 Link a los Wireframes de la Landing Page (Figma):  
 **https://shorturl.at/0RTW9**
 
+## 1. Hero and Features
+Sección principal captando la atención del usuario con una introducción a la aplicación brindando información  
+respecto a las características de uso.
+
 ![Landing page Wireframe](/assets/images/chapter-iv/landing%20page%20wireframe/wireframe1.png)
+
+## 2. Preview and Subscriptions
+Sección donde el usuario visualizará una vista previa respecto a cómo hacemos uso de la aplicación. Además de  
+ver los distintos planes que ofrecemos.
+
 ![Landing page Wireframe](/assets/images/chapter-iv/landing%20page%20wireframe/wireframe2.png)
+
+## 3. Testimonials and Contac Us
+Sección donde el usuario visualizará comentarios de clientes que ya usaron la aplicación y su satisfacción. También  
+con un formulario el cuál puede contactarnos para cualquier duda de interés.
+
 ![Landing page Wireframe](/assets/images/chapter-iv/landing%20page%20wireframe/wireframe3.png)
 
 ### 4.3.2. Landing Page Mock-up.
 Link a los Mock-up de la Landing Page (Figma):  
 **https://shorturl.at/0RTW9**
 
+## 1. Hero and Features
+Sección principal captando la atención del usuario con una introducción a la aplicación brindando información  
+respecto a las características de uso.  
+
 ![Landing page mockup](/assets/images/chapter-iv/landing%20page%20mock-up/mock-up1.png)
+
+## 2. Preview and Subscriptions
+Sección donde el usuario visualizará una vista previa respecto a cómo hacemos uso de la aplicación. Además de  
+ver los distintos planes que ofrecemos.  
+
 ![Landing page mockup](/assets/images/chapter-iv/landing%20page%20mock-up/mock-up2.png)
+
+## 3. Testimonials and Contac Us
+Sección donde el usuario visualizará comentarios de clientes que ya usaron la aplicación y su satisfacción. También  
+con un formulario el cuál puede contactarnos para cualquier duda de interés.
+
 ![Landing page mockup](/assets/images/chapter-iv/landing%20page%20mock-up/mock-up3.png)
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
-lo funcional de cada aspecto del wireframe 
-![Web Aplication Wireframe](image.jpg)
+Link a los Wireframes de la Web Application (Figma):  
+**https://shorturl.at/cEaJM**
+
+## Home
+![Web Application Wireframe Home](/assets/images/chapter-iv/ux-ui%20design%20wireframe/home.png)
+
+## Inventory
+![Web Application Wireframe Invetory](/assets/images/chapter-iv/ux-ui%20design%20wireframe/inventory.png)
+
+## Inventory Detail
+![Web Application Wireframe Invetory Detail](/assets/images/chapter-iv/ux-ui%20design%20wireframe/inventory-product-detail.png)
+
+## Order Machinery
+![Web Application Wireframe Order Machinery](/assets/images/chapter-iv/ux-ui%20design%20wireframe/order.png)
+
+## Order Machinery Detail
+![Web Application Wireframe Order Machinery Detail](/assets/images/chapter-iv/ux-ui%20design%20wireframe/order-detail.png)
+
+## Order Machinery Detail Requested
+![Web Application Wireframe Order Machinery Detail](/assets/images/chapter-iv/ux-ui%20design%20wireframe/order-requested.png)
+
+## Invoicing
+![Web Application Wireframe Invoicing](/assets/images/chapter-iv/ux-ui%20design%20wireframe/invoice.png)
+
+## Equipment Monitoring
+![Web Application Wireframe Equipment Monitoring](/assets/images/chapter-iv/ux-ui%20design%20wireframe/equipment-monitoring.png)
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
-Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
-![Web Aplication Wireflow](image.jpg)
+Link a los Wireframes de la Web Application (Figma):  
+**https://shorturl.at/w2yHe**
+
+Acceso al inventario y tiene interés de ver los detalles de algún producto inventariado.  
+![Web Aplication Wireflow Inventory](/assets/images/chapter-iv/wireflow-diagrams-wireframe/inventory.png)
+
+Acceso a ordenar alguna maquinaria, solicitarlos y ver detalle de solicitud.  
+![Web Aplication Wireflow Order Machinery](/assets/images/chapter-iv/wireflow-diagrams-wireframe/order-machinery.png)
+
+Acceso a las facturas.  
+![Web Aplication Wireflow Invoicing](/assets/images/chapter-iv/wireflow-diagrams-wireframe/invoice.png)
+
+Acceso al monitoreo de equipos.  
+![Web Aplication Wireflow Equipment Monitoring](/assets/images/chapter-iv/wireflow-diagrams-wireframe/equipment-monitoring.png)
+
 ### 4.4.2. Web Applications Mock-ups.
 Diseño en todo aspecto
 ![Web Aplication Mockup](image.jpg)
 ### 4.4.3. Web Applications User Flow Diagrams.
 un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]** 
 ![Web Aplication User Flow Diagram](image.jpg)
-## 4.5. Web Applications Prototyping.
-[URL del Prototipo (Hecho en figma)](https://www.example.com)
+## 4.5. Web Applications Prototyping.  
+Link Application Prototype (Figma): [URL del Prototipo Figma](https://shorturl.at/w2yHe)  
+
+![Web Aplication Prototype](/assets/images/chapter-iv/application-prototype/prototype.png)
+
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
 1. System Context Diagram: Diagrama que muestra la relacion del aplicativo con los usuarios
