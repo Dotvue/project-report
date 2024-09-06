@@ -75,7 +75,7 @@ Ocupación: _____
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 **Segmento 1:**  
-![Imagen User Persona 1](image.jpg)
+ <img src="https://github.com/Dotvue/project-report/blob/e3f43bb037c497ea564bb25e601dfb8b19a2e932/assests/Ricardo%20Salas-user.png" alt="User-Persona-1" />
 
 **Segmento 2:**
 ![Imagen User Persona 1](image.jpg)
