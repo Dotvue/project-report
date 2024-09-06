@@ -171,11 +171,50 @@ Acceso al monitoreo de equipos.
 ![Web Aplication Wireflow Equipment Monitoring](/assets/images/chapter-iv/wireflow-diagrams-wireframe/equipment-monitoring.png)
 
 ### 4.4.2. Web Applications Mock-ups.
-Diseño en todo aspecto
-![Web Aplication Mockup](image.jpg)
+Link al Web Application Mock-up (Figma):  
+**https://shorturl.at/VhlUS**
+
+## Home
+![Web Application Wireframe Home](/assets/images/chapter-iv/ux-ui%20design%20mock-up/home.png)
+
+## Inventory
+![Web Application Wireframe Invetory](/assets/images/chapter-iv/ux-ui%20design%20mock-up/inventory.png)
+
+## Inventory Detail
+![Web Application Wireframe Invetory Detail](/assets/images/chapter-iv/ux-ui%20design%20mock-up/inventory-product-detail.png)
+
+## Order Machinery
+![Web Application Wireframe Order Machinery](/assets/images/chapter-iv/ux-ui%20design%20mock-up/order-machine.png)
+
+## Order Machinery Detail
+![Web Application Wireframe Order Machinery Detail](/assets/images/chapter-iv/ux-ui%20design%20mock-up/order-machine-detail.png)
+
+## Order Machinery Detail Requested
+![Web Application Wireframe Order Machinery Detail](/assets/images/chapter-iv/ux-ui%20design%20mock-up/order-machine-requested.png)
+
+## Invoicing
+![Web Application Wireframe Invoicing](/assets/images/chapter-iv/ux-ui%20design%20mock-up/invoice.png)
+
+## Equipment Monitoring
+![Web Application Wireframe Equipment Monitoring](/assets/images/chapter-iv/ux-ui%20design%20mock-up/monitoring.png)
+
 ### 4.4.3. Web Applications User Flow Diagrams.
-un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]** 
-![Web Aplication User Flow Diagram](image.jpg)
+Link a los Wireframes de la Web Application (Figma):  
+**https://shorturl.at/w2yHe**
+
+Acceso al inventario y tiene interés de ver los detalles de algún producto inventariado.  
+![Web Aplication Wireflow Inventory](/assets/images/chapter-iv/wireflow-diagrams-mockup/inventory.png)
+
+Acceso a ordenar alguna maquinaria, solicitarlos y ver detalle de solicitud.  
+![Web Aplication Wireflow Order Machinery](/assets/images/chapter-iv/wireflow-diagrams-mockup/order-machinery.png)
+
+Acceso a las facturas.  
+![Web Aplication Wireflow Invoicing](/assets/images/chapter-iv/wireflow-diagrams-mockup/invoice.png)
+
+Acceso al monitoreo de equipos.  
+![Web Aplication Wireflow Equipment Monitoring](/assets/images/chapter-iv/wireflow-diagrams-mockup/equipment-monitoring.png)
+
+
 ## 4.5. Web Applications Prototyping.  
 Link Application Prototype (Figma): [URL del Prototipo Figma](https://shorturl.at/w2yHe)  
 
