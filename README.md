@@ -200,7 +200,7 @@ Link al Web Application Mock-up (Figma):
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 Link a los Wireframes de la Web Application (Figma):  
-**https://shorturl.at/w2yHe**
+**https://shorturl.at/LLkEt**
 
 Acceso al inventario y tiene interés de ver los detalles de algún producto inventariado.  
 ![Web Aplication Wireflow Inventory](/assets/images/chapter-iv/wireflow-diagrams-mockup/inventory.png)
