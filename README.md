@@ -16,10 +16,52 @@ Desarrollar aplicaciones web de alta calidad utilizando tecnologías Open Source
 
 #### 1.1.2. Perfiles de integrantes del equipo
 
-|Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
-|-|-|-|-|
-|Daniel Mateo del Castillo Bueno|U202211212|Ingenieria de software|C++, Angular, Java, Python, SQL|
-|Pedro Andre Guía Carrasco| U20221201| Ingenieria de Software| Java, Python, SQL, HTML|
+<table border="1">
+  <tr>
+    <th></th>
+    <th>Nombre y Apellido</th>
+    <th>Carrera</th>
+    <th>Acerca de</th>
+    <th>Habilidades</th>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Gonzalo Andre Zavala Quedena</td>
+    <td>Ingeniería de Software</td>
+    <td>Soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), con una gran pasión por la tecnología y un fuerte compromiso con el aprendizaje continuo. Estoy enfocado en seguir desarrollándome profesionalmente, adquiriendo conocimientos y habilidades que me permitan enfrentar nuevos desafíos en el mundo del desarrollo de software.</td>
+    <td><ul><li>Python</li><li>C++</li><li>C#</li><li>Angular</li><li>HTML</li><li>CSS</li><li>JavaScript</li><li>SQL Server</li></ul></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Daniel Mateo del Castillo Bueno</td>
+    <td>Ingeniería de Software</td>
+    <td>Descripción</td>
+    <td><ul><li>Java</li><li>C++</li><li>Angular</li><li>Python</li><li>SQL</li></ul></td>
+  </tr>
+    <tr>
+    <td></td>
+    <td>Pedro Andre Guía Carrasco</td>
+    <td>Ingeniería de Software</td>
+    <td>Descripción</td>
+    <td><ul><li>Java</li><li>Python</li><li>SQL</li><li>HTML</li></ul></td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td>---</td>
+    <td>Ingeniería de Software</td>
+    <td>Descripción</td>
+    <td><ul><li>Habilidad-1</li><li>Habilidad-2</li></ul></td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td>---</td>
+    <td>Ingeniería de Software</td>
+    <td>Descripción</td>
+    <td><ul><li>Habilidad-1</li><li>Habilidad-2</li></ul></td>
+  </tr>
+</table>
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
