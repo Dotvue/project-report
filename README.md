@@ -25,7 +25,7 @@ Desarrollar aplicaciones web de alta calidad utilizando tecnologías Open Source
     <th>Habilidades</th>
   </tr>
   <tr>
-    <td> </td>
+    <td><img src="./assets/chapterI/team-photos/profile-photo.png"/></td>
     <td>Gonzalo Andre Zavala Quedena</td>
     <td>Ingeniería de Software</td>
     <td>Soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), con una gran pasión por la tecnología y un fuerte compromiso con el aprendizaje continuo. Estoy enfocado en seguir desarrollándome profesionalmente, adquiriendo conocimientos y habilidades que me permitan enfrentar nuevos desafíos en el mundo del desarrollo de software.</td>
