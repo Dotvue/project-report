@@ -103,25 +103,16 @@ Ocupación: _____
 <img src="assests/Segmento 2 Empathy Map.png" style="width:300%">
 ### 2.3.5. As-is Scenario Mapping.
 
-**Segmento 1**  
-Escenario: {escenario}
+**Segmento 1: Productora de maquinaria pesquera**  
+Escenario: Proceso de fabricación de maquinaria
 
-As Is:
-| Fases| Fase 1 | Fase 2| Fase 3| Fase 4|
-| -------- | --------- | --------- | ------- | --------- |
-| Doing | texto| texto | texto| texto|
-| Thinking | texto| texto | texto| texto|
-| Feeling  | texto| texto | texto| texto|
+<img src="https://github.com/Dotvue/project-report/blob/a0e77000b9abf804870c38b3240b144818e27fbc/assests/as-is%20maquinaria.jpg" />
 
-**Segmento 2**  
-Escenario: Dificultad para entender Matemáticas
+**Segmento 2: Empresa pesquera**  
+Escenario: Pedido de maquinaria pesquera
 
-As Is:
-| Fases| Fase 1 | Fase 2| Fase 3| Fase 4|
-| -------- | --------- | --------- | ------- | --------- |
-| Doing | texto| texto | texto| texto|
-| Thinking | texto| texto | texto| texto|
-| Feeling  | texto| texto | texto| texto|
+<img src="https://github.com/Dotvue/project-report/blob/a0e77000b9abf804870c38b3240b144818e27fbc/assests/as-is%20pesquero.jpg" />
+
 ## 2.4. Ubiquitous Language.
 ```
 Texto ubiquo: Definicion de este
