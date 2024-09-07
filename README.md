@@ -34,14 +34,23 @@
 # Registro de Versiones del Informe
 <center>
 
+# Registro de Versiones del Informe  
+
 | Version | Fecha | Autor | Descripcion de Modificacion |
 | ----------- | ----------- | ----------- | ----------- |
-| 0.0 | 19/03/2024 |Grupo 1 |Se crea el documento |  
+| 0.0.1 | 17/09/2024 | Daniel Mateo del Castillo Bueno | Desarrollo Capítulo (1) APARTADO<br>1.1 - 1.2 - 1.3 |
+| 0.0.2 | 21/09/2024 | --- | Desarrollo Capítulo (2) APARTADO<br>2.1 - 2.2 - 2.3|
+| 0.0.3 | 24/09/2024 | --- | Desarrollo Capítulo (3)  APARTADO<br>3.1 - 3.2 - 3.3 - 3.4 |
+| 0.0.4 | 26/09/2024 | Gonzalo Quedena | Desarrollo Capítulo (4) APARTADO<br>4.1 - 4.2 - 4.3 - 4.4 - 4.5 - 4.6 - 4.7 - 4.8 |
+| 0.0.5 | 26/09/2024 | Sebastián Aiquipa | Desarrollo Capítulo (4) APARTADO<br>4.6 - 4.7 - 4.8 | 
+| 0.0.6 | 28/09/2024 | --- | Desarrollo Capítulo (5) APARTADO<br>5.1 - 5.2<br>Conclusiones, Anexos, Bibliografía. |
 
 </center>
 
 # Project Report Collaboration Insights
-[URL del repositorio](https://www.example.com)
+Link de reporte: [GitHub Startup report](https://github.com/Dotvue/project-report)  
+Link de landing page: [Startup landing page](https://landing.com)  
+Link de organización: [GitHub Dotvue organization](https://github.com/orgs/Dotvue/repositories)  
 
 (Imagenes de los commits cada entrega)
 
@@ -49,12 +58,9 @@
 # Contenido
 
 
-
-[Registro de Versiones del Informe](#registro-de-versiones-del-informe)
-
-[Project Report Collaboration Insights](#project-report-collaboration-insights)
-
-[Student Outcome](#student-outcome)
+[Registro de Versiones del Informe](#registro-de-versiones-del-informe)  
+[Project Report Collaboration Insights](#project-report-collaboration-insights)  
+[Student Outcome](#student-outcome)  
 
 [Capítulo I: Introducción](#capítulo-i-introducción)
 
@@ -169,10 +175,33 @@
 [Anexos](#anexos)  
 
 # Student Outcome
-|Criterio Especifico|Acciones Realizadas|Conclusiones|
-|-|-|-|
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|Compañero1:<br> *TB1:*  Su texto *TB2:* texto etc.. |Su texto de conclusion|
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Compañero1:<br> *TB1:*  Su texto<br> *TB2:* texto etc.. |Su texto de conclusion|
+El curso contribuye al cumplimiento del **Student Outcome ABET:ABET – EAC - Student Outcome 5** Criterio: La capacidad de funcionar efectivamente en un  
+equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
+
+<table border="1">
+  <tr>
+    <th>Criterio Especifico</th>
+    <th>Acciones Realizadas</th>
+    <th>Conclusiones</th>
+  </tr>
+
+  <tr>
+    <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
+    <td>
+    <b>Gonzalo Quedena</b></br>Todo el equipo asumió roles de liderazgo de manera colaborativa, lo que permitió una distribución equitativa de las responsabilidades. Juntos, establecimos metas claras, planificamos las tareas y mantuvimos una comunicación fluida para asegurar el progreso constante. Además, la colaboración conjunta en áreas clave, como el desarrollo de la landing page, fomentó un entorno inclusivo donde se valoraron las contribuciones de todos los miembros. Este enfoque de liderazgo compartido y trabajo coordinado garantizó tanto la calidad como la eficiencia en cada fase del proyecto.</br><b>Daniel del Castillo</b></br>Outcome description</br><b>Pedro Carrasco</b></br>Outcome description</br><b>Sebastian Aiquipa</b></br>Outcome description</br>
+    </td>
+    <td>Su texto de conclusion</td>
+  </tr>
+
+  <tr>
+    <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
+    <td>
+    <b>Gonzalo Quedena</b></br>Para esta entrega, fomentamos un entorno colaborativo e inclusivo al involucrar activamente a todos los miembros del equipo en el análisis de las necesidades, utilizando entrevistas detalladas como base. Juntos, establecimos metas claras para asegurar un diseño UX/UI que garantizara una experiencia óptima para todos los usuarios. La planificación de tareas se llevó a cabo de manera organizada, permitiendo realizar un análisis exhaustivo de la competencia y cumplir con los objetivos del proyecto, identificando oportunidades clave en la optimización de las actividades.</br><b>Daniel del Castillo</b></br>Outcome description</br><b>Pedro Carrasco</b></br>Outcomedescription</br><b>Sebastian Aiquipa</b></br>Outcome description</br>
+    </td>
+    <td>Su texto de conclusion</td>
+  </tr>
+</table>  
+
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
