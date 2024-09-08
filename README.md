@@ -24,10 +24,9 @@
 |----------------------------------|------------|
 | Daniel del Castillo  | U202211212 |
 | Gonzalo Andre Zavala Quedena | U202113656  |
-|       |  |
-|  |  |
-|              |  |
-|          |  |
+| Pedro Andre Guia Carrasco      |  |
+| Sebastián Aiquipa |  |
+| Omar Berrocal Ramirez |  |
 
 <br> AGOSTO 2024
 </center>  
