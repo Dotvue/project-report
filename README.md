@@ -1765,8 +1765,18 @@ Para el despliegue de nuestra Landing Page hemos utilizado GitHub Pages. Para ha
 
 ![GitHub-Pages](./assets/images/chapter-V/github-pages.png)
 
-#### 5.2.X.8. Team Collaboration Insights during Sprint.
-![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
  
+La meta de este sprint fue la implementación de la Landing Page. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Visual Studio Code, HTML, CSS y JavaScript. Como evidencias del trabajo realizado tenemos los diagramas de flujo que representan los commits realizados por cada miembro del equipo Dotvue.
+
+![Commits-landing](./assets/images/chapter-V/commits-landing.png)
+La imagen muestra un gráfico de barras donde se refleja la cantidad de commits hechos por cada miembro del equipo en la Landing Page.
+
+![Contribuitors-landing](./assets/images/chapter-V/contribuitors-landing.png)
+En esta imagen se refleja la el nivel de modificaciones realizadas por los commits de cada integrante en la Landing Page.
+
+![Network-landing](./assets/images/chapter-V/Network-landing.png)
+En la imagen se puede apreciar las ramas feature creadas para el repositorio y las fechas en que se unieron.
+
 ## 5.4. Video About-the-Product.
 [URL del video about the product](https://www.example.com)
