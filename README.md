@@ -186,7 +186,7 @@ equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colabor
   <tr>
     <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
     <td>
-    <b>Gonzalo Quedena</b></br>TB1:<br>Todo el equipo asumió roles de liderazgo de manera colaborativa, lo que permitió una distribución equitativa de las responsabilidades. Juntos, establecimos metas claras, planificamos las tareas y mantuvimos una comunicación fluida para asegurar el progreso constante. Además, la colaboración conjunta en áreas clave, como el desarrollo de la landing page, fomentó un entorno inclusivo donde se valoraron las contribuciones de todos los miembros. Este enfoque de liderazgo compartido y trabajo coordinado garantizó tanto la calidad como la eficiencia en cada fase del proyecto.</br><b>TB1:<br>Daniel del Castillo</b></br>Durante todo el proceso de esta entrega, pude encaminar un poco mejor las ideas de mis compañeros utilizando mi conocimiento del dominio de modo que todos pudimos desarrollar mutuamente las ideas propuestas</br><b>Pedro Guia Carrasco</b></br>TB1:<br>Outcome description</br><b>Sebastian Aiquipa</b></br>TB1:<br>Outcome description</br>
+    <b>Gonzalo Quedena</b></br>TB1:<br>Todo el equipo asumió roles de liderazgo de manera colaborativa, lo que permitió una distribución equitativa de las responsabilidades. Juntos, establecimos metas claras, planificamos las tareas y mantuvimos una comunicación fluida para asegurar el progreso constante. Además, la colaboración conjunta en áreas clave, como el desarrollo de la landing page, fomentó un entorno inclusivo donde se valoraron las contribuciones de todos los miembros. Este enfoque de liderazgo compartido y trabajo coordinado garantizó tanto la calidad como la eficiencia en cada fase del proyecto.</br><b>TB1:<br>Daniel del Castillo</b></br>Durante todo el proceso de esta entrega, pude encaminar un poco mejor las ideas de mis compañeros utilizando mi conocimiento del dominio de modo que todos pudimos desarrollar mutuamente las ideas propuestas</br><b>Pedro Guia Carrasco</b></br>TB1:<br>En proceso de desarrollo del proyecto, pude notar el compromiso del equipo en las tareas asignadas al inicio del trabajo. Gracias a eso pude exigirme en cumplir todo a su tiempo.</br><b>Sebastian Aiquipa</b></br>TB1:<br>Outcome description</br>
     </td>
     <td>TB1:<br>El equipo mostró una dinámica de trabajo colaborativa y efectiva, donde cada miembro asumió roles de liderazgo de manera equitativa. Esto facilitó una distribución justa de responsabilidades, lo que permitió establecer objetivos claros y una planificación eficiente de las tareas. La comunicación constante y la colaboración en áreas clave, como el desarrollo de la landing page, promovió un ambiente inclusivo, donde cada contribución fue valorada.</td>
   </tr>
@@ -490,7 +490,8 @@ Aspectos geográficos:
 
 Aspectos psicologicos:
  - Objetivo: Obtener maquinaria más rápido 
- - Valores: Eficiencia, Trabajo en equipo, Puntualidad
+ - Valores: Eficiencia, Trabajo en equipo Puntualidad
+
 |Competidores |  | AquaEngine | Siemens | SAP|
 |-|-|-|-|-|
 | Análisis SWOT | Fortalezas | Integración de procesos Optimización del inventario, Monitoreo continuo | Diversificación, Innovación, Fuerte Marca y Reputación | Lider en el mercado, Amplia Gama de Productos, Innovación Continua, Integración de Soluciones |
@@ -526,17 +527,55 @@ Aspectos psicologicos:
 
 ### 2.2.2. Registro de entrevistas.
 
+**Entrevista 1**
+Nombre: Gabriela Bueno
+Edad: 23 años 
+Ocupación: Estudiante  
+![Imagen de entrevista](./assets/chapter-II/Entrevista-Gabriela.jpg)  
+Url: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211212_upc_edu_pe/EZwrIjs6eCpGoXGtIJDmEhoBF9R8IPjJyn-Pjs6LYvVhmw?e=Se64nT
+
+Aceptación de Pedidos e Inventario: Los clientes hacen pedidos basados en el catálogo de la empresa. La empresa se encarga de la entrega, instalación y mantenimiento de las máquinas centrifugas, por ejemplo.
+
+Precisión del Inventario: El inventario de componentes está bastante actualizado.
+
+Monitoreo de Equipos: Las revisiones y mantenimientos se realizan durante la temporada baja (p.ej., de noviembre a enero), cuando las máquinas no están en uso.
+
+Facturación: La empresa gestiona la facturación de manera eficiente, procesando los pedidos en el momento que el cliente lo solicita.
+
+Mejoras en Gestión de Producción: Sugiere actualizar el sistema actual (en Excel) a una base de datos con imágenes de los componentes y otras mejoras.
+
+Problemas en el Inventario: No se especificaron problemas graves, pero se mencionó la necesidad de mejorar la gestión actual.
+
+Características Personales y Tecnología: Utiliza navegadores web, Chrome, Safari. Se considera una persona introvertida, aunque extrovertida en el trabajo.
+
+
+
+**Entrevista 2**
+
+Nombre: Miguel del Castillo
+Edad: 57 años 
+Ocupación: Empresario 
+![Imagen de entrevista](./assets/chapter-II/Entrevista-miguel.png)  
+Url: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211212_upc_edu_pe/EfsS8gIoxNRAnKKAcgRXfAgBT7SKASxxGqWHldWJSMPrQQ?e=n7SgSb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
+Procesos y Gestión:
+
+Aceptación de Pedidos: Los clientes hacen pedidos basados en sus requerimientos. La empresa visita la planta del cliente para verificar necesidades y desarrolla proyectos con equipos específicos. Luego, se procede con la parte administrativa como la orden de compra y el adelanto.
+
+Inventario de Componentes: Utilizan un sistema de inventario actualizado para gestionar productos, instrumentos y repuestos. El inventario está permanentemente actualizado.
+
+Monitoreo de Equipos: Durante la temporada de veda, realizan recorridos para registrar los requerimientos de las empresas pesqueras y luego presentan propuestas.
+
+Facturación: El proceso es digital y manejado por un departamento de contabilidad. Anteriormente era manual, pero ahora se realiza de manera digital según las normativas.
+
+Necesidades de la Plataforma: Buscan diversificar sus productos hacia sectores agrícolas, mineros y generales. Han tenido problemas con el software de gestión de inventario que ha requerido renovación para ser más efectivo.
+
+Características Personales y Tecnología: Miguel se considera introvertido pero extrovertido en el trabajo. Utiliza Google Chrome y trabaja con computadora portátil, fija y celular.
+
+
 **Entrevistas usuario segmento 2**
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?  
-   
-**Entrevistas usuario segmento 2**
-1. ¿Lorem? 
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem? 
+1. 
 
 ### 2.2.3. Análisis de entrevistas.
 **Segmento 1:**
@@ -546,10 +585,10 @@ Aspectos psicologicos:
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 **Segmento 1:**  
-![Imagen User Persona 1](image.jpg)
+<img src="assests/Ricardo Salas-user.png">
 
 **Segmento 2:**
-![Imagen User Persona 1](image.jpg)
+<img src="assests/Carlos Martinez-userpesque.png">
 
 ### 2.3.2. User Task Matrix.
 | --- | ------ | Segmento 1  | ------/----- | Segmento 2  | ---------- |
@@ -566,10 +605,10 @@ Aspectos psicologicos:
 
 ### 2.3.4. Empathy Mapping.
 **Segmento 1:**
-![Empathy Map Segmento1](assests/Segmento%201%20Empathy%20Map.png)
+<img src="assests/Segmento 1 Empathy Map.png">
 
 **Segmento 2:**
-![Empathy Map Segmento1](assests/Segmento%202%20Empathy%20Map.png)
+<img src="assests/Segmento 2 Empathy Map.png">
 ### 2.3.5. As-is Scenario Mapping.
 
 **Segmento 1**  
