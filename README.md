@@ -534,6 +534,21 @@ Ocupación: Estudiante
 ![Imagen de entrevista](./assets/chapter-II/Entrevista-Gabriela.jpg)  
 Url: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211212_upc_edu_pe/EZwrIjs6eCpGoXGtIJDmEhoBF9R8IPjJyn-Pjs6LYvVhmw?e=Se64nT
 
+Aceptación de Pedidos e Inventario: Los clientes hacen pedidos basados en el catálogo de la empresa. La empresa se encarga de la entrega, instalación y mantenimiento de las máquinas centrifugas, por ejemplo.
+
+Precisión del Inventario: El inventario de componentes está bastante actualizado.
+
+Monitoreo de Equipos: Las revisiones y mantenimientos se realizan durante la temporada baja (p.ej., de noviembre a enero), cuando las máquinas no están en uso.
+
+Facturación: La empresa gestiona la facturación de manera eficiente, procesando los pedidos en el momento que el cliente lo solicita.
+
+Mejoras en Gestión de Producción: Sugiere actualizar el sistema actual (en Excel) a una base de datos con imágenes de los componentes y otras mejoras.
+
+Problemas en el Inventario: No se especificaron problemas graves, pero se mencionó la necesidad de mejorar la gestión actual.
+
+Características Personales y Tecnología: Utiliza navegadores web, Chrome, Safari. Se considera una persona introvertida, aunque extrovertida en el trabajo.
+
+
 
 **Entrevista 2**
 
@@ -542,21 +557,25 @@ Edad: 57 años
 Ocupación: Empresario 
 ![Imagen de entrevista](./assets/chapter-II/Entrevista-miguel.png)  
 Url: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211212_upc_edu_pe/EfsS8gIoxNRAnKKAcgRXfAgBT7SKASxxGqWHldWJSMPrQQ?e=n7SgSb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-{texto mucho}
 
+
+Procesos y Gestión:
+
+Aceptación de Pedidos: Los clientes hacen pedidos basados en sus requerimientos. La empresa visita la planta del cliente para verificar necesidades y desarrolla proyectos con equipos específicos. Luego, se procede con la parte administrativa como la orden de compra y el adelanto.
+
+Inventario de Componentes: Utilizan un sistema de inventario actualizado para gestionar productos, instrumentos y repuestos. El inventario está permanentemente actualizado.
+
+Monitoreo de Equipos: Durante la temporada de veda, realizan recorridos para registrar los requerimientos de las empresas pesqueras y luego presentan propuestas.
+
+Facturación: El proceso es digital y manejado por un departamento de contabilidad. Anteriormente era manual, pero ahora se realiza de manera digital según las normativas.
+
+Necesidades de la Plataforma: Buscan diversificar sus productos hacia sectores agrícolas, mineros y generales. Han tenido problemas con el software de gestión de inventario que ha requerido renovación para ser más efectivo.
+
+Características Personales y Tecnología: Miguel se considera introvertido pero extrovertido en el trabajo. Utiliza Google Chrome y trabaja con computadora portátil, fija y celular.
 
 
 **Entrevistas usuario segmento 2**
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?  
-   
-**Entrevistas usuario segmento 2**
-1. ¿Lorem? 
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem? 
+1. 
 
 ### 2.2.3. Análisis de entrevistas.
 **Segmento 1:**
