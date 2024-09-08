@@ -321,23 +321,11 @@ Ocupación: _____
 | ID  | Titulo | Importancia | Frecuencia   | Importancia | Frecuencia |
 | U01X| {Texto}| Alta        | Alta         | Media       | Baja       |
 ### 2.3.3. User Journey Mapping.
-**Registration:**
-Why would they trust us?
-- s
-- s
-- s
-  
-**Onboarding and first use:**
-How can they feel successful?
-- s
-- s
-- s  
-  
-**Sharing:**
-Why would they invite others?
-- s
-- s
-- s
+**Segmento 1**
+<img src="assests/user1-journey.png">
+
+**Segmento 2**
+<img src="assests/user2 - journey map.png">
 
 ### 2.3.4. Empathy Mapping.
 **Segmento 1:**
@@ -348,24 +336,11 @@ Why would they invite others?
 ### 2.3.5. As-is Scenario Mapping.
 
 **Segmento 1**  
-Escenario: {escenario}
-
-As Is:
-| Fases| Fase 1 | Fase 2| Fase 3| Fase 4|
-| -------- | --------- | --------- | ------- | --------- |
-| Doing | texto| texto | texto| texto|
-| Thinking | texto| texto | texto| texto|
-| Feeling  | texto| texto | texto| texto|
+<img src="assests/as-is maquinaria.jpg">
 
 **Segmento 2**  
-Escenario: Dificultad para entender Matemáticas
+<img src="assests/as-is pesquero.jpg">
 
-As Is:
-| Fases| Fase 1 | Fase 2| Fase 3| Fase 4|
-| -------- | --------- | --------- | ------- | --------- |
-| Doing | texto| texto | texto| texto|
-| Thinking | texto| texto | texto| texto|
-| Feeling  | texto| texto | texto| texto|
 ## 2.4. Ubiquitous Language.
 ```
 Texto ubiquo: Definicion de este
