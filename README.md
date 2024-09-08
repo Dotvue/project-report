@@ -527,6 +527,25 @@ Aspectos psicologicos:
 
 ### 2.2.2. Registro de entrevistas.
 
+**Entrevista 1**
+Nombre: Gabriela Bueno
+Edad: 23 años 
+Ocupación: Estudiante  
+![Imagen de entrevista](./assets/chapter-II/Entrevista-Gabriela.jpg)  
+Url: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211212_upc_edu_pe/EZwrIjs6eCpGoXGtIJDmEhoBF9R8IPjJyn-Pjs6LYvVhmw?e=Se64nT
+
+
+**Entrevista 2**
+
+Nombre: Miguel del Castillo
+Edad: 57 años 
+Ocupación: Empresario 
+![Imagen de entrevista](./assets/chapter-II/Entrevista-miguel.png)  
+Url: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211212_upc_edu_pe/EfsS8gIoxNRAnKKAcgRXfAgBT7SKASxxGqWHldWJSMPrQQ?e=n7SgSb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+{texto mucho}
+
+
+
 **Entrevistas usuario segmento 2**
 1. ¿Lorem?
 2. ¿Lorem?
