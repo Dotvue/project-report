@@ -21,7 +21,7 @@
 
 | Member                           | Code       |
 |----------------------------------|------------|
-|   |  |
+| Daniel del Castillo  | U202211212 |
 |        |  |
 |       |  |
 |  |  |
@@ -188,15 +188,15 @@ equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colabor
   <tr>
     <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
     <td>
-    <b>Gonzalo Quedena</b></br>Todo el equipo asumió roles de liderazgo de manera colaborativa, lo que permitió una distribución equitativa de las responsabilidades. Juntos, establecimos metas claras, planificamos las tareas y mantuvimos una comunicación fluida para asegurar el progreso constante. Además, la colaboración conjunta en áreas clave, como el desarrollo de la landing page, fomentó un entorno inclusivo donde se valoraron las contribuciones de todos los miembros. Este enfoque de liderazgo compartido y trabajo coordinado garantizó tanto la calidad como la eficiencia en cada fase del proyecto.</br><b>Daniel del Castillo</b></br>Outcome description</br><b>Pedro Guia Carrasco</b></br>Outcome description</br><b>Sebastian Aiquipa</b></br>Outcome description</br>
+    <b>Gonzalo Quedena</b></br>Todo el equipo asumió roles de liderazgo de manera colaborativa, lo que permitió una distribución equitativa de las responsabilidades. Juntos, establecimos metas claras, planificamos las tareas y mantuvimos una comunicación fluida para asegurar el progreso constante. Además, la colaboración conjunta en áreas clave, como el desarrollo de la landing page, fomentó un entorno inclusivo donde se valoraron las contribuciones de todos los miembros. Este enfoque de liderazgo compartido y trabajo coordinado garantizó tanto la calidad como la eficiencia en cada fase del proyecto.</br><b>Daniel del Castillo</b></br>Durante todo el proceso de esta entrega, pude encaminar un poco mejor las ideas de mis compañeros utilizando mi conocimiento del dominio de modo que todos pudimos desarrollar mutuamente las ideas propuestas</br><b>Pedro Guia Carrasco</b></br>Outcome description</br><b>Sebastian Aiquipa</b></br>Outcome description</br>
     </td>
-    <td>Su texto de conclusion</td>
+    <td>El equipo mostró una dinámica de trabajo colaborativa y efectiva, donde cada miembro asumió roles de liderazgo de manera equitativa. Esto facilitó una distribución justa de responsabilidades, lo que permitió establecer objetivos claros y una planificación eficiente de las tareas. La comunicación constante y la colaboración en áreas clave, como el desarrollo de la landing page, promovió un ambiente inclusivo, donde cada contribución fue valorada.</td>
   </tr>
 
   <tr>
     <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
     <td>
-    <b>Gonzalo Quedena</b></br>Para esta entrega, fomentamos un entorno colaborativo e inclusivo al involucrar activamente a todos los miembros del equipo en el análisis de las necesidades, utilizando entrevistas detalladas como base. Juntos, establecimos metas claras para asegurar un diseño UX/UI que garantizara una experiencia óptima para todos los usuarios. La planificación de tareas se llevó a cabo de manera organizada, permitiendo realizar un análisis exhaustivo de la competencia y cumplir con los objetivos del proyecto, identificando oportunidades clave en la optimización de las actividades.</br><b>Daniel del Castillo</b></br>Outcome description</br><b>Pedro Guia Carrasco</b></br>Para esta entrega, fomentamos el trabajo en equipo que se requiere para esta ocasión. Analizamos las herramientas a utilizar para el desarrollo del producto y tuvimos cuidado en entender lo que requiere el usuario. Cumplimos los objetivos de la lista de tareas que tiene cada integrante del grupo y no tuvimos problema en entregar a tiempo nuestra parte del reporte.</br><b>Sebastian Aiquipa</b></br>Outcome description</br>
+    <b>Gonzalo Quedena</b></br>Para esta entrega, fomentamos un entorno colaborativo e inclusivo al involucrar activamente a todos los miembros del equipo en el análisis de las necesidades, utilizando entrevistas detalladas como base. Juntos, establecimos metas claras para asegurar un diseño UX/UI que garantizara una experiencia óptima para todos los usuarios. La planificación de tareas se llevó a cabo de manera organizada, permitiendo realizar un análisis exhaustivo de la competencia y cumplir con los objetivos del proyecto, identificando oportunidades clave en la optimización de las actividades.</br><b>Daniel del Castillo</b></br>Duante esta entrega, fomentamos el ambiente colaborativo y establecimos metas. Nuestro lider desarrolló un trello para seguir adecuadamente las partes que estaban en proceso y nosotros tuvimos que cumplir con dichas tareas en un tiempo determinado</br><b>Pedro Guia Carrasco</b></br>Para esta entrega, fomentamos el trabajo en equipo que se requiere para esta ocasión. Analizamos las herramientas a utilizar para el desarrollo del producto y tuvimos cuidado en entender lo que requiere el usuario. Cumplimos los objetivos de la lista de tareas que tiene cada integrante del grupo y no tuvimos problema en entregar a tiempo nuestra parte del reporte.</br><b>Sebastian Aiquipa</b></br>Outcome description</br>
     </td>
     <td>Su texto de conclusion</td>
   </tr>
@@ -236,10 +236,10 @@ Desarrollar aplicaciones web de alta calidad utilizando tecnologías Open Source
     <td><ul><li>Python</li><li>C++</li><li>C#</li><li>Angular</li><li>HTML</li><li>CSS</li><li>JavaScript</li><li>SQL Server</li></ul></td>
   </tr>
   <tr>
-    <td></td>
+    <td><img src="./assets/chapterI/team-photos/Foto-u202211212.png" width=250px/></td>
     <td>Daniel Mateo del Castillo Bueno</td>
     <td>Ingeniería de Software</td>
-    <td>Descripción</td>
+    <td>Soy estudiante de la carrera de Ingeniería de Software de la Universidad Peruana de Ciencias aplicadas. Soy una persona muy curiosa, me gusta experimentar mucho lo cual me lleva a aprender sobre tecnología y software lo que me emociona.</td>
     <td><ul><li>Java</li><li>C++</li><li>Angular</li><li>Python</li><li>SQL</li></ul></td>
   </tr>
     <tr>
