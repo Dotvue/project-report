@@ -23,9 +23,9 @@
 |----------------------------------|------------|
 | Daniel del Castillo  | U202211212 |
 | Gonzalo Andre Zavala Quedena | U202113656  |
-| Pedro Andre Guia Carrasco      |  |
-| Sebastián Aiquipa |  |
-| Omar Berrocal Ramirez |  |
+| Pedro Andre Guia Carrasco      | U202212010 |
+| Sebastián Aiquipa | U201916755 |
+| Omar Berrocal Ramirez | U20201b529 |
 
 <br> AGOSTO 2024
 </center>  
@@ -186,7 +186,7 @@ equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colabor
   <tr>
     <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
     <td>
-    <b>Gonzalo Quedena</b></br>TB1:<br>Todo el equipo asumió roles de liderazgo de manera colaborativa, lo que permitió una distribución equitativa de las responsabilidades. Juntos, establecimos metas claras, planificamos las tareas y mantuvimos una comunicación fluida para asegurar el progreso constante. Además, la colaboración conjunta en áreas clave, como el desarrollo de la landing page, fomentó un entorno inclusivo donde se valoraron las contribuciones de todos los miembros. Este enfoque de liderazgo compartido y trabajo coordinado garantizó tanto la calidad como la eficiencia en cada fase del proyecto.</br><b>TB1:<br>Daniel del Castillo</b></br>Durante todo el proceso de esta entrega, pude encaminar un poco mejor las ideas de mis compañeros utilizando mi conocimiento del dominio de modo que todos pudimos desarrollar mutuamente las ideas propuestas</br><b>Pedro Guia Carrasco</b></br>TB1:<br>En proceso de desarrollo del proyecto, pude notar el compromiso del equipo en las tareas asignadas al inicio del trabajo. Gracias a eso pude exigirme en cumplir todo a su tiempo.</br><b>Sebastian Aiquipa</b></br>TB1:<br>Outcome description</br>
+    <b>Gonzalo Quedena</b></br>TB1:<br>Todo el equipo asumió roles de liderazgo de manera colaborativa, lo que permitió una distribución equitativa de las responsabilidades. Juntos, establecimos metas claras, planificamos las tareas y mantuvimos una comunicación fluida para asegurar el progreso constante. Además, la colaboración conjunta en áreas clave, como el desarrollo de la landing page, fomentó un entorno inclusivo donde se valoraron las contribuciones de todos los miembros. Este enfoque de liderazgo compartido y trabajo coordinado garantizó tanto la calidad como la eficiencia en cada fase del proyecto.</br><b>TB1:<br>Daniel del Castillo</b></br>Durante todo el proceso de esta entrega, pude encaminar un poco mejor las ideas de mis compañeros utilizando mi conocimiento del dominio de modo que todos pudimos desarrollar mutuamente las ideas propuestas</br><b>Pedro Guia Carrasco</b></br>TB1:<br>En proceso de desarrollo del proyecto, pude notar el compromiso del equipo en las tareas asignadas al inicio del trabajo. Gracias a eso pude exigirme en cumplir todo a su tiempo.</br><b>Sebastian Aiquipa</b></br>TB1:<br>El equipo trabajó de manera colaborativa para el desarrollo del proyecto. Planteamos nuestros objetivos y especificaciones, para definir los roles y herramientas a usar.</br>
     </td>
     <td>TB1:<br>El equipo mostró una dinámica de trabajo colaborativa y efectiva, donde cada miembro asumió roles de liderazgo de manera equitativa. Esto facilitó una distribución justa de responsabilidades, lo que permitió establecer objetivos claros y una planificación eficiente de las tareas. La comunicación constante y la colaboración en áreas clave, como el desarrollo de la landing page, promovió un ambiente inclusivo, donde cada contribución fue valorada.</td>
   </tr>
@@ -194,7 +194,7 @@ equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colabor
   <tr>
     <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
     <td>
-    <b>Gonzalo Quedena</b></br>TB1:<br>Para esta entrega, fomentamos un entorno colaborativo e inclusivo al involucrar activamente a todos los miembros del equipo en el análisis de las necesidades, utilizando entrevistas detalladas como base. Juntos, establecimos metas claras para asegurar un diseño UX/UI que garantizara una experiencia óptima para todos los usuarios. La planificación de tareas se llevó a cabo de manera organizada, permitiendo realizar un análisis exhaustivo de la competencia y cumplir con los objetivos del proyecto, identificando oportunidades clave en la optimización de las actividades.</br><b>Daniel del Castillo</b></br>TB1:<br>Duante esta entrega, fomentamos el ambiente colaborativo y establecimos metas. Nuestro lider desarrolló un trello para seguir adecuadamente las partes que estaban en proceso y nosotros tuvimos que cumplir con dichas tareas en un tiempo determinado</br><b>Pedro Guia Carrasco</b></br>TB1:<br>Para esta entrega, fomentamos el trabajo en equipo que se requiere para esta ocasión. Analizamos las herramientas a utilizar para el desarrollo del producto y tuvimos cuidado en entender lo que requiere el usuario. Cumplimos los objetivos de la lista de tareas que tiene cada integrante del grupo y no tuvimos problema en entregar a tiempo nuestra parte del reporte.</br><b>Sebastian Aiquipa</b></br>TB1:<br>Outcome description</br>
+    <b>Gonzalo Quedena</b></br>TB1:<br>Para esta entrega, fomentamos un entorno colaborativo e inclusivo al involucrar activamente a todos los miembros del equipo en el análisis de las necesidades, utilizando entrevistas detalladas como base. Juntos, establecimos metas claras para asegurar un diseño UX/UI que garantizara una experiencia óptima para todos los usuarios. La planificación de tareas se llevó a cabo de manera organizada, permitiendo realizar un análisis exhaustivo de la competencia y cumplir con los objetivos del proyecto, identificando oportunidades clave en la optimización de las actividades.</br><b>Daniel del Castillo</b></br>TB1:<br>Duante esta entrega, fomentamos el ambiente colaborativo y establecimos metas. Nuestro lider desarrolló un trello para seguir adecuadamente las partes que estaban en proceso y nosotros tuvimos que cumplir con dichas tareas en un tiempo determinado</br><b>Pedro Guia Carrasco</b></br>TB1:<br>Para esta entrega, fomentamos el trabajo en equipo que se requiere para esta ocasión. Analizamos las herramientas a utilizar para el desarrollo del producto y tuvimos cuidado en entender lo que requiere el usuario. Cumplimos los objetivos de la lista de tareas que tiene cada integrante del grupo y no tuvimos problema en entregar a tiempo nuestra parte del reporte.</br><b>Sebastian Aiquipa</b></br>TB1:<br>Durante esta entrega, se planteo un trabajo de colaboracion mutua. Se definieron las tareas y las especificaciones de cada apartado del documento. Para mejorar el flujo de trabajo se utilizaron herramientas como Trello, ayudando a conocer el estado actual de las tareas a cumplir.</br>
     </td>
     <td>TB1:<br>A lo largo del proyecto, el equipo demostró una sólida capacidad de colaboración e inclusión, involucrando a todos los miembros en cada etapa del proceso. La planificación fue clave para asegurar un diseño UX/UI efectivo y un análisis detallado de la competencia, lo que permitió identificar oportunidades clave de mejora. La utilización de herramientas organizativas, como Trello, ayudó a estructurar el trabajo y seguir de cerca el progreso, lo que facilitó el cumplimiento de las metas en el tiempo establecido.</td>
   </tr>
@@ -591,10 +591,29 @@ Características Personales y Tecnología: Miguel se considera introvertido pero
 <img src="assests/Carlos Martinez-userpesque.png">
 
 ### 2.3.2. User Task Matrix.
-| --- | ------ | Segmento 1  | ------/----- | Segmento 2  | ---------- |
-| --- | ------ | ----------- | ------------ | ----------- | ---------- |
-| ID  | Titulo | Importancia | Frecuencia   | Importancia | Frecuencia |
-| U01X| {Texto}| Alta        | Alta         | Media       | Baja       |
+
+**Segmento 1: Productor de maquinara pesquera**
+
+| **Task**                                  | **Frequency** | **Importance** |
+|-------------------------------------------|---------------|----------------|
+| Monitorio de procesos                     | High          | High           |
+| Gestion de inventario                     | High          | High           |
+| Mantenimiento de maquinaria de trabajo    | Medium        | High           |
+| Atencion al cliente                       | Low           | High           |
+| Control de calidad                        | Medium        | High           |
+| Planificacion de la producción            | High          | Medium         |
+
+**Segmento 2: Empresario pesquero**
+
+| **Task**                                  | **Frequency** | **Importance** |
+|-------------------------------------------|---------------|----------------|
+| Revision de inventario                    | High          | High           |
+| Solicitud de mantenimiento de equipos     | Medium        | High           |
+| Consulta de pagos y facturacion           | Medium        | High           |
+| Negociacion con proveedores de maquinaria | Low           | Medium         |
+| Planificacion de operaciones de pesca     | Hight         | High           |
+| Capacitación del personal                 | Low           | Medium         |
+
   
 ### 2.3.3. User Journey Mapping.
 **Segmento 1**
@@ -629,12 +648,11 @@ Texto ubiquo: Definicion de este
 
 Segmento 1: Productor de maquinaria pesquera
 
-<img src="https://github.com/Dotvue/project-report/blob/659b77ab2acd935de5a793373c879cf1afd26460/assests/to-be-fabricante.jpg" />
-
+<img src="assests/to-be-fabricante.jpg">
 
 Segmento 2: Empresa pesquera
 
-<img src="https://github.com/Dotvue/project-report/blob/659b77ab2acd935de5a793373c879cf1afd26460/assests/to-be-pesquero.jpg" />
+<img src="assests/to-be-pesquero.jpg">
 
 ## 3.2. User Stories.
 
