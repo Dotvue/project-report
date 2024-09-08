@@ -47,7 +47,7 @@
 
 # Project Report Collaboration Insights
 Link de reporte: [GitHub Startup report](https://github.com/Dotvue/project-report)  
-Link de landing page: [Startup landing page](https://dotvue.github.io/AquaEngine-landing-page/)  
+Link de landing page: [Startup landing page](https://landing.com)  
 Link de organización: [GitHub Dotvue organization](https://github.com/orgs/Dotvue/repositories)  
 
 (Imagenes de los commits cada entrega)
@@ -186,7 +186,7 @@ equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colabor
   <tr>
     <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
     <td>
-    <b>Gonzalo Quedena</b></br>TB1:<br>Todo el equipo asumió roles de liderazgo de manera colaborativa, lo que permitió una distribución equitativa de las responsabilidades. Juntos, establecimos metas claras, planificamos las tareas y mantuvimos una comunicación fluida para asegurar el progreso constante. Además, la colaboración conjunta en áreas clave, como el desarrollo de la landing page, fomentó un entorno inclusivo donde se valoraron las contribuciones de todos los miembros. Este enfoque de liderazgo compartido y trabajo coordinado garantizó tanto la calidad como la eficiencia en cada fase del proyecto.</br><b>TB1:<br>Daniel del Castillo</b></br>Durante todo el proceso de esta entrega, pude encaminar un poco mejor las ideas de mis compañeros utilizando mi conocimiento del dominio de modo que todos pudimos desarrollar mutuamente las ideas propuestas</br><b>Pedro Guia Carrasco</b></br>TB1:<br>En proceso de desarrollo del proyecto, pude notar el compromiso del equipo en las tareas asignadas al inicio del trabajo. Gracias a eso pude exigirme en cumplir todo a su tiempo.</br><b>Sebastian Aiquipa</b></br>TB1:<br>El equipo trabajó de manera colaborativa para el desarrollo del proyecto. Planteamos nuestros objetivos y especificaciones, para definir los roles y herramientas a usar.</br><b>Omar Berrocal</b></br>TB1:<br>Las reuniones realizadas por el equipo y el uso de gitflow ayudaron al trabajo en equipo. Usando herramientas ya conocidas por todos los miembros, hizo que todo se comprenda mejor.</br>
+    <b>Gonzalo Quedena</b></br>TB1:<br>Todo el equipo asumió roles de liderazgo de manera colaborativa, lo que permitió una distribución equitativa de las responsabilidades. Juntos, establecimos metas claras, planificamos las tareas y mantuvimos una comunicación fluida para asegurar el progreso constante. Además, la colaboración conjunta en áreas clave, como el desarrollo de la landing page, fomentó un entorno inclusivo donde se valoraron las contribuciones de todos los miembros. Este enfoque de liderazgo compartido y trabajo coordinado garantizó tanto la calidad como la eficiencia en cada fase del proyecto.</br><b>TB1:<br>Daniel del Castillo</b></br>Durante todo el proceso de esta entrega, pude encaminar un poco mejor las ideas de mis compañeros utilizando mi conocimiento del dominio de modo que todos pudimos desarrollar mutuamente las ideas propuestas</br><b>Pedro Guia Carrasco</b></br>TB1:<br>En proceso de desarrollo del proyecto, pude notar el compromiso del equipo en las tareas asignadas al inicio del trabajo. Gracias a eso pude exigirme en cumplir todo a su tiempo.</br><b>Sebastian Aiquipa</b></br>TB1:<br>Outcome description</br>
     </td>
     <td>TB1:<br>El equipo mostró una dinámica de trabajo colaborativa y efectiva, donde cada miembro asumió roles de liderazgo de manera equitativa. Esto facilitó una distribución justa de responsabilidades, lo que permitió establecer objetivos claros y una planificación eficiente de las tareas. La comunicación constante y la colaboración en áreas clave, como el desarrollo de la landing page, promovió un ambiente inclusivo, donde cada contribución fue valorada.</td>
   </tr>
@@ -194,7 +194,7 @@ equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colabor
   <tr>
     <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
     <td>
-    <b>Gonzalo Quedena</b></br>TB1:<br>Para esta entrega, fomentamos un entorno colaborativo e inclusivo al involucrar activamente a todos los miembros del equipo en el análisis de las necesidades, utilizando entrevistas detalladas como base. Juntos, establecimos metas claras para asegurar un diseño UX/UI que garantizara una experiencia óptima para todos los usuarios. La planificación de tareas se llevó a cabo de manera organizada, permitiendo realizar un análisis exhaustivo de la competencia y cumplir con los objetivos del proyecto, identificando oportunidades clave en la optimización de las actividades.</br><b>Daniel del Castillo</b></br>TB1:<br>Duante esta entrega, fomentamos el ambiente colaborativo y establecimos metas. Nuestro lider desarrolló un trello para seguir adecuadamente las partes que estaban en proceso y nosotros tuvimos que cumplir con dichas tareas en un tiempo determinado</br><b>Pedro Guia Carrasco</b></br>TB1:<br>Para esta entrega, fomentamos el trabajo en equipo que se requiere para esta ocasión. Analizamos las herramientas a utilizar para el desarrollo del producto y tuvimos cuidado en entender lo que requiere el usuario. Cumplimos los objetivos de la lista de tareas que tiene cada integrante del grupo y no tuvimos problema en entregar a tiempo nuestra parte del reporte.</br><b>Sebastian Aiquipa</b></br>TB1:<br>Durante esta entrega, se planteo un trabajo de colaboracion mutua. Se definieron las tareas y las especificaciones de cada apartado del documento. Para mejorar el flujo de trabajo se utilizaron herramientas como Trello, ayudando a conocer el estado actual de las tareas a cumplir.</br><b>Omar Berrocal</b></br>TB1:<br>Durante esta entrega empleamos tecnicas como gitflow y manejo de ramas lo que nos permitió trabajar de forma organizada. Plantear metas y manejarlas en un trello fue idóneo para saber que tareas se encontraban pendientes y quienes necesitaban ayuda, y de esa manera poder ayudar.</br>
+    <b>Gonzalo Quedena</b></br>TB1:<br>Para esta entrega, fomentamos un entorno colaborativo e inclusivo al involucrar activamente a todos los miembros del equipo en el análisis de las necesidades, utilizando entrevistas detalladas como base. Juntos, establecimos metas claras para asegurar un diseño UX/UI que garantizara una experiencia óptima para todos los usuarios. La planificación de tareas se llevó a cabo de manera organizada, permitiendo realizar un análisis exhaustivo de la competencia y cumplir con los objetivos del proyecto, identificando oportunidades clave en la optimización de las actividades.</br><b>Daniel del Castillo</b></br>TB1:<br>Duante esta entrega, fomentamos el ambiente colaborativo y establecimos metas. Nuestro lider desarrolló un trello para seguir adecuadamente las partes que estaban en proceso y nosotros tuvimos que cumplir con dichas tareas en un tiempo determinado</br><b>Pedro Guia Carrasco</b></br>TB1:<br>Para esta entrega, fomentamos el trabajo en equipo que se requiere para esta ocasión. Analizamos las herramientas a utilizar para el desarrollo del producto y tuvimos cuidado en entender lo que requiere el usuario. Cumplimos los objetivos de la lista de tareas que tiene cada integrante del grupo y no tuvimos problema en entregar a tiempo nuestra parte del reporte.</br><b>Sebastian Aiquipa</b></br>TB1:<br>Outcome description</br>
     </td>
     <td>TB1:<br>A lo largo del proyecto, el equipo demostró una sólida capacidad de colaboración e inclusión, involucrando a todos los miembros en cada etapa del proceso. La planificación fue clave para asegurar un diseño UX/UI efectivo y un análisis detallado de la competencia, lo que permitió identificar oportunidades clave de mejora. La utilización de herramientas organizativas, como Trello, ayudó a estructurar el trabajo y seguir de cerca el progreso, lo que facilitó el cumplimiento de las metas en el tiempo establecido.</td>
   </tr>
@@ -598,29 +598,10 @@ Podemos denotar que la mayoria de nuestros usuarios son usuarios de android, sie
 <img src="assests/Carlos Martinez-userpesque.png">
 
 ### 2.3.2. User Task Matrix.
-
-**Segmento 1: Productor de maquinara pesquera**
-
-| **Task**                                  | **Frequency** | **Importance** |
-|-------------------------------------------|---------------|----------------|
-| Monitorio de procesos                     | High          | High           |
-| Gestion de inventario                     | High          | High           |
-| Mantenimiento de maquinaria de trabajo    | Medium        | High           |
-| Atencion al cliente                       | Low           | High           |
-| Control de calidad                        | Medium        | High           |
-| Planificacion de la producción            | High          | Medium         |
-
-**Segmento 2: Empresario pesquero**
-
-| **Task**                                  | **Frequency** | **Importance** |
-|-------------------------------------------|---------------|----------------|
-| Revision de inventario                    | High          | High           |
-| Solicitud de mantenimiento de equipos     | Medium        | High           |
-| Consulta de pagos y facturacion           | Medium        | High           |
-| Negociacion con proveedores de maquinaria | Low           | Medium         |
-| Planificacion de operaciones de pesca     | Hight         | High           |
-| Capacitación del personal                 | Low           | Medium         |
-
+| --- | ------ | Segmento 1  | ------/----- | Segmento 2  | ---------- |
+| --- | ------ | ----------- | ------------ | ----------- | ---------- |
+| ID  | Titulo | Importancia | Frecuencia   | Importancia | Frecuencia |
+| U01X| {Texto}| Alta        | Alta         | Media       | Baja       |
   
 ### 2.3.3. User Journey Mapping.
 **Segmento 1**
@@ -980,16 +961,9 @@ Link Application Prototype (Figma): [URL del Prototipo Figma](https://shorturl.a
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
-Esta yaselasaben (diagrama de clases)
-Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributos(Correo, edad,nombre como valor, ID)
+<img src="assests/Diagrama de Clase_AQUAENGINE.png">
 ### 4.7.2. Class Dictionary.
-Inherit (ave(superclase) -> (subclase)canario )
-Polymorphism (Ej. funcion de persona hablar() -> Peruano hablar() , Gringo hablar() todos tienen una funcion que contiene persona y van cambiando sus formas)
-Abstraction (Ej. Solo muestra el usuario, pero esta su edad, correo y veces usada que uso app en la base de datos (fuera de vista))
-Encapsulation (cuando tienes tus variables y metodos en la misma clase las estas encapsulando, aun mas se encapsulan en Private y Public )
-## 4.8. Database Design.
-### 4.8.1. Database Diagram.
-Diagrama de base de datos (la relacion entre clases PK FK el Normalizar tmbn, isiyisi 🕸)
+
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
@@ -1409,7 +1383,7 @@ En la etapa inicial de nuestro proyecto, decidimos llevar a cabo la implementaci
 Repositorio Github: https://github.com/Dotvue/AquaEngine-landing-page
 #### 5.2.1.1. Sprint Planning 1.
 
-Para el primer sprint el equipo establecio que el desarrollo de las tareas serian unas 20 horas.
+Para el primer sprint el equipo establecio que el desarrollo de las tareas serian unas 18 horas.
 
 <table>
     <thead>
@@ -1472,257 +1446,24 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
         <tr>
             <td>Sprint 1 Velocity</td>
             <td>
-                8
+                ?
             </td>
         </tr>
         <tr>
             <td>Sum of story points</td>
             <td>
-                8
+                ?
             </td>
         </tr>
     </tbody>
 </table>
 
-#### 5.2.1.2. Sprint Backlog 1.
-Enlaze al product backlog con las tareas correspondientes: https://www.pivotaltracker.com/projects/2717945
-
-![sprint-1](./assets/images/chapter-V/pivotal-tracker.png)
-
-<table>
-  <tr>
-    <td> <strong>Sprint #</strong></td>
-    <td align="center" colspan="7"> <strong>Sprint 1</strong> </td>
-  </tr>
-
-   <tr>
-    <td align="center" colspan="2"> <strong>User Story</strong></td>
-    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
-  </tr>
-  <tr>
-    <td align="center"> <strong>ID</strong> </td>
-    <td align="center"> <strong>Title<strong></td>
-    <td align="center"> <strong>ID</strong> </td>
-    <td align="center"> <strong>Title<strong></td>
-    <td align="center"> <strong>Description<strong></td>
-    <td align="center"> <strong>Estimation (Hours)<strong></td>
-    <td align="center"> <strong>Assigned To<strong></td>
-    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  <strong></td>
-  </tr>
-  <!---------------------------------------------------------------------- -->
-  <tr>
-    <td rowspan="4" align="center"> ID </td>
-    <td rowspan="4" align="center"> US18 Navegación por la Landing Page</td>
-    <td align="center"> TA01 </td>
-     <td align="center"> menu con hipervinculos responsive</td>
-    <td align="center">Cada Hipervinculo debe de rediriguirte a una seccion especifica de la landing page </td>
-    <td align="center"> 2</td>
-    <td align="center"> Gonzalo Andre Zavala Quedena</td>
-    <td align="center">Done</td>
-  </tr>
-
-  <tr>
-    <td align="center"> TA02 </td>
-    <td align="center"> menu de navegacion mobile</td>
-    <td align="center"> Se debe desarrollar el menu mobile, haciendo uso de un icono que despliegue los hipervinculos</td>
-    <td align="center"> 2</td>
-    <td align="center"> Gonzalo Andre Zavala Quedena</td>
-    <td align="center">Done</td>
-  </tr>
-
-   <tr>
-    <td align="center"> TA03 </td>
-    <td align="center"> Hero</td>
-    <td align="center"> Se debe desarrollar un banner con una frase y un botón call to action que permita dirigirnos a la aplicación web.</td>
-    <td align="center"> 2</td>
-    <td align="center"> Daniel Mateo del Castillo Bueno</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center"> TA04 </td>
-    <td align="center"> Hero responsive</td>
-    <td align="center"> Esta seccion debe de ajustarse el diseño dependiendo del tamaño de la pantalla del navegador.</td>
-    <td align="center"> 1</td>
-    <td align="center"> Daniel Mateo del Castillo Bueno</td>
-    <td align="center">Done</td>
-  </tr>
-<!----------------------------------------------->
-  <tr>
-    <td rowspan="2" align="center"> ID </td>
-    <td rowspan="2" align="center"> US19 Visualización de Precios</td>
-    <td align="center"> TA01 </td>
-    <td align="center"> Planes</td>
-    <td align="center"> Debe de representar la informacion del uso de la aplicacion a traves de iconos o imagenes</td>
-    <td align="center"> 1</td>
-    <td align="center"> Sebastian Andres Aiquipa Poma</td>
-    <td align="center">Done</td>
-  </tr>
-
-  <tr>
-    <td align="center"> TA02 </td>
-    <td align="center"> Seccion Responsive </td>
-    <td align="center"> Esta seccion debe de ajustarse el diseño dependiendo del tamaño de la pantalla del navegador </td>
-    <td align="center"> 2</td>
-    <td align="center"> Sebastian Andres Aiquipa Poma</td>
-    <td align="center"> Done</td>
-  </tr>
-<!-------------------------------------------------->
-  <tr>
-    <td rowspan="2" align="center"> ID </td>
-    <td rowspan="2" align="center"> US20 Comparación de beneficios</td>
-    <td align="center"> TA01 </td>
-    <td align="center"> Desarrollo la sección funcionalidad</td>
-    <td align="center"> crea la seccion de funcionalidad que muestra los beneficios de la plataforma web.</td>
-    <td align="center"> 2</td>
-    <td align="center"> Pedro Andre Guía Carrasco</td>
-    <td align="center"> Done</td>
-  </tr>
-   <tr>
-    <td align="center"> TA02 </td>
-    <td align="center"> Seccion Responsive </td>
-    <td align="center"> Esta seccion debe de ajustarse el diseño dependiendo del tamaño de la pantalla del navegador </td>
-    <td align="center"> 1</td>
-    <td align="center"> Pedro Andre Guía Carrasco</td>
-    <td align="center"> Done</td>
-  </tr>
-
-<!---------------------------------------------------->
-  <tr>
-    <td rowspan="3" align="center"> ID </td>
-    <td rowspan="3" align="center"> US21 Contacto con ventas desde la landing page</td>
-      <td align="center"> TA01 </td>
-    <td align="center"> Formulario</td>
-    <td align="center"> Se desarrolla un formulario donde se pueda enviar un mensaje al Team.</td>
-    <td align="center"> 2</td>
-    <td align="center"> Omar Berrocal Ramirez</td>
-    <td align="center"> Done</td>
-  </tr>
-
-  <tr>
-    <td align="center"> TA02 </td>
-    <td align="center"> Form responsive </td>
-    <td align="center"> Esta seccion debe de tener varias configuraciones para tamaños de pantalla </td>
-    <td align="center"> 1</td>
-    <td align="center">Omar Berrocal Ramirez</td>
-    <td align="center"> Done</td>
-  </tr>
-
-  <tr>
-    <td align="center"> TA03 </td>
-    <td align="center"> Footer</td>
-    <td align="center"> Esta seccion debe mostrarse la informacion de contacto y nuestras redes sociales </td>
-    <td align="center"> 2</td>
-    <td align="center">Gonzalo Andre Zavala Quedena </td>
-    <td align="center"> Done</td>
-  </tr>
-<!------------------------------------------------>
-   <tr>
-    <td rowspan="1" align="center"> ID </td>
-    <td rowspan="1" align="center"> US22 Consulta de reseñas de clientes</td>
-    <td align="center"> TA01 </td>
-    <td align="center"> Reseñas</td>
-    <td align="center"> Se desarrolla secion donde se muestra comentarios de las experiencias de los usuarios de la plataforma web</td>
-    <td align="center"> 2</td>
-    <td align="center"> Gonzalo Andre Zavala Quedena </td>
-    <td align="center"> Done</td>
-  </tr>
-
-</table>
-
-#### 5.2.1.3. Development Evidence for Sprint Review.
-
-<table>
-  <tr>
-    <td align ="center" > <strong>Repository</strong></td>
-    <td  align ="center" > <strong>Branch</strong></td>
-    <td  align ="center" > <strong>Commit ID</strong></td>
-    <td  align ="center" > <strong>Commit message</strong></td>
-    <td  align ="center" > <strong>Commit Masagge body</strong></td>
-    <td  align ="center" > <strong>Commit on (date)</strong></td>
-  </tr>
-
-  <tr>
-    <td rowspan="27" align="center">https://github.com/Dotvue/AquaEngine-landing-page </td>
-    <td align="center"> main</td>
-    <td align="center"> 8c635063c7d47bf77d427f89251f507e8e383d80</td>
-    <td align="center"> chore: initial commit</td>
-    <td align="center"> ---</td>
-    <td align="center"> 04/09/2024</td>
-  </tr>
-
-  <tr>
-    <td align="center">feature/funcionality</td>
-    <td align="center" > 66f2ea27cf6eaafaa540972f29b3553bf1fd65ed</td>
-    <td align="center"> feat(main): add functionality.</td>
-    <td align="center"> ---</td>
-    <td align="center"> 07/09/2024</td>
-  </tr>
-
-  <tr>
-    <td align="center"> feature/header</td>
-    <td align="center">a07bc427df5faa3755d36946da6df24024307850</td>
-    <td align="center"> feat: add styles to dedicated navbar section up to 768px and above.</td>
-    <td align="center"> ---</td>
-    <td align="center"> 07/09/2024</td>
-  </tr>
-
-  <tr>
-    <td align="center"> feature/recommendations</td>
-    <td align="center"> 4607fddf7278724c3ba7ed77b46cf4bc34940fdd
-</td>
-    <td align="center"> feat: add styles to recommendations section.</td>
-    <td align="center"> ---</td>
-    <td align="center">07/09/2024</td>
-  </tr>
-
-  <tr>
-    <td align="center"> feature/hero</td>
-    <td align="center"> 3ffd3bc380ed86a8008849d2b7669dc8b8938283</td>
-    <td align="center">feat: hero is now responsive</td>
-    <td align="center"> ---</td>
-    <td align="center"> 07/09/2024</td>
-  </tr>
-
-  <tr>
-    <td align="center"> feature/subscriptions</td>
-    <td align="center"> acb9b05913fc505893eac42a9727212fd106cb7f</td>
-    <td align="center"> style: update styles subscription section</td>
-    <td align="center"> ---</td>
-    <td align="center"> 08/09/2024</td>
-  </tr>
-
-  <tr>
-    <td align="center"> feature/footer</td>
-    <td align="center"> 1b5ecfeaa209ab51b5d1ceb8dd6cff8f63de0dfc</td>
-    <td align="center"> feat: add styles to footer section.</td>
-    <td align="center"> ---</td>
-    <td align="center"> 07/09/2024</td>
-  </tr>
-
-  <tr>
-    <td align="center"> feature/form</td>
-    <td align="center">414c2fc0ffa290d3f1fa8004d26a60cc661ca611
-
-</td>
-    <td align="center"> feat(form): form completed.</td>
-    <td align="center"> ---</td>
-    <td align="center">07/09/2024</td>
-  </tr>
-
-
-  <tr>
-    <td align="center"> develop</td>
-    <td align="center">4427c7059a3dd60bccdbdb58cc90baa8a439dee0</td>
-    <td align="center">fix: resolve merge conflict with feature/form.</td>
-    <td align="center"> ---</td>
-    <td align="center">08/09/2024</td>
-  </tr>
-</table>
-
+#### 5.2.X.2. Sprint Backlog n.
+![SprintBacklog n](image.jpg) Nica hago la tabla 
+#### 5.2.X.3. Development Evidence for Sprint Review.
+![Sprint review development Evidence](image.jpg)
 #### 5.2.X.4. Testing Suite Evidence for Sprint Review.
-
-Durante este sprint 1 el equipo se enfocó en el desarrollo de la lading page por lo cual no se requirio pruebas de testing.
-
+![Sprint review Testing suite Evidence](image.jpg)
 #### 5.2.X.5. Execution Evidence for Sprint Review.
 ![Sprint review Execution Evidence](image.jpg)
 #### 5.2.X.6. Services Documentation Evidence for Sprint Review.
@@ -1731,6 +1472,43 @@ Durante este sprint 1 el equipo se enfocó en el desarrollo de la lading page po
 ![Sprint review Software Deployment Evidence](image.jpg)
 #### 5.2.X.8. Team Collaboration Insights during Sprint.
 ![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
- 
+
+## 5.3. Validation Interviews.
+### 5.3.1. Diseño de Entrevistas.
+
+1. ¿Cuál es su nombre? 
+2. ¿Qué edad tiene? 
+3. ¿A qué se dedica? 
+4. ¿[Opinion de idea de propuesta]? 
+
+### 5.3.2. Registro de Entrevistas.
+**Segmento 1**  
+Nombre: _____
+Edad: _ años 
+Ocupación: _____  
+![Imagen de entrevista](image.jpg)  
+{texto mucho}
+
+**Segmento 2**  
+Nombre: _____
+Edad: _ años 
+Ocupación: _____  
+![Imagen de entrevista](image.jpg)
+{texto}
+
+### 5.3.3. Evaluaciones según heurísticas.
+| HEURÍSTICA   | EVALUACIÓN ✅❌ | NOTA      |
+| --------------------------------------------- | ---------- | --------- |
+| Visibilidad del estado del sistema            |            | {texto}   |
+| Coincidencia entre el sistema y el mundo real |            | {texto}   |
+| Control y libertad del usuario                |            | {texto}   |
+| Consistencia y estándares                     |            | {texto}   |
+| Prevención de errores                         |            | {texto}   |
+| Mostrar antes que recordar                    |            | {texto}   |
+| Flexibilidad y eficiencia de uso              |            | {texto}   |
+| Diseño estético y minimalista                 |            | {texto}   |
+| Comunicar errores con facilidad               |            | {texto}   |
+| Ayuda y documentación                         |            | {texto}   |  
+  
 ## 5.4. Video About-the-Product.
 [URL del video about the product](https://www.example.com)
