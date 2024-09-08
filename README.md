@@ -1695,7 +1695,9 @@ Enlaze al product backlog con las tareas correspondientes: https://www.pivotaltr
 </table>
 
 #### 5.2.X.4. Testing Suite Evidence for Sprint Review.
-![Sprint review Testing suite Evidence](image.jpg)
+
+Durante este sprint 1 el equipo se enfocó en el desarrollo de la lading page por lo cual no se requirio pruebas de testing.
+
 #### 5.2.X.5. Execution Evidence for Sprint Review.
 ![Sprint review Execution Evidence](image.jpg)
 #### 5.2.X.6. Services Documentation Evidence for Sprint Review.
