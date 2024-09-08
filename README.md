@@ -22,7 +22,7 @@
 | Member                           | Code       |
 |----------------------------------|------------|
 | Daniel del Castillo  | U202211212 |
-|        |  |
+| Gonzalo Andre Zavala Quedena | U202113656  |
 |       |  |
 |  |  |
 |              |  |
@@ -624,96 +624,258 @@ Segmento 2:
 | 1      | HU01          | titulo his | desc  | 5                        |
 
 # Capítulo IV: Product Design
+En este capítulo, abordamos el diseño integral de la startup, cubriendo aspectos clave como el estilo visual, los diagramas C4 para la arquitectura del sistema, los diagramas de clases, y los modelos de base de datos, proporcionando una visión clara y estructurada de la infraestructura y el funcionamiento del proyecto.
+
 ## 4.1. Style Guidelines.
+En esta sección se presentan los estándares que definen el formato y el diseño de la solución, asegurando ycalidad en su implementación.
+
 ### 4.1.1. General Style Guidelines.
-Descripcion del porque estos elementos seran importantes
 
-**Color:** (Descripcion de los colores escogidos y porque)  
-![Colores generales](image.jpg)
+**Color:**
+Seleccionamos esta gama de colores porque armoniza con el diseño del logo y refleja la temática de nuestra aplicación, asegurando la identidad de la marca.  
 
-**Tipografia:** (Descripcion de la tipografia escogida para el proyecto y porque)
-![Tipografias generales](image.jpg)
-**Branding** (Describir logotipo y porque)
-![Branding general](image.jpg)
+![Colores generales](/assets/images/chapter-iv/style-guidelines/color-palette.png)
+
+**Tipografia:** Seleccionamos esta tipografía por su excelente legibilidad en diversos entornos, además de su carácter poco común, lo que nos permite diferenciarnos frente a la competencia y aportar una identidad única a nuestra marca.
+
+![Tipografias generales](/assets/images/chapter-iv/style-guidelines/typography.png)
+
+**Branding** El nombre del producto es ArtCollab, el cual cuenta con un logo representado por el icono de un bolígrafo con motivos coloridos a su alrededor haciendo referencia tanto a los escritores como artistas que son parte de los usuarios principales de nuestro aplicativo.
+
+![Branding general](/assets/images/chapter-iv/style-guidelines/logo.png)
+
 ### 4.1.2. Web Style Guidelines.
-Descripcion de los elementos que se utilizaran en el web app
+Nuestra página web está diseñada para ofrecer una experiencia de navegación fluida y accesible, sin importar el dispositivo que utilices. 
 
-**Background:** (primary, secondary, terniary)  
-![Background Preview web](image.jpg)
-**Text Styles:** (H1, H2, p, a,)  
-![Text Style Preview web](image.jpg)
-**Button Styles:** (Button, dropdowns, Switches)
-![Button Preview web](image.jpg)
-**Icons:** (Fondo blanco con los iconos que vamos a usar)
-![Icons Preview web](image.jpg)
-**Misc** (Cosas como nav var o slideshows que pensemos usar)
-![Miscellaneos preview web](image.jpg)
+Hemos implementado un diseño basado en el patrón Z, que guía de manera intuitiva la mirada de los usuarios hacia los elementos clave, permitiendo que la información más importante sea fácilmente captada.
+
 ## 4.2. Information Architecture.
+En esta sección se presenta la estructura del software según cada segmento objetivo, así como los elementos que se utilizarán para la navegación dentro de la plataforma
+
 ### 4.2.1. Organization Systems.
-Descripcion corta respecto a los sistemas de organizacion que usaremos  (Escoger)
-"Hierarchical. This structures advices to present the content in a way to distinguish the level of importance by making use of physical differences, such as size, colour, contrast, alignment etc.
+El Sistema de Organización tiene como objetivo la interacción entre los usuarios y la plataforma mediante una jerarquía visual (visual hierarchy) que resalta funciones clave, como la gestión de pedidos y el monitoreo de equipos, facilitando su acceso inmediato.
 
-Sequential. Guide users to follow a specific path towards their goal and provide content step-by-step based on the current step. 
+#### **Sequential** 
+Se implementará una organización secuencial (step-by-step) en procesos como el llenado de datos, asegurando que los usuarios sigan pasos claros y estructurados para completar sus tareas de manera eficiente.
 
-Matrix. You can always give the users the option to choose the type of navigation they prefer, i.e. Alphabetical, Chronological, by topic."
+#### **Matrix**
+Se aplicarán filtros avanzados para la búsqueda de componentes de maquinaria o equipos, así como el estado de los pedidos, brindando opciones específicas que mejoren la navegación.
+
 ### 4.2.2. Labeling Systems.
-The labeling system aims at uniting the data effectively and represent them in simple way and avoid confusing great amount of information. A widely adopted way to achieve this is by creating the labels which represent loads of data in few words. 
+En AquaEngine Components, el sistema de etiquetas está diseñado para que los usuarios encuentren fácilmente la información que necesitan, haciendo que la navegación sea intuitiva y accesible.
 
-Como decir "home, about us, etc" basicamente lo que iria en un nav var y asi
+* **Inicio:** Botón en el logo que redirige a la página principal, facilitando el acceso a la vista general del sistema.
+
+* **Suscripciones/Plus:** Suscripción en un periodo de tiempo donde te brindan diferentes beneficios según tu tipo de usuario
+
 ### 4.2.3. SEO Tags and Meta Tags
 
 **Meta & SEO (Search Engine Optimization) Tags:**  sirven para que la pagina web sea encontrada facilmente es lo que sale al encontrar la pagina en el buscador (se ponen en el <"head">)
-* Titulo: ```<title> ___ </title> ```
-* Descripcion: ```<meta name = "description" content = "texto descipcion"/> ```
-* Palabras Clave: ```<meta name = "keyword" content = "keyword1, 2 3"/> ```
+* Titulo:   
+```<title>AquaEngine - Oficial Landing Page</title> ```
+
+* Descripcion:  
+```<meta name = "description" content = "where you will find fishing machinery management, including orders, inventory and equipment monitoring."/> ```
+* Palabras Clave:  
+```<meta name = "keyword" content = "fishing machinery, production management, equipment monitoring, inventory control, fishing orders, fishing software"/> ```
 
 ### 4.2.4. Searching Systems.
-**Que se busca?:** Que buscara el usuario  
-**Que resultados se mostraran?:** Que se mostrara  
-**Interface de busqueda:** Descripcion de como ayuda a encontrar lo deseado 
-![Search interface preview web](image.jpg)
+**Que se busca?:**   
+Los usuarios buscarán componentes de maquinaria pesquera, el estado de los equipos, detalles de pedidos y niveles de inventario. También podrán buscar pedidos específicos, partes o el estado de sus solicitudes en curso.
+
+**Que resultados se mostraran?:**  
+Los resultados de búsqueda mostrarán información relevante sobre componentes, incluyendo detalles de maquinaria, estados actuales de pedidos, inventario disponible y datos de monitoreo de equipos. Los resultados estarán organizados para resaltar la información más pertinente según la consulta de búsqueda. 
+
+**Interface de busqueda:**  
+La interfaz de búsqueda contará con un diseño intuitivo para ayudar a los usuarios a encontrar la información deseada de manera rápida. Los filtros incluirán categorías como tipo de equipo, estado del pedido y niveles de inventario. La interfaz amigable mejorará la eficiencia en la búsqueda de datos específicos y optimizará la experiencia del usuario.
+
+![Search interface preview web](/assets/images/chapter-iv/style-guidelines/searching-system.png)
 
 ### 4.2.5. Navigation Systems.
-Basicamente aqui definimos como funciona la navegacion del web app
-**Hierarchical Navigation System:** Main page a destination pages.
-**Global Navigation Systems** (Complemento del Hierachical) Movimiento vertical (te mueves por la pagina)con nav(debe poder regresar a la principal)
-**Local Navigation Systems** (vas a otras paginas) (complemento del global nav sistem sub-site) Usas otras paginas
+La navegación en la aplicación web será sencilla y minimalista, permitiendo a los usuarios acceder fácilmente a las diversas opciones disponibles.
+
+**Hierarchical Navigation System:**  
+La navegación se organiza de manera jerárquica desde la página principal hacia las páginas de destino.
+
+**Global Navigation Systems**  
+Permite el movimiento vertical dentro de la página. Incluye una barra de navegación que facilita el retorno a la página principal y la navegación entre secciones importantes sin necesidad de retroceder.
+
+**Local Navigation System**  
+Complementa al sistema global permitiendo el acceso a otras páginas dentro del sub-sitio.
+
+![Navigation interface preview web](/assets/images/chapter-iv/style-guidelines/nav.png)
+
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
-la pagina donde te registras y ves info del web app (te manda al web app)
+Link a los Wireframes de la Landing Page (Figma):  
+**https://shorturl.at/0RTW9**
 
-Wireframe es todo lo funcional de la pagina
-![Landing page Wireframe](image.jpg)
+## 1. Hero and Features
+Sección principal captando la atención del usuario con una introducción a la aplicación brindando información  
+respecto a las características de uso.
+
+![Landing page Wireframe](/assets/images/chapter-iv/landing%20page%20wireframe/wireframe1.png)
+
+## 2. Preview and Subscriptions
+Sección donde el usuario visualizará una vista previa respecto a cómo hacemos uso de la aplicación. Además de  
+ver los distintos planes que ofrecemos.
+
+![Landing page Wireframe](/assets/images/chapter-iv/landing%20page%20wireframe/wireframe2.png)
+
+## 3. Testimonials and Contac Us
+Sección donde el usuario visualizará comentarios de clientes que ya usaron la aplicación y su satisfacción. También  
+con un formulario el cuál puede contactarnos para cualquier duda de interés.
+
+![Landing page Wireframe](/assets/images/chapter-iv/landing%20page%20wireframe/wireframe3.png)
+
 ### 4.3.2. Landing Page Mock-up.
-Mockup es todo lo relacionado al diseño de la pagina
-![Landing page mockup](image.jpg)
+Link a los Mock-up de la Landing Page (Figma):  
+**https://shorturl.at/0RTW9**
+
+## 1. Hero and Features
+Sección principal captando la atención del usuario con una introducción a la aplicación brindando información  
+respecto a las características de uso.  
+
+![Landing page mockup](/assets/images/chapter-iv/landing%20page%20mock-up/mock-up1.png)
+
+## 2. Preview and Subscriptions
+Sección donde el usuario visualizará una vista previa respecto a cómo hacemos uso de la aplicación. Además de  
+ver los distintos planes que ofrecemos.  
+
+![Landing page mockup](/assets/images/chapter-iv/landing%20page%20mock-up/mock-up2.png)
+
+## 3. Testimonials and Contac Us
+Sección donde el usuario visualizará comentarios de clientes que ya usaron la aplicación y su satisfacción. También  
+con un formulario el cuál puede contactarnos para cualquier duda de interés.
+
+![Landing page mockup](/assets/images/chapter-iv/landing%20page%20mock-up/mock-up3.png)
+
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
-lo funcional de cada aspecto del wireframe 
-![Web Aplication Wireframe](image.jpg)
+Link a los Wireframes de la Web Application (Figma):  
+**https://shorturl.at/cEaJM**
+
+## Home
+![Web Application Wireframe Home](/assets/images/chapter-iv/ux-ui%20design%20wireframe/home.png)
+
+## Inventory
+![Web Application Wireframe Invetory](/assets/images/chapter-iv/ux-ui%20design%20wireframe/inventory.png)
+
+## Inventory Detail
+![Web Application Wireframe Invetory Detail](/assets/images/chapter-iv/ux-ui%20design%20wireframe/inventory-product-detail.png)
+
+## Order Machinery
+![Web Application Wireframe Order Machinery](/assets/images/chapter-iv/ux-ui%20design%20wireframe/order.png)
+
+## Order Machinery Detail
+![Web Application Wireframe Order Machinery Detail](/assets/images/chapter-iv/ux-ui%20design%20wireframe/order-detail.png)
+
+## Order Machinery Detail Requested
+![Web Application Wireframe Order Machinery Detail](/assets/images/chapter-iv/ux-ui%20design%20wireframe/order-requested.png)
+
+## Invoicing
+![Web Application Wireframe Invoicing](/assets/images/chapter-iv/ux-ui%20design%20wireframe/invoice.png)
+
+## Equipment Monitoring
+![Web Application Wireframe Equipment Monitoring](/assets/images/chapter-iv/ux-ui%20design%20wireframe/equipment-monitoring.png)
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
-Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
-![Web Aplication Wireflow](image.jpg)
+Link a los Wireframes de la Web Application (Figma):  
+**https://shorturl.at/w2yHe**
+
+Acceso al inventario y tiene interés de ver los detalles de algún producto inventariado.  
+![Web Aplication Wireflow Inventory](/assets/images/chapter-iv/wireflow-diagrams-wireframe/inventory.png)
+
+Acceso a ordenar alguna maquinaria, solicitarlos y ver detalle de solicitud.  
+![Web Aplication Wireflow Order Machinery](/assets/images/chapter-iv/wireflow-diagrams-wireframe/order-machinery.png)
+
+Acceso a las facturas.  
+![Web Aplication Wireflow Invoicing](/assets/images/chapter-iv/wireflow-diagrams-wireframe/invoice.png)
+
+Acceso al monitoreo de equipos.  
+![Web Aplication Wireflow Equipment Monitoring](/assets/images/chapter-iv/wireflow-diagrams-wireframe/equipment-monitoring.png)
+
 ### 4.4.2. Web Applications Mock-ups.
-Diseño en todo aspecto
-![Web Aplication Mockup](image.jpg)
+Link al Web Application Mock-up (Figma):  
+**https://shorturl.at/VhlUS**
+
+## Home
+![Web Application Wireframe Home](/assets/images/chapter-iv/ux-ui%20design%20mock-up/home.png)
+
+## Inventory
+![Web Application Wireframe Invetory](/assets/images/chapter-iv/ux-ui%20design%20mock-up/inventory.png)
+
+## Inventory Detail
+![Web Application Wireframe Invetory Detail](/assets/images/chapter-iv/ux-ui%20design%20mock-up/inventory-product-detail.png)
+
+## Order Machinery
+![Web Application Wireframe Order Machinery](/assets/images/chapter-iv/ux-ui%20design%20mock-up/order-machine.png)
+
+## Order Machinery Detail
+![Web Application Wireframe Order Machinery Detail](/assets/images/chapter-iv/ux-ui%20design%20mock-up/order-machine-detail.png)
+
+## Order Machinery Detail Requested
+![Web Application Wireframe Order Machinery Detail](/assets/images/chapter-iv/ux-ui%20design%20mock-up/order-machine-requested.png)
+
+## Invoicing
+![Web Application Wireframe Invoicing](/assets/images/chapter-iv/ux-ui%20design%20mock-up/invoice.png)
+
+## Equipment Monitoring
+![Web Application Wireframe Equipment Monitoring](/assets/images/chapter-iv/ux-ui%20design%20mock-up/monitoring.png)
+
 ### 4.4.3. Web Applications User Flow Diagrams.
-un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]** 
-![Web Aplication User Flow Diagram](image.jpg)
-## 4.5. Web Applications Prototyping.
-[URL del Prototipo (Hecho en figma)](https://www.example.com)
+Link a los Wireframes de la Web Application (Figma):  
+**https://shorturl.at/LLkEt**
+
+Acceso al inventario y tiene interés de ver los detalles de algún producto inventariado.  
+![Web Aplication Wireflow Inventory](/assets/images/chapter-iv/wireflow-diagrams-mockup/inventory.png)
+
+Acceso a ordenar alguna maquinaria, solicitarlos y ver detalle de solicitud.  
+![Web Aplication Wireflow Order Machinery](/assets/images/chapter-iv/wireflow-diagrams-mockup/order-machinery.png)
+
+Acceso a las facturas.  
+![Web Aplication Wireflow Invoicing](/assets/images/chapter-iv/wireflow-diagrams-mockup/invoice.png)
+
+Acceso al monitoreo de equipos.  
+![Web Aplication Wireflow Equipment Monitoring](/assets/images/chapter-iv/wireflow-diagrams-mockup/equipment-monitoring.png)
+
+
+## 4.5. Web Applications Prototyping.  
+Link Application Prototype (Figma): [URL del Prototipo Figma](https://shorturl.at/w2yHe)  
+
+![Web Aplication Prototype](/assets/images/chapter-iv/application-prototype/prototype.png)
+
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
-1. System Context Diagram: Diagrama que muestra la relacion del aplicativo con los usuarios
-se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 
-2. Bounded Context Map: Muestra la relacion entre bounded contexts (los bounded context son como una burbuja que encapsula palabras clave en los procesos para poder diferenciarlos [Ej. Bounded context enfocado en las ventas(ventas), otro en revisar el stock(gestion) y otro enfocado en los proveedores (suministros)]) Se hace como un brainstorm y se ve en que pueden conectarse o comunicarse [se usa un circulo entre conexiones lineales (upstream o downstream) para definir comunicacion, algunos context se pueden integrar para representar por ejemplo un share model por database, tambien se mencionan los (third party context para definir los restful apis)]
-   
+<img src="./assets/images/chapter-iv/c4model/SystemContext.png"/>
+
 ### 4.6.2. Software Architecture Container Diagrams.
-1. Bounded Context Deployable / Container Diagrams. Sirve para entender como funciona y el proceso, Se especifican DB's, indexers, Search engine, las Apis que usen los bounded context y se conectan por flechas, las cuales tienen como objetivo explicar la direcion y relacion junto a que se esta enviando/comunicando (TCP) 
+
+<img src="./assets/images/chapter-iv/c4model/Containers.png" /> 
 
 ### 4.6.3. Software Architecture Components Diagrams.
-1. Component diagrams: Estos van a mostrar las ordenes, procesos, mensajes y componentes utilizados en el uso del aplicativo, claro se deben hacer diferentes de estos para cada bounded o USER GOALS
+
+**Login and SignIn Bounded Context**
+
+<img src="./assets/images/chapter-iv/c4model/AuthenticationContext.png" />
+
+**Generate Invoice Bounded Context**
+
+<img src="./assets/images/chapter-iv/c4model/InvoiceContext.png" />
+
+**Manage Inventory Bounded Context**
+
+<img src="./assets/images/chapter-iv/c4model/InventoryContext.png" />
+
+**Monitoring Bounded Context**
+
+<img src="./assets/images/chapter-iv/c4model/MonitoringContext.png" />
+
+**Request Orders Bounded Context**
+
+<img src="./assets/images/chapter-iv/c4model/RequestContext.png" />
+
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 Esta yaselasaben (diagrama de clases)
@@ -726,115 +888,3 @@ Encapsulation (cuando tienes tus variables y metodos en la misma clase las estas
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
 Diagrama de base de datos (la relacion entre clases PK FK el Normalizar tmbn, isiyisi 🕸)
-# Capítulo V: Product Implementation, Validation & Deployment
-## 5.1. Software Configuration Management.
-### 5.1.1. Software Development Environment Configuration.
-Especificaciones de donde vamos a hacer el proyecto (vscode supongo)
-extensiones tmbn? nose bn q quieren aca
-### 5.1.2. Source Code Management.
-El gitjab donde tengamos el proyecto
-### 5.1.3. Source Code Style Guide & Conventions.
-Que usamos con css (en caso usemos software para SASS)
-supongo q tmbn cositas de como hacemo el code capas algun tipo de codigo para comunicarse entre comments
-### 5.1.4. Software Deployment Configuration.
-Configuraciones de donde y como deployeamos el proyecto
-## 5.2. Landing Page, Services & Applications Implementation.
-### 5.2.X. Sprint n
-#### 5.2.X.1. Sprint Planning n.
-Explicar como vamos a plannear el sprint?
-#### 5.2.X.2. Sprint Backlog n.
-![SprintBacklog n](image.jpg) Nica hago la tabla 
-#### 5.2.X.3. Development Evidence for Sprint Review.
-![Sprint review development Evidence](image.jpg)
-#### 5.2.X.4. Testing Suite Evidence for Sprint Review.
-![Sprint review Testing suite Evidence](image.jpg)
-#### 5.2.X.5. Execution Evidence for Sprint Review.
-![Sprint review Execution Evidence](image.jpg)
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review.
-![Sprint review Services Documentation Evidence](image.jpg)
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review.
-![Sprint review Software Deployment Evidence](image.jpg)
-#### 5.2.X.8. Team Collaboration Insights during Sprint.
-![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
-
-## 5.3. Validation Interviews.
-### 5.3.1. Diseño de Entrevistas.
-**Preguntas generales:**
-
-1. ¿Cuál es su nombre? 
-2. ¿Qué edad tiene? 
-3. ¿A qué se dedica? 
-4. ¿[Opinion de idea de propuesta]? 
-
-**Entrevistas usuario segmento 2**
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?  
-   
-**Entrevistas usuario segmento 2**
-1. ¿Lorem? 
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem? 
-### 5.3.2. Registro de Entrevistas.
-**Segmento 1**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)  
-{texto mucho}
-
-**Segmento 2**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)
-{texto}
-### 5.3.3. Evaluaciones según heurísticas.
-| HEURÍSTICA   | EVALUACIÓN ✅❌ | NOTA      |
-| --------------------------------------------- | ---------- | --------- |
-| Visibilidad del estado del sistema            |            | {texto}   |
-| Coincidencia entre el sistema y el mundo real |            | {texto}   |
-| Control y libertad del usuario                |            | {texto}   |
-| Consistencia y estándares                     |            | {texto}   |
-| Prevención de errores                         |            | {texto}   |
-| Mostrar antes que recordar                    |            | {texto}   |
-| Flexibilidad y eficiencia de uso              |            | {texto}   |
-| Diseño estético y minimalista                 |            | {texto}   |
-| Comunicar errores con facilidad               |            | {texto}   |
-| Ayuda y documentación                         |            | {texto}   |
-## 5.4. Video About-the-Product.
-[URL del video about the product](https://www.example.com)
-# Conclusiones
-{texto}
-# Conclusiones y recomendaciones.
-{texto}
-# Video About-the-Team.
-[URL del video about the team](https://www.example.com)
-
-# Bibliografía
-qoomon. (2021, 11 enero). Conventional Commit Messages. Gist.
-Recuperado 20 de junio de 2022, de [LINK](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)
-
-LeaseIN. (2018). Importancia de contar con un equipo de soporte
-técnico. [Entrada en blog]. Recuperado de:
-[LINK](https://leasein.pe/blog/branding-empresarial-importanciasoporte-tecnico/)
-``` 
-formato
-
-"Apellido", Ini.Ciales. & "otroAutor", O.A. (año). titulo del articulo.
-        "nombre del articulo o lo q sea, Volumen(si es que tiene), numero  de pagina"#-#. https//link.org/eeeseneko
-
-```
-# Anexos
-
-datos, gráficos, imágenes, esquemas, mapas o referencias de otros autores
-
-![Imagen de algo no nuestro lol](image.jpg)
-
-
-
-
-
-
