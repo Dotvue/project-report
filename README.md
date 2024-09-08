@@ -39,11 +39,11 @@ Desarrollar aplicaciones web de alta calidad utilizando tecnologías Open Source
     <td><ul><li>Java</li><li>C++</li><li>Angular</li><li>Python</li><li>SQL</li></ul></td>
   </tr>
     <tr>
-    <td></td>
+    <td><img src="./assets/chapterI/team-photos/perfil.png" width=250px></td>
     <td>Pedro Andre Guía Carrasco</td>
     <td>Ingeniería de Software</td>
-    <td>Descripción</td>
-    <td><ul><li>Java</li><li>Python</li><li>SQL</li><li>HTML</li></ul></td>
+    <td>Soy estudiante de Ingenieria de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), es increible llevar esta carrera porque se que a futuro me brindará bastantes oportunidades de negocios y deseo de cumplir mis metas. Espero seguir aprendiendo lo necesario de esta carrera para que me convierta en un profesional desarrollador de software.</td>
+    <td><ul><li>Java</li><li>Python</li><li>SQL</li><li>HTML</li><li>JavaScript</li></ul></td>
   </tr>
 
   <tr>
