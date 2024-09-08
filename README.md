@@ -1,3 +1,209 @@
+# <center>COURSE PROJECT</center>
+
+<p align="center">
+    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+    <strong>Ingeniería de Software</strong><br>
+    <strong>Desarrollo de Aplicaciones Open Source - SV51</strong><br>
+    <strong>Profesor: Angel Augusto Velasquez Nuñez </strong><br>
+    <br>INFORME TRABAJO FINAL
+</p>
+
+<center>
+
+#### Startup: **--**
+#### Product: **--**
+
+</center>
+
+### <center>Team  Members:</center>
+<center>
+
+| Member                           | Code       |
+|----------------------------------|------------|
+|   |  |
+|        |  |
+|       |  |
+|  |  |
+|              |  |
+|          |  |
+
+<br> AGOSTO 2024
+</center>  
+
+# Registro de Versiones del Informe
+<center>
+
+# Registro de Versiones del Informe  
+
+| Version | Fecha | Autor | Descripcion de Modificacion |
+| ----------- | ----------- | ----------- | ----------- |
+| 0.0.1 | 17/09/2024 | Daniel Mateo del Castillo Bueno | Desarrollo Capítulo (1) APARTADO<br>1.1 - 1.2 - 1.3 |
+| 0.0.2 | 21/09/2024 | --- | Desarrollo Capítulo (2) APARTADO<br>2.1 - 2.2 - 2.3|
+| 0.0.3 | 24/09/2024 | --- | Desarrollo Capítulo (3)  APARTADO<br>3.1 - 3.2 - 3.3 - 3.4 |
+| 0.0.4 | 26/09/2024 | Gonzalo Quedena | Desarrollo Capítulo (4) APARTADO<br>4.1 - 4.2 - 4.3 - 4.4 - 4.5 - 4.6 - 4.7 - 4.8 |
+| 0.0.5 | 26/09/2024 | Sebastián Aiquipa | Desarrollo Capítulo (4) APARTADO<br>4.6 - 4.7 - 4.8 | 
+| 0.0.6 | 28/09/2024 | --- | Desarrollo Capítulo (5) APARTADO<br>5.1 - 5.2<br>Conclusiones, Anexos, Bibliografía. |
+
+</center>
+
+# Project Report Collaboration Insights
+Link de reporte: [GitHub Startup report](https://github.com/Dotvue/project-report)  
+Link de landing page: [Startup landing page](https://landing.com)  
+Link de organización: [GitHub Dotvue organization](https://github.com/orgs/Dotvue/repositories)  
+
+(Imagenes de los commits cada entrega)
+
+
+# Contenido
+
+
+[Registro de Versiones del Informe](#registro-de-versiones-del-informe)  
+[Project Report Collaboration Insights](#project-report-collaboration-insights)  
+[Student Outcome](#student-outcome)  
+
+[Capítulo I: Introducción](#capítulo-i-introducción)
+
+[1.1 Startup Profile](#11-startup-profile)  
+[1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)  
+[1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)  
+
+[1.2. Solution Profile](#12-solution-profile)  
+[1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)  
+[1.2.2 Lean UX Process.](#122-lean-ux-process)  
+[1.2.2.1. Lean UX Problem Statements.](#1221-lean-ux-problem-statements)  
+[1.2.2.2. Lean UX Assumptions.](#1222-lean-ux-assumptions)  
+[1.2.2.3. Lean UX Hypothesis Statements.](#1223-lean-ux-hypothesis-statements)  
+[1.2.2.4. Lean UX Canvas.](#1224-lean-ux-canvas)  
+
+[1.3. Segmentos objetivo.](#13-segmentos-objetivo)  
+
+[Capítulo II: Requirements Elicitation & Analysi](#capítulo-ii-requirements-elicitation--analysis)  
+
+[2.1. Competidores](#21-competidores)  
+[2.1.1. Análisis competitivo](#211-análisis-competitivo)  
+[2.1.2. Estrategias y tácticas frente a competidores](#211-análisis-competitivo)  
+
+[2.2. Entrevistas](#22-entrevistas)  
+[2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)  
+[2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)  
+[2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)  
+
+[2.3. Needfinding](#23-needfinding)  
+[2.3.1. User Personas](#231-user-personas)  
+[2.3.2. User Task Matrix](#232-user-task-matrix)  
+[2.3.3. User Journey Mapping](#233-user-journey-mapping)  
+[2.3.4. Empathy Mapping](#234-empathy-mapping)  
+[2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping) 
+
+[2.4. Ubiquitous Language](#24-ubiquitous-language)  
+
+[Capítulo III: Requirements Specificatio](#capítulo-iii-requirements-specification)  
+
+[3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)    
+[3.2. User Stories](#32-user-stories)  
+[3.3. Impact Mapping](#33-impact-mapping)  
+[3.4. Product Backlog](#34-product-backlog)  
+
+[Capítulo IV: Product Desig](#capítulo-iv-product-design)  
+
+[4.1. Style Guidelines](#41-style-guidelines)  
+[4.1.1. General Style Guidelines](#411-general-style-guidelines)  
+[4.1.2. Web Style Guidelines](#412-web-style-guidelines)  
+
+[4.2. Information Architecture](#42-information-architecture)  
+[4.2.1. Organization Systems](#421-organization-systems)  
+[4.2.2. Labeling Systems](#422-labeling-systems)  
+[4.2.3. SEO Tags and Meta Tag](#423-seo-tags-and-meta-tags)  
+[4.2.4. Searching Systems](#424-searching-systems)   
+[4.2.5. Navigation Systems](#425-navigation-systems)  
+
+[4.3. Landing Page UI Design](#43-landing-page-ui-design)   
+[4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)  
+[4.3.2. Landing Page Mock-up](#432-landing-page-mock-up) 
+
+[4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)  
+[4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)  
+[4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)  
+[4.4.2. Web Applications Mock-ups](#442-web-applications-mock-ups)   
+[4.4.3. Web Applications User Flow Diagrams](#443-web-applications-user-flow-diagrams)  
+
+[4.5. Web Applications Prototyping](#45-web-applications-prototyping)  
+
+[4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)  
+[4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)  
+[4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)  
+[4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)  
+
+[4.7. Software Object-Oriented Design](#47-software-object-oriented-design)  
+[4.7.1. Class Diagrams](#471-class-diagrams)  
+[4.7.2. Class Dictionary](#472-class-dictionary)  
+
+[4.8. Database Design](#48-database-design)  
+[4.8.1. Database Diagram](#481-database-diagram)  
+
+[Capítulo V: Product Implementation, Validation & Deploymen](#capítulo-v-product-implementation-validation--deployment)  
+
+[5.1. Software Configuration Management](#51-software-configuration-management)  
+[5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)  
+[5.1.2. Source Code Management](#512-source-code-management)  
+[5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)  
+[5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)  
+
+[5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)  
+[5.2.X. Sprint ](#52x-sprint-n)  
+[5.2.X.1. Sprint Planning n](#52x1-sprint-planning-n)  
+[5.2.X.2. Sprint Backlog n](#52x2-sprint-backlog-n)  
+[5.2.X.3. Development Evidence for Sprint Review](#52x3-development-evidence-for-sprint-review)  
+[5.2.X.4. Testing Suite Evidence for Sprint Review](#52x4-testing-suite-evidence-for-sprint-review)  
+[5.2.X.5. Execution Evidence for Sprint Review](#52x5-execution-evidence-for-sprint-review)  
+[5.2.X.6. Services Documentation Evidence for Sprint Review](#52x6-services-documentation-evidence-for-sprint-review)  
+[5.2.X.7. Software Deployment Evidence for Sprint Review](#52x7-software-deployment-evidence-for-sprint-review)  
+[5.2.X.8. Team Collaboration Insights during Sprint](#52x8-team-collaboration-insights-during-sprint)  
+
+[5.3. Validation Interviews](#53-validation-interviews)  
+[5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)  
+[5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)  
+[5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)  
+
+[5.4. Video About-the-Product](#54-video-about-the-product)  
+
+[Conclusiones](#conclusiones)  
+[Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)  
+[Video About-the-Team](#video-about-the-team)  
+[Bibliografía](#bibliografía)  
+[Anexos](#anexos)  
+
+# Student Outcome
+El curso contribuye al cumplimiento del **Student Outcome ABET:ABET – EAC - Student Outcome 5** Criterio: La capacidad de funcionar efectivamente en un  
+equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
+
+<table border="1">
+  <tr>
+    <th>Criterio Especifico</th>
+    <th>Acciones Realizadas</th>
+    <th>Conclusiones</th>
+  </tr>
+
+  <tr>
+    <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
+    <td>
+    <b>Gonzalo Quedena</b></br>Todo el equipo asumió roles de liderazgo de manera colaborativa, lo que permitió una distribución equitativa de las responsabilidades. Juntos, establecimos metas claras, planificamos las tareas y mantuvimos una comunicación fluida para asegurar el progreso constante. Además, la colaboración conjunta en áreas clave, como el desarrollo de la landing page, fomentó un entorno inclusivo donde se valoraron las contribuciones de todos los miembros. Este enfoque de liderazgo compartido y trabajo coordinado garantizó tanto la calidad como la eficiencia en cada fase del proyecto.</br><b>Daniel del Castillo</b></br>Outcome description</br><b>Pedro Carrasco</b></br>Outcome description</br><b>Sebastian Aiquipa</b></br>Outcome description</br>
+    </td>
+    <td>Su texto de conclusion</td>
+  </tr>
+
+  <tr>
+    <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
+    <td>
+    <b>Gonzalo Quedena</b></br>Para esta entrega, fomentamos un entorno colaborativo e inclusivo al involucrar activamente a todos los miembros del equipo en el análisis de las necesidades, utilizando entrevistas detalladas como base. Juntos, establecimos metas claras para asegurar un diseño UX/UI que garantizara una experiencia óptima para todos los usuarios. La planificación de tareas se llevó a cabo de manera organizada, permitiendo realizar un análisis exhaustivo de la competencia y cumplir con los objetivos del proyecto, identificando oportunidades clave en la optimización de las actividades.</br><b>Daniel del Castillo</b></br>Outcome description</br><b>Pedro Carrasco</b></br>Outcomedescription</br><b>Sebastian Aiquipa</b></br>Outcome description</br>
+    </td>
+    <td>Su texto de conclusion</td>
+  </tr>
+</table>  
+
+</br>
+
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 
