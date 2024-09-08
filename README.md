@@ -409,9 +409,88 @@ Desde el IDE de nuestra preferencial (para muestras de ejemplo se usará Webstor
 ![Dotvue-Landing-clone](./assets/images/chapter-V/clone-landing.png)
 
 ## 5.2. Landing Page, Services & Applications Implementation.
-### 5.2.X. Sprint n
-#### 5.2.X.1. Sprint Planning n.
-Explicar como vamos a plannear el sprint?
+### 5.2.1. Sprint 1
+
+En la etapa inicial de nuestro proyecto, decidimos llevar a cabo la implementación del diseño de nuestra Landing Page utilizando WebStorm como el entorno de desarrollo.
+
+Repositorio Github: https://github.com/Dotvue/AquaEngine-landing-page
+#### 5.2.1.1. Sprint Planning 1.
+
+Para el primer sprint el equipo establecio que el desarrollo de las tareas serian unas 18 horas.
+
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 1</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2024/09/04</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>10:30 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Google meet</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Daniel Mateo del Castillo Bueno</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                <li>Gonzalo Andre Zavala Quedena</li>
+                <li>Omar Christian Berrocal Ramirez</li>
+                <li>Pedro Andre Guía Carrasco</li>
+                <li>Sebastian Andres Aiquipa Poma</li>
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Review Summary</td>
+            <td>
+                Este es el primer sprint a realizar por el equipo
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Retrospective Summary</td>
+            <td>
+                Acuerdo de la implementación de una primera versión del Landing Page  
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Goal</td>
+            <td>
+                <li>Desarrollar una landing page usando html,css y js.</li>
+                <li>landing page responsive</li>
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Velocity</td>
+            <td>
+                ?
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                ?
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 #### 5.2.X.2. Sprint Backlog n.
 ![SprintBacklog n](image.jpg) Nica hago la tabla 
 #### 5.2.X.3. Development Evidence for Sprint Review.
