@@ -1504,4 +1504,4 @@ Ocupación: _____
 | Ayuda y documentación                         |            | {texto}   |  
   
 ## 5.4. Video About-the-Product.
-[URL del video about the product](https://www.example.com)
+[URL del video about the product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113656_upc_edu_pe/Eb28KbeSQ-5PrZMI9c7wDSQBkieKNajuJ6fjc4wOriMj6w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=9Ghv9u)
