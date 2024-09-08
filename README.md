@@ -262,10 +262,10 @@ Desarrollar aplicaciones web de alta calidad utilizando tecnologías Open Source
 
   <tr>
     <td></td>
-    <td>---</td>
+    <td>Sebastian Andres Aiquipa Poma</td>
     <td>Ingeniería de Software</td>
-    <td>Descripción</td>
-    <td><ul><li>Habilidad-1</li><li>Habilidad-2</li></ul></td>
+    <td>Estudio en la carrera de Ingenieria de Software en la UPC. Tengo conocimientos en C++, Python y actualmente estoy practicando en Java. Considero que la comunicacion y el aprendizaje constante son las claves que me permitiran progresar.</td>
+    <td><ul><li>C++</li><li>Python</li><li>JavaScript</li></ul></td>
   </tr>
 </table>
 
