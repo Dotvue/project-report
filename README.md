@@ -579,9 +579,15 @@ Características Personales y Tecnología: Miguel se considera introvertido pero
 
 ### 2.2.3. Análisis de entrevistas.
 **Segmento 1:**
-{texto}
-**Segmento 2:**
-{texto}
+![Grafico I](./assets/chapter-II/Gráfico%20I%20segmento%201.png)
+
+Podemos ver que mas de la mayoria de nuestros usuarios usan windows, dicha informaación será utilizada para la generación de user personas y quier decir que nuestros usuarios van por la tecnología más común, ninguno cuenta con una portatil con linux por ejemplo
+
+![Grafico I](./assets/chapter-II/Gráfico%20II%20segmento%201.png)
+
+Podemos denotar que la mayoria de nuestros usuarios son usuarios de android, siendo así tambien parte de la moda
+
+
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 **Segmento 1:**  
