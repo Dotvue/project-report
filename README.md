@@ -627,20 +627,14 @@ Texto ubiquo: Definicion de este
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
 
-Segmento 1:
+Segmento 1: Productor de maquinaria pesquera
 
-| Fases    |  fase 1 as is | fase 2| fase 3|
-| -------- | ------- | ---- | ---------------- |
-| Doing    | | texto| texto | texto| texto|
-| Thinking | | texto| texto | texto| texto|
-| Feeling  | | texto| texto | texto| texto|
+<img src="https://github.com/Dotvue/project-report/blob/659b77ab2acd935de5a793373c879cf1afd26460/assests/to-be-fabricante.jpg" />
 
-Segmento 2:
-| Fases    |  fase 1 as is | fase 2| fase 3|
-| -------- | ------- | ---- | ---------------- |
-| Doing    | | texto| texto | texto| texto|
-| Thinking | | texto| texto | texto| texto|
-| Feeling  | | texto| texto | texto| texto|
+
+Segmento 2: Empresa pesquera
+
+<img src="https://github.com/Dotvue/project-report/blob/659b77ab2acd935de5a793373c879cf1afd26460/assests/to-be-pesquero.jpg" />
 
 ## 3.2. User Stories.
 
