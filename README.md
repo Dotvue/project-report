@@ -490,7 +490,8 @@ Aspectos geográficos:
 
 Aspectos psicologicos:
  - Objetivo: Obtener maquinaria más rápido 
- - Valores: Eficiencia, Trabajo en equipo, Puntualidad
+ - Valores: Eficiencia, Trabajo en equipo Puntualidad
+
 |Competidores |  | AquaEngine | Siemens | SAP|
 |-|-|-|-|-|
 | Análisis SWOT | Fortalezas | Integración de procesos Optimización del inventario, Monitoreo continuo | Diversificación, Innovación, Fuerte Marca y Reputación | Lider en el mercado, Amplia Gama de Productos, Innovación Continua, Integración de Soluciones |
