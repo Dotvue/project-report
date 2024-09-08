@@ -47,7 +47,7 @@
 
 # Project Report Collaboration Insights
 Link de reporte: [GitHub Startup report](https://github.com/Dotvue/project-report)  
-Link de landing page: [Startup landing page](https://landing.com)  
+Link de landing page: [Startup landing page](https://dotvue.github.io/AquaEngine-landing-page/)  
 Link de organización: [GitHub Dotvue organization](https://github.com/orgs/Dotvue/repositories)  
 
 (Imagenes de los commits cada entrega)
