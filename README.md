@@ -47,11 +47,11 @@ Desarrollar aplicaciones web de alta calidad utilizando tecnologías Open Source
   </tr>
 
   <tr>
-    <td></td>
-    <td>---</td>
+    <td><img src="./assets/chapterI/team-photos/Integrante-Omar.jpg"></td>
+    <td>Omar Berrocal Ramirez</td>
     <td>Ingeniería de Software</td>
-    <td>Descripción</td>
-    <td><ul><li>Habilidad-1</li><li>Habilidad-2</li></ul></td>
+    <td>Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, con una gran curiosidad hacia la tecnología que tengo desde pequeño, me siento muy motivado por mi carrera. Espero explorar más y seguir aprendiendo sobre el mundo de la computación en informática</td>
+    <td><ul><li>Java</li><li>C++</li><li>C#</li><li>Python</li><li>Javascript</li><li>Typescript</li><li>SQL</li></ul></td>
   </tr>
 
   <tr>
