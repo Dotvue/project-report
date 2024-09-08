@@ -1712,12 +1712,34 @@ Enlaze al product backlog con las tareas correspondientes: https://www.pivotaltr
   </tr>
 </table>
 
-#### 5.2.X.4. Testing Suite Evidence for Sprint Review.
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 
 Durante este sprint 1 el equipo se enfocó en el desarrollo de la lading page por lo cual no se requirio pruebas de testing.
 
-#### 5.2.X.5. Execution Evidence for Sprint Review.
-![Sprint review Execution Evidence](image.jpg)
+#### 5.2.1.5. Execution Evidence for Sprint Review.
+
+Después de finalizar el Sprint 1, hemos logrado implementar todas las secciones de nuestra Landing Page, aunque con algunos desperfectos en cuanto a diseño. A continuación, te invitamos a explorar nuestros avances a través de imágenes que muestran el resultado obtenido.
+
+*Seccion de navegacion* : Nos ayudara a redirigirnos a secciones especificas de la lading page.
+
+![navbar](./assets/images/chapter-V/header.png)
+*Hero* : Banner que contendra un boton (Call to Action) que te llevara a registrarte a nuestra aplicación.
+![hero](./assets/images/chapter-V/hero.png)
+*funcionality*: Seccion donde los visitantes de la lading page podrán ver como es que funciona nuestra aplicacion y que les ofrece.
+![funcionality](./assets/images/chapter-V/functionality.png)
+
+*Planes*: seccion donde se explica las opciones de planes de suscription que tenemos, junto al precio y detalles del plan.
+![planes](./assets/images/chapter-V/subscriptions.jpeg)
+
+*Reseñas*: sección con las reseñas y comentarios de los usuarios de la aplicación web.
+![form](./assets/images/chapter-V/recommendations.png)
+
+*Form*: sección con un formulario para contactar a los desarrolladores de la aplicación
+![form](./assets/images/chapter-V/form.png)
+
+*footer*: contenido extra, como telefono,correo y redes para que puedan comunicarse con la empresa devinsons.
+![footer](./assets/images/chapter-V/footer.png)
+
 #### 5.2.X.6. Services Documentation Evidence for Sprint Review.
 ![Sprint review Services Documentation Evidence](image.jpg)
 #### 5.2.X.7. Software Deployment Evidence for Sprint Review.
