@@ -242,7 +242,10 @@ Sabremos que tendremos éxito cuando veamos un aumento significativo de pedidos 
 
 #### 1.2.2.4. Lean UX Canvas.
 
-(imagen con texto)
+![LeanUXCanvas](./assets/chapterI/others/Lean%20UX%20Canvas.jpg)
+
+
+**Link:** https://shorturl.at/1gSH0
 ## 1.3. Segmentos objetivo.
 ***Segmento #1: Productoras de maquinaria pesquera***
 
