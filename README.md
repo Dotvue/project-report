@@ -1384,7 +1384,7 @@ En la etapa inicial de nuestro proyecto, decidimos llevar a cabo la implementaci
 Repositorio Github: https://github.com/Dotvue/AquaEngine-landing-page
 #### 5.2.1.1. Sprint Planning 1.
 
-Para el primer sprint el equipo establecio que el desarrollo de las tareas serian unas 18 horas.
+Para el primer sprint el equipo establecio que el desarrollo de las tareas serian unas 20 horas.
 
 <table>
     <thead>
@@ -1447,20 +1447,163 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
         <tr>
             <td>Sprint 1 Velocity</td>
             <td>
-                ?
+                8
             </td>
         </tr>
         <tr>
             <td>Sum of story points</td>
             <td>
-                ?
+                8
             </td>
         </tr>
     </tbody>
 </table>
 
-#### 5.2.X.2. Sprint Backlog n.
-![SprintBacklog n](image.jpg) Nica hago la tabla 
+#### 5.2.1.2. Sprint Backlog 1.
+Enlaze al product backlog con las tareas correspondientes: https://www.pivotaltracker.com/projects/2717945
+
+![sprint-1](./assets/images/chapter-V/pivotal-tracker.png)
+
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 1</strong> </td>
+  </tr>
+
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>Description<strong></td>
+    <td align="center"> <strong>Estimation (Hours)<strong></td>
+    <td align="center"> <strong>Assigned To<strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  <strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="4" align="center"> ID </td>
+    <td rowspan="4" align="center"> US18 Navegación por la Landing Page</td>
+    <td align="center"> TA01 </td>
+     <td align="center"> menu con hipervinculos responsive</td>
+    <td align="center">Cada Hipervinculo debe de rediriguirte a una seccion especifica de la landing page </td>
+    <td align="center"> 2</td>
+    <td align="center"> Gonzalo Andre Zavala Quedena</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> menu de navegacion mobile</td>
+    <td align="center"> Se debe desarrollar el menu mobile, haciendo uso de un icono que despliegue los hipervinculos</td>
+    <td align="center"> 2</td>
+    <td align="center"> Gonzalo Andre Zavala Quedena</td>
+    <td align="center">Done</td>
+  </tr>
+
+   <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Hero</td>
+    <td align="center"> Se debe desarrollar un banner con una frase y un botón call to action que permita dirigirnos a la aplicación web.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Daniel Mateo del Castillo Bueno</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center"> TA04 </td>
+    <td align="center"> Hero responsive</td>
+    <td align="center"> Esta seccion debe de ajustarse el diseño dependiendo del tamaño de la pantalla del navegador.</td>
+    <td align="center"> 1</td>
+    <td align="center"> Daniel Mateo del Castillo Bueno</td>
+    <td align="center">Done</td>
+  </tr>
+<!----------------------------------------------->
+  <tr>
+    <td rowspan="2" align="center"> ID </td>
+    <td rowspan="2" align="center"> US19 Visualización de Precios</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Planes</td>
+    <td align="center"> Debe de representar la informacion del uso de la aplicacion a traves de iconos o imagenes</td>
+    <td align="center"> 1</td>
+    <td align="center"> Sebastian Andres Aiquipa Poma</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Seccion Responsive </td>
+    <td align="center"> Esta seccion debe de ajustarse el diseño dependiendo del tamaño de la pantalla del navegador </td>
+    <td align="center"> 2</td>
+    <td align="center"> Sebastian Andres Aiquipa Poma</td>
+    <td align="center"> Done</td>
+  </tr>
+<!-------------------------------------------------->
+  <tr>
+    <td rowspan="2" align="center"> ID </td>
+    <td rowspan="2" align="center"> US20 Comparación de beneficios</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Desarrollo la sección funcionalidad</td>
+    <td align="center"> crea la seccion de funcionalidad que muestra los beneficios de la plataforma web.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Pedro Andre Guía Carrasco</td>
+    <td align="center"> Done</td>
+  </tr>
+   <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Seccion Responsive </td>
+    <td align="center"> Esta seccion debe de ajustarse el diseño dependiendo del tamaño de la pantalla del navegador </td>
+    <td align="center"> 1</td>
+    <td align="center"> Pedro Andre Guía Carrasco</td>
+    <td align="center"> Done</td>
+  </tr>
+
+<!---------------------------------------------------->
+  <tr>
+    <td rowspan="3" align="center"> ID </td>
+    <td rowspan="3" align="center"> US21 Contacto con ventas desde la landing page</td>
+      <td align="center"> TA01 </td>
+    <td align="center"> Formulario</td>
+    <td align="center"> Se desarrolla un formulario donde se pueda enviar un mensaje al Team.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Omar Berrocal Ramirez</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Form responsive </td>
+    <td align="center"> Esta seccion debe de tener varias configuraciones para tamaños de pantalla </td>
+    <td align="center"> 1</td>
+    <td align="center">Omar Berrocal Ramirez</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Footer</td>
+    <td align="center"> Esta seccion debe mostrarse la informacion de contacto y nuestras redes sociales </td>
+    <td align="center"> 2</td>
+    <td align="center">Gonzalo Andre Zavala Quedena </td>
+    <td align="center"> Done</td>
+  </tr>
+<!------------------------------------------------>
+   <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> US22 Consulta de reseñas de clientes</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Reseñas</td>
+    <td align="center"> Se desarrolla secion donde se muestra comentarios de las experiencias de los usuarios de la plataforma web</td>
+    <td align="center"> 2</td>
+    <td align="center"> Gonzalo Andre Zavala Quedena </td>
+    <td align="center"> Done</td>
+  </tr>
+
+</table>
+
 #### 5.2.X.3. Development Evidence for Sprint Review.
 ![Sprint review development Evidence](image.jpg)
 #### 5.2.X.4. Testing Suite Evidence for Sprint Review.
@@ -1473,43 +1616,6 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
 ![Sprint review Software Deployment Evidence](image.jpg)
 #### 5.2.X.8. Team Collaboration Insights during Sprint.
 ![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
-
-## 5.3. Validation Interviews.
-### 5.3.1. Diseño de Entrevistas.
-
-1. ¿Cuál es su nombre? 
-2. ¿Qué edad tiene? 
-3. ¿A qué se dedica? 
-4. ¿[Opinion de idea de propuesta]? 
-
-### 5.3.2. Registro de Entrevistas.
-**Segmento 1**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)  
-{texto mucho}
-
-**Segmento 2**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)
-{texto}
-
-### 5.3.3. Evaluaciones según heurísticas.
-| HEURÍSTICA   | EVALUACIÓN ✅❌ | NOTA      |
-| --------------------------------------------- | ---------- | --------- |
-| Visibilidad del estado del sistema            |            | {texto}   |
-| Coincidencia entre el sistema y el mundo real |            | {texto}   |
-| Control y libertad del usuario                |            | {texto}   |
-| Consistencia y estándares                     |            | {texto}   |
-| Prevención de errores                         |            | {texto}   |
-| Mostrar antes que recordar                    |            | {texto}   |
-| Flexibilidad y eficiencia de uso              |            | {texto}   |
-| Diseño estético y minimalista                 |            | {texto}   |
-| Comunicar errores con facilidad               |            | {texto}   |
-| Ayuda y documentación                         |            | {texto}   |  
-  
+ 
 ## 5.4. Video About-the-Product.
 [URL del video about the product](https://www.example.com)
