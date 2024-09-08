@@ -547,10 +547,10 @@ Aspectos psicologicos:
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 **Segmento 1:**  
-![Imagen User Persona 1](image.jpg)
+<img src="assests/Ricardo Salas-user.png">
 
 **Segmento 2:**
-![Imagen User Persona 1](image.jpg)
+<img src="assests/Carlos Martinez-userpesque.png">
 
 ### 2.3.2. User Task Matrix.
 | --- | ------ | Segmento 1  | ------/----- | Segmento 2  | ---------- |
@@ -567,10 +567,10 @@ Aspectos psicologicos:
 
 ### 2.3.4. Empathy Mapping.
 **Segmento 1:**
-![Empathy Map Segmento1](assests/Segmento%201%20Empathy%20Map.png)
+<img src="assests/Segmento 1 Empathy Map.png">
 
 **Segmento 2:**
-![Empathy Map Segmento1](assests/Segmento%202%20Empathy%20Map.png)
+<img src="assests/Segmento 2 Empathy Map.png">
 ### 2.3.5. As-is Scenario Mapping.
 
 **Segmento 1**  
