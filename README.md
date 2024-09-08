@@ -389,7 +389,25 @@ When ocurre algo diferente
 ```
 
 ### 5.1.4. Software Deployment Configuration.
-Configuraciones de donde y como deployeamos el proyecto
+
+Dado que hemos mencionado anteriormente, la administración de nuestro código fuente se llevará a cabo mediante GitHub. Además, utilizaremos GitHub Pages para la publicación y despliegue de la página.
+
+En cuanto al desarrollo del landing page, estamos utilizando el repositorio ubicado en el siguiente URL: https://github.com/orgs/Dotvue/repositories
+
+![Dotvue-Repositories](./assets/images/chapter-V/repositorios-vista.png)
+
+Para desplegar la Landing Page de manera local descargamos el zip, o podemos clonar el repositorio con la herramienta git y el comando: 
+
+    git clone + URL repository
+
+La URL del repositorio se ubica en la siguiente sección de cada repositorio en GitHub:
+
+![Dotvue-Repository-url](./assets/images/chapter-V/clone-url.png)
+
+Desde el IDE de nuestra preferencial (para muestras de ejemplo se usará Webstorm de Jetbrains) seleccionamos la opción “Get from VCS” e insertamos la URL que obtuvimos del repositorio.
+
+![Dotvue-Landing-clone](./assets/images/chapter-V/clone-landing.png)
+
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.X. Sprint n
 #### 5.2.X.1. Sprint Planning n.
