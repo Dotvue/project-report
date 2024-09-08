@@ -223,33 +223,33 @@ Link Application Prototype (Figma): [URL del Prototipo Figma](https://shorturl.a
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
 
-<img src="https://github.com/Dotvue/project-report/blob/013c171e4128c7a73a69e69c1828b46bd29b2a4c/assets/images/chapter-iv/c4model/SystemContext.png" />
+<img src="./assets/images/chapter-iv/c4model/SystemContext.png"/>
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
-<img src="https://github.com/Dotvue/project-report/blob/013c171e4128c7a73a69e69c1828b46bd29b2a4c/assets/images/chapter-iv/c4model/Containers.png" /> 
+<img src="./assets/images/chapter-iv/c4model/Containers.png" /> 
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
 **Login and SignIn Bounded Context**
 
-<img src="https://github.com/Dotvue/project-report/blob/013c171e4128c7a73a69e69c1828b46bd29b2a4c/assets/images/chapter-iv/c4model/AuthenticationContext.png" />
+<img src="./assets/images/chapter-iv/c4model/AuthenticationContext.png" />
 
 **Generate Invoice Bounded Context**
 
-<img src="https://github.com/Dotvue/project-report/blob/013c171e4128c7a73a69e69c1828b46bd29b2a4c/assets/images/chapter-iv/c4model/InvoiceContext.png" />
+<img src="./assets/images/chapter-iv/c4model/InvoiceContext.png" />
 
 **Manage Inventory Bounded Context**
 
-<img src="https://github.com/Dotvue/project-report/blob/013c171e4128c7a73a69e69c1828b46bd29b2a4c/assets/images/chapter-iv/c4model/InventoryContext.png" />
+<img src="./assets/images/chapter-iv/c4model/InventoryContext.png" />
 
 **Monitoring Bounded Context**
 
-<img src="https://github.com/Dotvue/project-report/blob/013c171e4128c7a73a69e69c1828b46bd29b2a4c/assets/images/chapter-iv/c4model/MonitoringContext.png" />
+<img src="./assets/images/chapter-iv/c4model/MonitoringContext.png" />
 
 **Request Orders Bounded Context**
 
-<img src="https://github.com/Dotvue/project-report/blob/013c171e4128c7a73a69e69c1828b46bd29b2a4c/assets/images/chapter-iv/c4model/RequestContext.png" />
+<img src="./assets/images/chapter-iv/c4model/RequestContext.png" />
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
