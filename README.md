@@ -1740,8 +1740,22 @@ Después de finalizar el Sprint 1, hemos logrado implementar todas las secciones
 *footer*: contenido extra, como telefono,correo y redes para que puedan comunicarse con la empresa devinsons.
 ![footer](./assets/images/chapter-V/footer.png)
 
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review.
-![Sprint review Services Documentation Evidence](image.jpg)
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+En el primer sprint, hemos realizado el diseño, la programación y el despligue de la Landing Page que presentará nuesta apliación web "AquaEngine"
+
+<table> 
+  <tr>
+    <td> <strong>End Point </strong></td>
+    <td align="center"> <strong>Funciones</strong> </td>
+  </tr>
+
+  <tr>
+    <td> https://dotvue.github.io/AquaEngine-landing-page/</td>
+    <td> Desplegar Landing Page de AquaEngine</td>
+  </tr>
+</table>
+
 #### 5.2.X.7. Software Deployment Evidence for Sprint Review.
 ![Sprint review Software Deployment Evidence](image.jpg)
 #### 5.2.X.8. Team Collaboration Insights during Sprint.
