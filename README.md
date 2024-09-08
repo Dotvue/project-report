@@ -275,7 +275,6 @@ Aspectos psicologicos:
  - Objetivo: Obtener maquinaria más rápido 
  - Valores: Eficiencia, Trabajo en equipo, Puntualidad
 
----
 
 
 
