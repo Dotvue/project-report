@@ -30,7 +30,6 @@
 <br> AGOSTO 2024
 </center>  
 
-# Registro de Versiones del Informe
 <center>
 
 # Registro de Versiones del Informe  
@@ -258,7 +257,7 @@ Desarrollar aplicaciones web de alta calidad utilizando tecnologías Open Source
   </tr>
 
   <tr>
-    <td><img src="https://github.com/Dotvue/project-report/blob/552490812d822cd05a49da7bd06a2e347ddc46cc/assets/chapterI/team-photos/Sebastian_Aiquipa.png" /></td>
+    <td><img src="./assets/chapterI/team-photos/Sebastian_Aiquipa.png" /></td>
     <td>Sebastian Andres Aiquipa Poma</td>
     <td>Ingeniería de Software</td>
     <td>Estudio en la carrera de Ingenieria de Software en la UPC. Tengo conocimientos en C++, Python y actualmente estoy practicando en Java. Considero que la comunicacion y el aprendizaje constante son las claves que me permitiran progresar.</td>
