@@ -50,8 +50,10 @@ Link de reporte: [GitHub Startup report](https://github.com/Dotvue/project-repor
 Link de landing page: [Startup landing page](https://landing.com)  
 Link de organización: [GitHub Dotvue organization](https://github.com/orgs/Dotvue/repositories)  
 
-(Imagenes de los commits cada entrega)
+Reporte de la elaboracion de la TB1te la TB1
+* Los contenidos asignados a cada miembro fueron redactados y organizados en formato Markdown, y se realizaron commits para asegurar el avance en el repositorio.
 
+![Team Collaboration](./assets/images/team-collaboration.png)
 
 # Contenido
 
@@ -200,7 +202,6 @@ equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colabor
   </tr>
 </table>   
 
->>>>>>> develop
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
