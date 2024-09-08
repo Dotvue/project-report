@@ -591,10 +591,29 @@ Características Personales y Tecnología: Miguel se considera introvertido pero
 <img src="assests/Carlos Martinez-userpesque.png">
 
 ### 2.3.2. User Task Matrix.
-| --- | ------ | Segmento 1  | ------/----- | Segmento 2  | ---------- |
-| --- | ------ | ----------- | ------------ | ----------- | ---------- |
-| ID  | Titulo | Importancia | Frecuencia   | Importancia | Frecuencia |
-| U01X| {Texto}| Alta        | Alta         | Media       | Baja       |
+
+**Segmento 1: Productor de maquinara pesquera**
+
+| **Task**                                  | **Frequency** | **Importance** |
+|-------------------------------------------|---------------|----------------|
+| Monitorio de procesos                     | High          | High           |
+| Gestion de inventario                     | High          | High           |
+| Mantenimiento de maquinaria de trabajo    | Medium        | High           |
+| Atencion al cliente                       | Low           | High           |
+| Control de calidad                        | Medium        | High           |
+| Planificacion de la producción            | High          | Medium         |
+
+**Segmento 2: Empresario pesquero**
+
+| **Task**                                  | **Frequency** | **Importance** |
+|-------------------------------------------|---------------|----------------|
+| Revision de inventario                    | High          | High           |
+| Solicitud de mantenimiento de equipos     | Medium        | High           |
+| Consulta de pagos y facturacion           | Medium        | High           |
+| Negociacion con proveedores de maquinaria | Low           | Medium         |
+| Planificacion de operaciones de pesca     | Hight         | High           |
+| Capacitación del personal                 | Low           | Medium         |
+
   
 ### 2.3.3. User Journey Mapping.
 **Segmento 1**
