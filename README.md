@@ -1604,8 +1604,96 @@ Enlaze al product backlog con las tareas correspondientes: https://www.pivotaltr
 
 </table>
 
-#### 5.2.X.3. Development Evidence for Sprint Review.
-![Sprint review development Evidence](image.jpg)
+#### 5.2.1.3. Development Evidence for Sprint Review.
+
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center">https://github.com/Dotvue/AquaEngine-landing-page </td>
+    <td align="center"> main</td>
+    <td align="center"> 8c635063c7d47bf77d427f89251f507e8e383d80</td>
+    <td align="center"> chore: initial commit</td>
+    <td align="center"> ---</td>
+    <td align="center"> 04/09/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/funcionality</td>
+    <td align="center" > 66f2ea27cf6eaafaa540972f29b3553bf1fd65ed</td>
+    <td align="center"> feat(main): add functionality.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 07/09/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/header</td>
+    <td align="center">a07bc427df5faa3755d36946da6df24024307850</td>
+    <td align="center"> feat: add styles to dedicated navbar section up to 768px and above.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 07/09/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/recommendations</td>
+    <td align="center"> 4607fddf7278724c3ba7ed77b46cf4bc34940fdd
+</td>
+    <td align="center"> feat: add styles to recommendations section.</td>
+    <td align="center"> ---</td>
+    <td align="center">07/09/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/hero</td>
+    <td align="center"> 3ffd3bc380ed86a8008849d2b7669dc8b8938283</td>
+    <td align="center">feat: hero is now responsive</td>
+    <td align="center"> ---</td>
+    <td align="center"> 07/09/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/subscriptions</td>
+    <td align="center"> acb9b05913fc505893eac42a9727212fd106cb7f</td>
+    <td align="center"> style: update styles subscription section</td>
+    <td align="center"> ---</td>
+    <td align="center"> 08/09/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/footer</td>
+    <td align="center"> 1b5ecfeaa209ab51b5d1ceb8dd6cff8f63de0dfc</td>
+    <td align="center"> feat: add styles to footer section.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 07/09/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/form</td>
+    <td align="center">414c2fc0ffa290d3f1fa8004d26a60cc661ca611
+
+</td>
+    <td align="center"> feat(form): form completed.</td>
+    <td align="center"> ---</td>
+    <td align="center">07/09/2024</td>
+  </tr>
+
+
+  <tr>
+    <td align="center"> develop</td>
+    <td align="center">4427c7059a3dd60bccdbdb58cc90baa8a439dee0</td>
+    <td align="center">fix: resolve merge conflict with feature/form.</td>
+    <td align="center"> ---</td>
+    <td align="center">08/09/2024</td>
+  </tr>
+</table>
+
 #### 5.2.X.4. Testing Suite Evidence for Sprint Review.
 ![Sprint review Testing suite Evidence](image.jpg)
 #### 5.2.X.5. Execution Evidence for Sprint Review.
