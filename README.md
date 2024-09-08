@@ -23,9 +23,9 @@
 |----------------------------------|------------|
 | Daniel del Castillo  | U202211212 |
 | Gonzalo Andre Zavala Quedena | U202113656  |
-| Pedro Andre Guia Carrasco      |  |
-| Sebastián Aiquipa |  |
-| Omar Berrocal Ramirez |  |
+| Pedro Andre Guia Carrasco      | U202212010 |
+| Sebastián Aiquipa | U201916755 |
+| Omar Berrocal Ramirez | U20201b529 |
 
 <br> AGOSTO 2024
 </center>  
@@ -629,12 +629,11 @@ Texto ubiquo: Definicion de este
 
 Segmento 1: Productor de maquinaria pesquera
 
-<img src="https://github.com/Dotvue/project-report/blob/659b77ab2acd935de5a793373c879cf1afd26460/assests/to-be-fabricante.jpg" />
-
+<img src="assests/to-be-fabricante.jpg">
 
 Segmento 2: Empresa pesquera
 
-<img src="https://github.com/Dotvue/project-report/blob/659b77ab2acd935de5a793373c879cf1afd26460/assests/to-be-pesquero.jpg" />
+<img src="assests/to-be-pesquero.jpg">
 
 ## 3.2. User Stories.
 
