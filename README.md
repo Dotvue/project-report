@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # <center>COURSE PROJECT</center>
 
 <p align="center">
