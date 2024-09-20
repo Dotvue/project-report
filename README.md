@@ -82,6 +82,8 @@ Complementa al sistema global permitiendo el acceso a otras páginas dentro del 
 ![Navigation interface preview web](/assets/images/chapter-iv/style-guidelines/nav.png)
 
 ## 4.3. Landing Page UI Design.
+En esta sección, presentamos el diseño de la página de aterrizaje (landing page) de la aplicación web, que tiene como objetivo captar la atención de los usuarios y convertirlos en clientes potenciales. La página de aterrizaje es la primera impresión que los usuarios tendrán de la aplicación, por lo que es fundamental que sea atractiva, informativa y fácil de usar.  
+
 ### 4.3.1. Landing Page Wireframe.
 Link a los Wireframes de la Landing Page (Figma):  
 **https://shorturl.at/0RTW9**
