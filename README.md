@@ -269,35 +269,40 @@ https://shorturl.at/w2yHe
 ![Web Aplication Prototype](/assets/images/chapter-iv/application-prototype/prototype.png)
 
 ## 4.6. Domain-Driven Software Architecture.
-### 4.6.1. Software Architecture Context Diagram.
+En esta sección, se presenta la arquitectura de software basada en el dominio, un enfoque que centra el diseño y desarrollo del software en el conocimiento del dominio específico del negocio. Este enfoque permite crear sistemas más alineados con las necesidades y procesos del negocio, facilitando la comunicación entre desarrolladores y expertos del dominio. A continuación, se detallan los diferentes diagramas y contextos delimitados que conforman la arquitectura de software de nuestro proyecto.
 
-<img src="./assets/images/chapter-iv/c4model/SystemContext.png"/>
+### 4.6.1. Software Architecture Context Diagram.
+El diagrama de contexto del sistema muestra la relación entre el sistema y los actores externos, proporcionando una visión general de la arquitectura del sistema y sus interacciones con el entorno externo.  
+
+<img src="./assets/images/chapter-iv/c4model/SystemContext.png" alt="c4-system-context"/>
 
 ### 4.6.2. Software Architecture Container Diagrams.
+Los diagramas de contenedores muestran los diferentes contenedores que componen el sistema, como aplicaciones web, bases de datos, microservicios y cómo se comunican entre sí. Estos diagramas proporcionan una visión de alto nivel de la arquitectura del sistema, destacando las responsabilidades de cada contenedor y sus interacciones.  
 
-<img src="./assets/images/chapter-iv/c4model/Containers.png" /> 
+<img src="./assets/images/chapter-iv/c4model/Containers.png" alt="c4-container"/> 
 
 ### 4.6.3. Software Architecture Components Diagrams.
+En esta sección, se presentan los diagramas de componentes de la arquitectura de software. Estos diagramas detallan los diferentes componentes que conforman el sistema, sus responsabilidades y cómo interactúan entre sí. 
 
 **Login and SignIn Bounded Context**
 
-<img src="./assets/images/chapter-iv/c4model/AuthenticationContext.png" />
+<img src="./assets/images/chapter-iv/c4model/AuthenticationContext.png" alt="bound-context-authentication"/>
 
 **Generate Invoice Bounded Context**
 
-<img src="./assets/images/chapter-iv/c4model/InvoiceContext.png" />
+<img src="./assets/images/chapter-iv/c4model/InvoiceContext.png" alt="bound-context-invoice"/>
 
 **Manage Inventory Bounded Context**
 
-<img src="./assets/images/chapter-iv/c4model/InventoryContext.png" />
+<img src="./assets/images/chapter-iv/c4model/InventoryContext.png" alt="bound-context-inventory"/>
 
 **Monitoring Bounded Context**
 
-<img src="./assets/images/chapter-iv/c4model/MonitoringContext.png" />
+<img src="./assets/images/chapter-iv/c4model/MonitoringContext.png" alt="bound-context-monitoring"/>
 
 **Request Orders Bounded Context**
 
-<img src="./assets/images/chapter-iv/c4model/RequestContext.png" />
+<img src="./assets/images/chapter-iv/c4model/RequestContext.png" alt="bound-context-request"/>
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
