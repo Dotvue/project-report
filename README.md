@@ -4,7 +4,7 @@
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
     <strong>Ingeniería de Software</strong><br>
-    <strong>Aplicaciones Web - SV51</strong><br>
+    <strong>Desarrollo de Aplicaciones Open Source - SV51</strong><br>
     <strong>Profesor: Angel Augusto Velasquez Nuñez </strong><br>
     <br>INFORME TRABAJO FINAL
 </p>
@@ -46,16 +46,15 @@
 </center>
 
 # Project Report Collaboration Insights
-Link de reporte: https://github.com/Dotvue/project-report
-Link de landing page: https://landing.com
-Link de organización: https://github.com/orgs/Dotvue/repositories
+Link de reporte: [GitHub Startup report](https://github.com/Dotvue/project-report)  
+Link de landing page: [Startup landing page](https://landing.com)  
+Link de organización: [GitHub Dotvue organization](https://github.com/orgs/Dotvue/repositories)  
 
-Reporte de la elaboracion de la TB1te la TB1
-* Los contenidos asignados a cada miembro fueron redactados y organizados en formato Markdown, y se realizaron commits para asegurar el avance en el repositorio.
+(Imagenes de los commits cada entrega)
 
-![Team Collaboration](./assets/images/team-collaboration.png)
 
 # Contenido
+
 
 [Registro de Versiones del Informe](#registro-de-versiones-del-informe)  
 [Project Report Collaboration Insights](#project-report-collaboration-insights)  
@@ -174,7 +173,6 @@ Reporte de la elaboracion de la TB1te la TB1
 [Anexos](#anexos)  
 
 # Student Outcome
-
 El curso contribuye al cumplimiento del **Student Outcome ABET:ABET – EAC - Student Outcome 5** Criterio: La capacidad de funcionar efectivamente en un  
 equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
 
@@ -204,7 +202,9 @@ equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colabor
 
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
+
 ### 1.1.1. Descripción de la Startup
+
 
 Dotvue es una startup dedicada a crear soluciones de gestión de producción que ayudan a empresas tradicionales a optimizar sus procesos, priorizamos la experiencia del usuario para así darle un producto a la medida que sea una herramienta poderosa que pueda utiliar para desempeñar sus labores más eficientemente. De ese modo podemos ayudarlos a destacar en el mercado en el que se desempeñan. 
 
@@ -452,9 +452,9 @@ Sabremos que tendremos éxito cuando veamos un aumento significativo de pedidos 
 ***Segmento #1: Productoras de maquinaria pesquera***
 
 Aspectos demográficos:
- - Sexo:Masculino y femenino
- - Edad:23-60 años
- - Estado Civil:Soltero o casado
+ - Sexo: Masculino y femenino
+ - Edad: 23-60 años
+ - Estado Civil: Soltero o casado
 
 Aspectos geográficos:
  - Ubicación: Lima, Perú
@@ -463,36 +463,39 @@ Aspectos psicologicos:
  - Objetivo: Aumentar la cantidad de pedidos que pueden procesar.
  - Valores: Eficiencia, Honestidad, Responsabilidad, Asertividad.  
     
-***Segmento #2:Empresas pesqueras***
+***Segmento #2: Empresas pesqueras***
+# Capítulo II: Requeriments Elicitation & Analysis
+
+### 2.1. Competidores
+En esta sección se identifican y analizan los principales competidores directos e indirectos de Dotvue. El objetivo es comparar las características clave de cada competidor en términos de su propuesta de valor, mercado objetivo, estrategias de marketing, y productos o servicios ofrecidos. Este análisis permitirá entender mejor el panorama competitivo y ayudará a identificar las áreas de oportunidad en las que [nombre de tu startup] puede diferenciarse y sobresalir.
+
+### Siemens
+Siemens es una multinacional alemana líder en automatización, digitalización y soluciones de infraestructura, con más de 175 años en la industria tecnológica e ingeniería. Operando en sectores como energía, salud, manufactura y automatización industrial, Siemens ofrece soluciones innovadoras que combinan software, hardware y consultoría. Su plataforma **Siemens Digital Industries Software** optimiza procesos mediante inteligencia artificial y análisis de datos, ayudando a empresas a mejorar su eficiencia y productividad. Con una fuerte presencia global y una amplia oferta de productos, Siemens sigue siendo un competidor clave en el mercado de soluciones industriales avanzadas.
+
+### SAP
+SAP SE es una de las mayores empresas de software empresarial a nivel global, fundada en 1972 en Alemania. Se especializa en soluciones de planificación de recursos empresariales (ERP), gestión de relaciones con clientes (CRM) y análisis de datos. Con presencia en más de 180 países, SAP destaca por su capacidad para integrar soluciones complejas en grandes empresas, facilitando su transformación digital con productos como SAP S/4HANA y SAP Business One. Su enfoque en la innovación y la experiencia del cliente lo posiciona como líder en tecnología empresarial.
+
+### 2.1.1 Análisis competitivo
 | Competitive Analysis Landscape                          |  |
 | ------------------------------------------------------- | -|
-| ¿Por qué llevar a cabo este análisis?                   | Es importante tener una compresión precisa de las características de nuestro proyecto y de la competencia, para poder idear estrategias que nos permitan tener una ventaja competitiva superior a la de otros.|
+| ¿Por qué llevar a cabo este análisis?                   | Realizamos este análisis a fin de poder conocer el mercado al que nos enfrentamos en un inicio, para de esta manera poder evaluar las estrategias adoptadas por plataformas ya existentes, y así aprender de sus aciertos y errores. |
 
-| |  | AquaEngine | Siemens | SAP |
+
+| |  | (Nosotros)| Siemens |  SAP |
 |-|-|-|-|-|
-| PERFIL| Overview | Optimiza la gestión de producción en la industria de maquinaria pesquera mediante un sistema integral que abarca desde la entrada de datos hasta la facturación, incluyendo gestión de inventarios y monitoreo de equipos, cubriendo así las necesidades clave del sector. | Compañia tecnológica que proporciona soluciones avanzadas como el desarrollo de software y servicios que mejoran la producción y eficiencia en distintas industrias. | Empresa especializada en soluciones de gestion que abarcan finanzas, cadena de suministro, y operaciones. Es conocida por sus innovaciones en inteligencia artificial, analisis de datos y la nube, ayudando a las empresas a tomar decisiones informadas y eficientes. |
-|| Ventaja competitiva ¿Qué valor ofrece a los clientes? | Integraremos múltiples funciones clave en un solo sistema, lo que reduce la necesidad de múltiples plataformas y minimiza la fragmentación de datos. La ventaja se enfoca en: Automatización y eficiencia, monitoreo de tiempo real y personalización.  | Ofrece soluciones en automatización industrial, control de procesos, gestión de energía, transporte inteligente y teconologias de la salud. Tambien servicios de digitalizacion y software avanzado para oprtimizar la producción y la infraestructura. | Brinda multiples funciones de negocio con una única visión de la verdad. Esto ayuda a las empresas a gestionar mejor los procesos de negocios complejos dándoles a los empleados de diferentes departamentos un acceso fácil a información en tiempo real en toda a empresa.
-|| Mercado Objetivo                                        | Empresa maquinaria pesquera y pescadores. | Salud, Industrial, Aerolineas, Centro de datos, etc. | Industria automotriz, Banca, Comercio Minorista, etc. |
-| Perfil de marketing                                     | Estrategia de Marketing | Redes Sociales | Redes Sociales | Televisión, Redes Sociales |
-| Perfil del producto                                     | Productos y servicios |Modulos para entrada de datos, aceptación de pedidos, gestion de inventario, monitoreo de equipos y facturación, junto con servicios de implementación y soporte técnico. | Automatización industrial, Energía, Software, etc. | Red de negocios, Gestión financiera, Gestión del capital humano (HCM), Gestión de cadena de suministros y Planificación de recursos empresariales. |
-|| Precios y costos                                        | $120 mensuales | Depende de los materiales del inventario de cada sector.  | Depende de los materiales del inventario de cada sector.  |
-|| Canales de distribución (Web y/o Móvil)                 | Web y mobile | Web | Web |  
+| PERFIL| Overview |  Optimiza la gestión de producción en la industria de maquinaria pesquera mediante un sistema integral que abarca desde la entrada de datos hasta la facturación, incluyendo gestión de inventarios y monitoreo de equipos, cubriendo así las necesidades clave del sector.  | Compañia tecnológica que proporciona soluciones avanzadas como el desarrollo de software y servicios que mejoran la producción y eficiencia en distintas industrias.  | Empresa especializada en soluciones de gestion que abarcan finanzas, cadena de suministro, y operaciones. Es conocida por sus innovaciones en inteligencia artificial, analisis de datos y la nube, ayudando a las empresas a tomar decisiones informadas y eficientes. |
+|| Ventaja competitiva ¿Qué valor ofrece a los clientes? | Integraremos múltiples funciones clave en un solo sistema, lo que reduce la necesidad de múltiples plataformas y minimiza la fragmentación de datos. La ventaja se enfoca en: Automatización y eficiencia, monitoreo de tiempo real y personalización. | Ofrece soluciones en automatización industrial, control de procesos, gestión de energía, transporte inteligente y teconologias de la salud. Tambien servicios de digitalizacion y software avanzado para oprtimizar la producción y la infraestructura.  |Brinda multiples funciones de negocio con una única visión de la verdad. Esto ayuda a las empresas a gestionar mejor los procesos de negocios complejos dándoles a los empleados de diferentes departamentos un acceso fácil a información en tiempo real en toda a empresa.| 
+|| Mercado Objetivo                                        | Empresa maquinaria pesquera y pescadores | Salud, Industrial, Aerolineas, Centro de datos, etc. | Industria automotriz, Banca, Comercio Minorista, etc. |
+| Perfil de marketing                                     | Estrategia de Marketing | Se hacen uso de redes sociales y de publicidad en línea | Publicidad por redes y publicidad en línea | MPublicidad por redes y publicidad en línea |
+| Perfil del producto                                    | Productos y servicios | Modulos para entrada de datos, aceptación de pedidos, gestion de inventario, monitoreo de equipos y facturación, junto con servicios de implementación y soporte técnico.| Automatización industrial, Energía, Software, etc.  | Red de negocios, Gestión financiera, Gestión del capital humano (HCM), Gestión de cadena de suministros y Planificación de recursos empresariales.|
+ || Precios y costos                                        | $120 mensuale | De pago | De pago |
+|| Canales de distribución (Web y/o Móvil)                 | Web y Móvil Web | Móvil Web | Web y móvil Web ||
+
   
 ### 2.1.2. Estrategias y tácticas frente a competidores.
+En esta sección, indicaremos las estrategias y tácticas que seran eficientes para medirnos frente a los competidores, mediante el Análisis SWOT una herramienta que ayuda a evaluar las Fortalezas, Debilidades, Oportunidades y Amenazas.
 
-Aspectos demográficos:
- - Sexo:Masculino o Femenino
- - Edad: 24- 60 años
- - Estado Civil:Soltero o Casado
-
-Aspectos geográficos:
- - Ubicación: Departamentos costeros del perú(Lima, Ica, Piura, Lambayeque, etc.)
-
-Aspectos psicologicos:
- - Objetivo: Obtener maquinaria más rápido 
- - Valores: Eficiencia, Trabajo en equipo Puntualidad
-
-|Competidores |  | AquaEngine | Siemens | SAP|
+|Competidores |  | AquaEngine  ![AquaEngine](./assests/AquaEngine.jpeg)| Siemens ![Siemens](./assests/Siemens.png)| SAP ![SAP](./assests/SAP.png)|
 |-|-|-|-|-|
 | Análisis SWOT | Fortalezas | Integración de procesos Optimización del inventario, Monitoreo continuo | Diversificación, Innovación, Fuerte Marca y Reputación | Lider en el mercado, Amplia Gama de Productos, Innovación Continua, Integración de Soluciones |
 || Debilidades   | Costo de implementación, Mantenimiento y soporte | Estructura compleja, Dependencias de Mercados Internacionales, Costos Elevados | Costos elevados, Complejidad de Implementación, Dependencia del Software Legacy | 
@@ -579,15 +582,9 @@ Características Personales y Tecnología: Miguel se considera introvertido pero
 
 ### 2.2.3. Análisis de entrevistas.
 **Segmento 1:**
-![Grafico I](./assets/chapter-II/Gráfico%20I%20segmento%201.png)
-
-Podemos ver que mas de la mayoria de nuestros usuarios usan windows, dicha informaación será utilizada para la generación de user personas y quier decir que nuestros usuarios van por la tecnología más común, ninguno cuenta con una portatil con linux por ejemplo
-
-![Grafico I](./assets/chapter-II/Gráfico%20II%20segmento%201.png)
-
-Podemos denotar que la mayoria de nuestros usuarios son usuarios de android, siendo así tambien parte de la moda
-
-
+{texto}
+**Segmento 2:**
+{texto}
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 **Segmento 1:**  
@@ -695,7 +692,6 @@ Segmento 2: Empresa pesquera
 | TS02 | Read Billing Record | As a developer,<br> I want to implement the GET endpoint for reading billing records,<br> To allow users to retrieve the details of their billing entries. | **Scenario 1: Successful retrieval of a billing record**<br> Given the endpoint /api/v1/billing/{id} is available,<br> When a GET request is sent with a valid id,<br> Then a response is received with status 200,<br> And the Billing Resource is included in the Response Body with the details for the specified id.<br><br>**Scenario 2: Retrieval of a non-existing billing record**<br> Given the endpoint /api/v1/billing/{id} is available,<br> When a GET request is sent with an invalid id,<br> Then a response is received with status 404,<br> And a message is included in the Response Body, with the value "Billing record not found." | E10 |
 | TS03 | Update Billing Record | As a developer,<br> I want to implement the PUT endpoint for updating billing records,<br> To allow users to modify existing billing details. | **Scenario 1: Successful update of a billing record**<br> Given the endpoint /api/v1/billing/{id} is available,<br> When a PUT request is sent with the id and updated values for billingId and billingDetails,<br> Then a response is received with status 200,<br> And the updated Billing Resource is included in the Response Body with the new values for billingId and billingDetails.<br><br>**Scenario 2: Update of a non-existing billing record**<br> Given the endpoint /api/v1/billing/{id} is available,<br> When a PUT request is sent with an invalid id and updated values,<br> Then a response is received with status 404,<br> And a message is included in the Response Body, with the value "Billing record not found for update." | E10 |
 | TS04 | Delete Billing Record | As a developer,<br> I want to implement the DELETE endpoint for removing billing records,<br> To allow users to delete billing entries from the system. | **Scenario 1: Successful deletion of a billing record**<br> Given the endpoint /api/v1/billing/{id} is available,<br> When a DELETE request is sent with a valid id,<br> Then a response is received with status 200,<br> And a message is included in the Response Body, with the value "Billing record deleted successfully.".<br><br>**Scenario 2: Deletion of a non-existing billing record**<br> Given the endpoint /api/v1/billing/{id} is available,<br> When a DELETE request is sent with an invalid id,<br> Then a response is received with status 404,<br> And a message is included in the Response Body, with the value "Billing record not found for deletion." | E10 |
->>>>>>> develop
 
 
 ## 3.3. Impact Mapping.
@@ -1458,9 +1454,153 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
     </tbody>
 </table>
 
-#### 5.2.X.2. Sprint Backlog n.
-![SprintBacklog n](image.jpg) Nica hago la tabla 
-#### 5.2.X.3. Development Evidence for Sprint Review.
+#### 5.2.1.2. Sprint Backlog 1.
+Para el primer sprint el equipo establecio que el desarrollo de las tareas serian unas 20 horas.
+Enlaze al product backlog con las tareas correspondientes: https://www.pivotaltracker.com/projects/2717945
+
+![sprint-1](./assets/images/chapter-V/pivotal-tracker.png)
+
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 1</strong> </td>
+  </tr>
+
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>Description<strong></td>
+    <td align="center"> <strong>Estimation (Hours)<strong></td>
+    <td align="center"> <strong>Assigned To<strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  <strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="4" align="center"> ID </td>
+    <td rowspan="4" align="center"> US18 Navegación por la Landing Page</td>
+    <td align="center"> TA01 </td>
+     <td align="center"> menu con hipervinculos responsive</td>
+    <td align="center">Cada Hipervinculo debe de rediriguirte a una seccion especifica de la landing page </td>
+    <td align="center"> 2</td>
+    <td align="center"> Gonzalo Andre Zavala Quedena</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> menu de navegacion mobile</td>
+    <td align="center"> Se debe desarrollar el menu mobile, haciendo uso de un icono que despliegue los hipervinculos</td>
+    <td align="center"> 2</td>
+    <td align="center"> Gonzalo Andre Zavala Quedena</td>
+    <td align="center">Done</td>
+  </tr>
+
+   <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Hero</td>
+    <td align="center"> Se debe desarrollar un banner con una frase y un botón call to action que permita dirigirnos a la aplicación web.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Daniel Mateo del Castillo Bueno</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center"> TA04 </td>
+    <td align="center"> Hero responsive</td>
+    <td align="center"> Esta seccion debe de ajustarse el diseño dependiendo del tamaño de la pantalla del navegador.</td>
+    <td align="center"> 1</td>
+    <td align="center"> Daniel Mateo del Castillo Bueno</td>
+    <td align="center">Done</td>
+  </tr>
+<!----------------------------------------------->
+  <tr>
+    <td rowspan="2" align="center"> ID </td>
+    <td rowspan="2" align="center"> US19 Visualización de Precios</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Planes</td>
+    <td align="center"> Debe de representar la informacion del uso de la aplicacion a traves de iconos o imagenes</td>
+    <td align="center"> 1</td>
+    <td align="center"> Sebastian Andres Aiquipa Poma</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Seccion Responsive </td>
+    <td align="center"> Esta seccion debe de ajustarse el diseño dependiendo del tamaño de la pantalla del navegador </td>
+    <td align="center"> 2</td>
+    <td align="center"> Sebastian Andres Aiquipa Poma</td>
+    <td align="center"> Done</td>
+  </tr>
+<!-------------------------------------------------->
+  <tr>
+    <td rowspan="2" align="center"> ID </td>
+    <td rowspan="2" align="center"> US20 Comparación de beneficios</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Desarrollo la sección funcionalidad</td>
+    <td align="center"> crea la seccion de funcionalidad que muestra los beneficios de la plataforma web.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Pedro Andre Guía Carrasco</td>
+    <td align="center"> Done</td>
+  </tr>
+   <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Seccion Responsive </td>
+    <td align="center"> Esta seccion debe de ajustarse el diseño dependiendo del tamaño de la pantalla del navegador </td>
+    <td align="center"> 1</td>
+    <td align="center"> Pedro Andre Guía Carrasco</td>
+    <td align="center"> Done</td>
+  </tr>
+
+<!---------------------------------------------------->
+  <tr>
+    <td rowspan="3" align="center"> ID </td>
+    <td rowspan="3" align="center"> US21 Contacto con ventas desde la landing page</td>
+      <td align="center"> TA01 </td>
+    <td align="center"> Formulario</td>
+    <td align="center"> Se desarrolla un formulario donde se pueda enviar un mensaje al Team.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Omar Berrocal Ramirez</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Form responsive </td>
+    <td align="center"> Esta seccion debe de tener varias configuraciones para tamaños de pantalla </td>
+    <td align="center"> 1</td>
+    <td align="center">Omar Berrocal Ramirez</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Footer</td>
+    <td align="center"> Esta seccion debe mostrarse la informacion de contacto y nuestras redes sociales </td>
+    <td align="center"> 2</td>
+    <td align="center">Gonzalo Andre Zavala Quedena </td>
+    <td align="center"> Done</td>
+  </tr>
+<!------------------------------------------------>
+   <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> US22 Consulta de reseñas de clientes</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Reseñas</td>
+    <td align="center"> Se desarrolla secion donde se muestra comentarios de las experiencias de los usuarios de la plataforma web</td>
+    <td align="center"> 2</td>
+    <td align="center"> Gonzalo Andre Zavala Quedena </td>
+    <td align="center"> Done</td>
+  </tr>
+
+</table>
+
+#### 5.2.1.3. Development Evidence for Sprint Review.
 ![Sprint review development Evidence](image.jpg)
 #### 5.2.X.4. Testing Suite Evidence for Sprint Review.
 ![Sprint review Testing suite Evidence](image.jpg)
@@ -1511,4 +1651,4 @@ Ocupación: _____
 | Ayuda y documentación                         |            | {texto}   |  
   
 ## 5.4. Video About-the-Product.
-[URL del video about the product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113656_upc_edu_pe/Eb28KbeSQ-5PrZMI9c7wDSQBkieKNajuJ6fjc4wOriMj6w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=9Ghv9u)
+[URL del video about the product](https://www.example.com)
