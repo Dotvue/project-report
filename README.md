@@ -464,6 +464,17 @@ Aspectos psicologicos:
  - Valores: Eficiencia, Honestidad, Responsabilidad, Asertividad.  
     
 ***Segmento #2: Empresas pesqueras***
+Aspectos demográficos:
+ - Sexo: Masculino o Femenino
+ - Edad: 24- 60 años
+ - Estado Civil: Soltero o Casado
+
+Aspectos geográficos:
+ - Ubicación: Departamentos costeros del Perú (Lima, Ica, Piura, Lambayeque, etc.)
+
+Aspectos psicologicos:
+ - Objetivo: Obtener maquinaria más rápido 
+ - Valores: Eficiencia, Trabajo en equipo Puntualidad
 # Capítulo II: Requeriments Elicitation & Analysis
 
 ### 2.1. Competidores
@@ -472,8 +483,12 @@ En esta sección se identifican y analizan los principales competidores directos
 ### Siemens
 Siemens es una multinacional alemana líder en automatización, digitalización y soluciones de infraestructura, con más de 175 años en la industria tecnológica e ingeniería. Operando en sectores como energía, salud, manufactura y automatización industrial, Siemens ofrece soluciones innovadoras que combinan software, hardware y consultoría. Su plataforma **Siemens Digital Industries Software** optimiza procesos mediante inteligencia artificial y análisis de datos, ayudando a empresas a mejorar su eficiencia y productividad. Con una fuerte presencia global y una amplia oferta de productos, Siemens sigue siendo un competidor clave en el mercado de soluciones industriales avanzadas.
 
+<img src="./assests/Siemens.png" withd=80%>
+
 ### SAP
 SAP SE es una de las mayores empresas de software empresarial a nivel global, fundada en 1972 en Alemania. Se especializa en soluciones de planificación de recursos empresariales (ERP), gestión de relaciones con clientes (CRM) y análisis de datos. Con presencia en más de 180 países, SAP destaca por su capacidad para integrar soluciones complejas en grandes empresas, facilitando su transformación digital con productos como SAP S/4HANA y SAP Business One. Su enfoque en la innovación y la experiencia del cliente lo posiciona como líder en tecnología empresarial.
+
+<img src="./assests/SAP.png" withd=80%>
 
 ### 2.1.1 Análisis competitivo
 | Competitive Analysis Landscape                          |  |
@@ -587,6 +602,8 @@ Características Personales y Tecnología: Miguel se considera introvertido pero
 {texto}
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
+En esta sección, se incluyen las fichas de User Personas que representan arquetipos detallados de los segmentos objetivo definidos para nuestro sitio web. Estos arquetipos se han creado a partir de un análisis de las entrevistas que hemos realizado con usuarios reales y un estudio comparativo de la competencia, con el objetivo de capturar las caracterí­sticas, necesidades, y comportamientos de nuestros usuarios.
+
 **Segmento 1:**  
 <img src="assests/Ricardo Salas-user.png">
 
@@ -594,12 +611,35 @@ Características Personales y Tecnología: Miguel se considera introvertido pero
 <img src="assests/Carlos Martinez-userpesque.png">
 
 ### 2.3.2. User Task Matrix.
-| --- | ------ | Segmento 1  | ------/----- | Segmento 2  | ---------- |
+En esta sección, se presenta el User Task Matrix, que agrupa las principales tareas que los User Personas realizan para cumplir sus objetivos. Los segmentos considerados para este análisis son "Ricardo Salas," un dueño de una pequeña empresa especializada en la produccion de maquinaria para el sector pesquero, y "Carlos Martinez," un empresario nuevo en el sector pesquero. Las siguientes tareas identificadas reflejan las actividades esenciales que estos usuarios realizan independientemente de la existencia de nuestra aplicación web.
+
+|  |  | Segmento 1  | Ricardo Salas | Segmento 2  | Carlos Martinez |
 | --- | ------ | ----------- | ------------ | ----------- | ---------- |
 | ID  | Titulo | Importancia | Frecuencia   | Importancia | Frecuencia |
-| U01X| {Texto}| Alta        | Alta         | Media       | Baja       |
-  
+| US01 | Registro de un nuevo usuario| Alta | Alta | Media | Baja |
+| US02 | Inicio de Sesión | Alta | Media | Alta | Media |
+| US03 | Estado de equipos | Alta | Media | Baja | Baja |
+| US04 | Notificaciones de estado | Media | Alta | Media | Media |
+| US05 | Historial de mantenimiento | Alta | Alta | Media | Baja |
+| US06 | Alertas de equipos críticos | Alta | Media | Baja | Baja |
+| US07 | Generación de facturas | Media | Media | Baja | Media |
+| US08 | Personalizacion de plantillas | Baja | Baja | Alta | Alta |
+| US09 | Historial de facturación | Alta | Media | Alta | Media |
+| US10 | Notificaciones de estado | Media | Alta | Media | Media | 
+| US11 | Gestion de inventario | Alta | Media | Media | Baja |
+| US12 | Gestion de inventario | Alta | Media | Media | Baja |
+| US13 | Consulta de productos en inventario | Media | Baja | Alta | Alta |
+| US14 | Solicitud de compra de equipo estandar | Alta | Media | Alta | Media |
+| US15 | Solicitud de alquiler de equipos | Alta | Alta | Media | Baja |
+| US16 | Seguimiento de solicitudes de equipos | Media | Alta | Media | Alta |
+| US17 | Cancelación de solicitudes de equipos | Media | Baja | Alta | Alta |
+| US18 | Navegación por la Landing Page | Media | Media | Alta | Media |
+| US19 | Visualización de Precios | Baja | Baja | Alta | Alta |
+| US20 | Comparación de beneficioS | Baja | Baja | Media | Media | 
+| US21 | Contacto con ventas desde la landing page | Media | Baja | Alta | Media |
+| US22 | Consulta de reseñas de clientes | Baja | Baja | Media | Media
 ### 2.3.3. User Journey Mapping.
+En esta sección se presentan los User Journey Maps, que ilustran el end-to-end journey que experimentan nuestros segmentos objetivo sin la intervención de nuestra solución propuesta. En estos mapas se identifican las etapas, interacciones y puntos de contacto que atraviesan para cumplir sus objetivos educativos. Por un lado, se presenta el recorrido completo que sigue el dueño, Ricardo Salas, al proponer un proyecto especial para el sector pesquero. Por otro lado, se detalla el recorrido del nuevo empresario, Carlos Martinez, al buscar materiales o productos para dicho proyecto asignado.
 **Segmento 1**
 <img src="assests/user1-journey.png">
 
@@ -607,12 +647,15 @@ Características Personales y Tecnología: Miguel se considera introvertido pero
 <img src="assests/user2 - journey map.png">
 
 ### 2.3.4. Empathy Mapping.
+Para los Empathy Mapping, esta herramienta nos ayudará a conocer un poco más lo que los usuarios sienten o necesitan de nuestra aplicación. Para llevarlo a cabo, se usará a las User Personas, los cuales son "Ricardo Salas", quien es el dueño de una pequeña empresa especializada en la produccion de maquinarias. El segundo es "Carlos Martinez", quien es un empresario nuevo que tiene ganas de competir en el mercado, pero debera optimizar tanto la comunicacion entre los proovedores con el mantenimiento de sus herramientas y maquinaria.
 **Segmento 1:**
 <img src="assests/Segmento 1 Empathy Map.png">
 
 **Segmento 2:**
 <img src="assests/Segmento 2 Empathy Map.png">
+
 ### 2.3.5. As-is Scenario Mapping.
+Para los As-Is Scenario, es una herramienta que nos ayuda a ejemplificar de mejor manera cual es el escenario actual sobre el problema que se intentará resolver, en este caso lo que son las clases en línea, presentando para nuestro proyecto el problema al momento del fabricante de maquinaria pesquera.
 
 **Segmento 1**  
 <img src="assests/as-is maquinaria.jpg">
@@ -629,6 +672,7 @@ Texto ubiquo: Definicion de este
 
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
+
 
 Segmento 1: Productor de maquinaria pesquera
 
