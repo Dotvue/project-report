@@ -1027,9 +1027,138 @@ Link Application Prototype (Figma): [URL del Prototipo Figma](https://shorturl.a
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
-<img src="assests/Diagrama de Clase_AQUAENGINE.png">
+En esta sección se mostrará el diagrama de las relaciones entre las clases que usará nuestra solución de software, utilizando patrones de software para un uso adecuado
+<img src="assets/images/chapter-III/InventoryManagement.png/">
+
+El diagrama describe la gestión de ítems de inventario. InventoryItem representa un ítem en stock, y tiene una estrategia de actualización que puede ser incremental o decremental, implementada por las clases IncrementalUpdateStrategy y DecrementalUpdateStrategy. InventoryService maneja la obtención y actualización del stock de productos, y la clase Observer monitorea los cambios en los ítems del inventario.
+
+<img src="assets/images/chapter-III/InvoiceManagement.png">
+
+El diagrama muestra la creación y gestión de facturas en relación con los pedidos. Invoice contiene información detallada de la factura, como el número, monto total y cliente asociado, y es creada por InvoiceFactory. InvoiceService se encarga de la generación y consulta de facturas. La interfaz Observer se utiliza para actualizar el estado de los pedidos relacionados con las facturas.
+
+<img src="assets/images/chapter-III/MachineryManagement.png">
+
+El diagrama muestra cómo se gestiona la maquinaria en el sistema. MachineryItem es la clase central que representa una máquina con su estado, dueño y última fecha de mantenimiento. La clase MachineryItemFactory crea ítems de maquinaria, mientras que MonitoringService gestiona el monitoreo de todas las máquinas y su estado. La interfaz Observer permite observar cambios en el estado de la maquinaria, implementada por MachineryChangeLogger para registrar dichos cambios.
+
+<img src="assets/images/chapter-III/OrderManagement.png">
+
+Este diagrama representa la gestión de pedidos en el sistema. La clase Order maneja la información principal del pedido, como el cliente y el estado, y OrderItem representa los ítems específicos dentro del pedido. OrderService gestiona la creación y recuperación de los pedidos. La interfaz Observer sigue el patrón de observador para monitorear cambios en el estado de los pedidos.
 
 ### 4.7.2. Class Dictionary.
+
+#### MachineryItem Class:
+Esta clase representa un ítem de maquinaria que es monitoreado dentro del sistema. Contiene detalles como su ID, propietario, estado y la última fecha de mantenimiento.
+
+Atributos:
+- id: Identificador único de la maquinaria.
+- ownerId: Identificador del propietario de la maquinaria.
+- status: Estado actual de la maquinaria (por ejemplo, activo, inactivo).
+- lastMaintenance: Fecha del último mantenimiento de la maquinaria.
+
+Métodos:
+
+- MachineryItem(id, ownerId, status, lastMaintenance): Constructor de la clase para inicializar un ítem de maquinaria.
+
+#### MachineryItemFactory Class:
+Es una fábrica para la creación de ítems de maquinaria. Sigue el patrón de diseño de Factory, lo que permite la creación de maquinaria con atributos definidos.
+
+Métodos:
+- createItem(id, ownerId, status, lastMaintenance): Crea y devuelve una nueva instancia de MachineryItem.
+#### MonitoringService Class:
+Esta clase sirve como servicio central para gestionar la maquinaria. Provee una instancia estática (singleton) para mantener y monitorear todas las instancias de maquinaria en el sistema.
+
+Atributos:
+
+- instance: Instancia única de MonitoringService.
+
+Métodos:
+ - getAllMachinery(): Devuelve la lista de toda la maquinaria registrada.
+ - getMachineryById(id): Devuelve una instancia específica de maquinaria basada en su ID.
+ - addMachinery(machinery): Añade una nueva instancia de maquinaria al sistema.
+ - logMaintenance(id): Registra una acción de mantenimiento en una maquinaria.
+#### Observer Interface:
+Es una interfaz que define un contrato para observar y reaccionar a los cambios en el estado de los ítems de maquinaria.
+
+Métodos:
+- updateStatus(machinery): Actualiza el estado del ítem de maquinaria cuando se produce un cambio.
+#### MachineryChangeLogger Class:
+Implementa la interfaz Observer y se encarga de registrar los cambios en el estado de las máquinas, como parte de un sistema de auditoría o logging.
+
+Métodos:
+ - update(machinery): Registra los cambios que ocurren en la maquinaria.
+
+### InventoryItem Class:
+Representa un ítem en el inventario. Contiene detalles como la cantidad y la estrategia de actualización para gestionar su stock.
+
+Atributos:
+- id: Identificador único del ítem de inventario.
+- quantity: Cantidad disponible del ítem.
+- updateStrategy: Estrategia usada para actualizar la cantidad de stock.
+### UpdateStrategy Class:
+Es una clase abstracta que define el comportamiento para actualizar el stock de un ítem de inventario. Se extiende mediante estrategias específicas.
+
+Métodos:
+ - updateQuantity(inventory, quantity): Método abstracto que se implementa para actualizar la cantidad de un ítem de inventario.
+### IncrementalUpdateStrategy Class:
+Clase que implementa la estrategia para incrementar la cantidad de stock en el inventario.
+
+Métodos:
+ - updateQuantity(inventory, quantity): Incrementa la cantidad de stock de un ítem de inventario.
+### DecrementalUpdateStrategy Class:
+Clase que implementa la estrategia para decrementar la cantidad de stock en el inventario.
+
+Métodos:
+- updateQuantity(inventory, quantity): Decrementa la cantidad de stock de un ítem de inventario.
+### InventoryService Class:
+Este servicio se encarga de la gestión del inventario. Permite obtener productos y actualizar su cantidad en stock.
+
+Métodos:
+ - getProduct(id): Recupera un producto por su ID.
+ - updateStock(id, qty): Actualiza el stock de un producto basado en su ID y la cantidad especificada.
+### Invoice Class:
+Representa una factura dentro del sistema. Contiene información sobre el monto total, el cliente, el número de factura, y la fecha de emisión.
+
+Atributos:
+- id: Identificador único de la factura.
+- invoiceNumber: Número de la factura.
+- date: Fecha de emisión de la factura.
+- totalAmount: Monto total de la factura.
+- customerId: Identificador del cliente al que se le emitió la factura.
+- orderId: Identificador del pedido asociado a la factura.
+### InvoiceFactory Class:
+Es una fábrica que se encarga de crear instancias de facturas. Utiliza el patrón Factory para estandarizar la creación de facturas.
+
+Métodos:
+- createInvoice(orderId, totalAmount): Crea una nueva instancia de Invoice basada en el pedido y el monto total.
+### InvoiceService Class:
+Clase que actúa como servicio para gestionar facturas en el sistema. Puede crear facturas o recuperar facturas por su ID.
+
+Métodos:
+- createInvoice(orderId, totalAmount): Crea una nueva factura.
+- getInvoiceById(id): Recupera una factura por su ID.
+
+### Order Class:
+Representa un pedido realizado por un cliente dentro del sistema. Contiene información relevante del pedido, como el ID del cliente, su estado, y la fecha de creación.
+
+Atributos:
+- id: Identificador único del pedido.
+- customerId: ID del cliente que realizó el pedido.
+- status: Estado del pedido (en proceso, completado, cancelado).
+- createdDate: Fecha de creación del pedido.
+- orderStatus: Estado específico del pedido (como pendiente, enviado).
+### OrderItem Class:
+Representa un ítem específico dentro de un pedido. Incluye detalles sobre el ítem, como la cantidad y el ID del pedido asociado.
+
+Atributos:
+- id: Identificador único del ítem.
+- orderId: Identificador del pedido al que pertenece el ítem.
+- quantity: Cantidad del ítem en el pedido.
+### OrderService Class:
+Es un servicio que gestiona la creación y recuperación de pedidos dentro del sistema.
+
+Métodos:
+- createOrder(customerId, items): Crea un nuevo pedido para un cliente y lo asocia con una lista de ítems.
+- getOrderById(id): Recupera un pedido basado en su ID.
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
