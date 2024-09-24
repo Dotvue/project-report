@@ -4,7 +4,7 @@
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
     <strong>Ingeniería de Software</strong><br>
-    <strong>Desarrollo de Aplicaciones Open Source - SV51</strong><br>
+    <strong>Aplicaciones Web - SV51</strong><br>
     <strong>Profesor: Angel Augusto Velasquez Nuñez </strong><br>
     <br>INFORME TRABAJO FINAL
 </p>
