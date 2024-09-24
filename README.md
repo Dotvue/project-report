@@ -552,19 +552,9 @@ Ocupación: Estudiante
 ![Imagen de entrevista](./assets/chapter-II/Entrevista-Gabriela.jpg)  
 Url: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211212_upc_edu_pe/EZwrIjs6eCpGoXGtIJDmEhoBF9R8IPjJyn-Pjs6LYvVhmw?e=Se64nT
 
-Aceptación de Pedidos e Inventario: Los clientes hacen pedidos basados en el catálogo de la empresa. La empresa se encarga de la entrega, instalación y mantenimiento de las máquinas centrifugas, por ejemplo.
+Gabriela Bueno, ex trabajadora de Fishman, mencionó que los clientes suelen pedir productos desde un catálogo, principalmente máquinas centrífugas que la empresa importa y luego instala y mantiene. Afirmó que el inventario está actualizado y que los mantenimientos se llevan a cabo fuera de la temporada de pesca, ya que es cuando las máquinas no están en uso. Sobre la facturación, Gabriela coincidió en que es un proceso eficiente y digital. Finalmente, sugirió que el sistema de inventario podría mejorarse agregando imágenes de los productos, destacando la importancia de este aspecto para una mejor gestión. Utiliza telefono iphone y una laptop con macOS.Además de usar chrome como navegador predeterminado
 
-Precisión del Inventario: El inventario de componentes está bastante actualizado.
 
-Monitoreo de Equipos: Las revisiones y mantenimientos se realizan durante la temporada baja (p.ej., de noviembre a enero), cuando las máquinas no están en uso.
-
-Facturación: La empresa gestiona la facturación de manera eficiente, procesando los pedidos en el momento que el cliente lo solicita.
-
-Mejoras en Gestión de Producción: Sugiere actualizar el sistema actual (en Excel) a una base de datos con imágenes de los componentes y otras mejoras.
-
-Problemas en el Inventario: No se especificaron problemas graves, pero se mencionó la necesidad de mejorar la gestión actual.
-
-Características Personales y Tecnología: Utiliza navegadores web, Chrome, Safari. Se considera una persona introvertida, aunque extrovertida en el trabajo.
 
 
 
@@ -576,20 +566,7 @@ Ocupación: Empresario
 ![Imagen de entrevista](./assets/chapter-II/Entrevista-miguel.png)  
 Url: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211212_upc_edu_pe/EfsS8gIoxNRAnKKAcgRXfAgBT7SKASxxGqWHldWJSMPrQQ?e=n7SgSb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-
-Procesos y Gestión:
-
-Aceptación de Pedidos: Los clientes hacen pedidos basados en sus requerimientos. La empresa visita la planta del cliente para verificar necesidades y desarrolla proyectos con equipos específicos. Luego, se procede con la parte administrativa como la orden de compra y el adelanto.
-
-Inventario de Componentes: Utilizan un sistema de inventario actualizado para gestionar productos, instrumentos y repuestos. El inventario está permanentemente actualizado.
-
-Monitoreo de Equipos: Durante la temporada de veda, realizan recorridos para registrar los requerimientos de las empresas pesqueras y luego presentan propuestas.
-
-Facturación: El proceso es digital y manejado por un departamento de contabilidad. Anteriormente era manual, pero ahora se realiza de manera digital según las normativas.
-
-Necesidades de la Plataforma: Buscan diversificar sus productos hacia sectores agrícolas, mineros y generales. Han tenido problemas con el software de gestión de inventario que ha requerido renovación para ser más efectivo.
-
-Características Personales y Tecnología: Miguel se considera introvertido pero extrovertido en el trabajo. Utiliza Google Chrome y trabaja con computadora portátil, fija y celular.
+Miguel del Castillo, un empresario del sector pesquero, comentó que los pedidos se gestionan a través de visitas a la planta del cliente, tras lo cual se desarrolla un proyecto que incluye el equipo solicitado. Luego, se procede con la orden de compra y el adelanto para iniciar los trabajos. Su empresa utiliza un sistema de inventario que está actualizado permanentemente para gestionar componentes y repuestos. Sin embargo, mencionó que han tenido problemas con el software de inventario en el pasado. Sobre el monitoreo de equipos, explicó que se realiza durante la temporada de veda. Finalmente, Miguel afirmó que la facturación se gestiona digitalmente de manera eficiente.Usa laptop, computadoras de escritorio (fijas) y celular para realizar sus actividades laborales, destacando que estos dispositivos son esenciales en su trabajo diario.
 
 
 **Entrevistas usuario segmento 2**
