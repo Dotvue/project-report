@@ -496,7 +496,7 @@ SAP SE es una de las mayores empresas de software empresarial a nivel global, fu
 | ¿Por qué llevar a cabo este análisis?                   | Realizamos este análisis a fin de poder conocer el mercado al que nos enfrentamos en un inicio, para de esta manera poder evaluar las estrategias adoptadas por plataformas ya existentes, y así aprender de sus aciertos y errores. |
 
 
-| |  | (Nosotros)| Siemens |  SAP |
+| |  | (Nosotros) ![AquaEngine](./assests/AquaEngine.jpeg)| Siemens ![Siemens](./assests/Siemens.png)|  SAP ![SAP](./assests/SAP.png)|
 |-|-|-|-|-|
 | PERFIL| Overview |  Optimiza la gestión de producción en la industria de maquinaria pesquera mediante un sistema integral que abarca desde la entrada de datos hasta la facturación, incluyendo gestión de inventarios y monitoreo de equipos, cubriendo así las necesidades clave del sector.  | Compañia tecnológica que proporciona soluciones avanzadas como el desarrollo de software y servicios que mejoran la producción y eficiencia en distintas industrias.  | Empresa especializada en soluciones de gestion que abarcan finanzas, cadena de suministro, y operaciones. Es conocida por sus innovaciones en inteligencia artificial, analisis de datos y la nube, ayudando a las empresas a tomar decisiones informadas y eficientes. |
 || Ventaja competitiva ¿Qué valor ofrece a los clientes? | Integraremos múltiples funciones clave en un solo sistema, lo que reduce la necesidad de múltiples plataformas y minimiza la fragmentación de datos. La ventaja se enfoca en: Automatización y eficiencia, monitoreo de tiempo real y personalización. | Ofrece soluciones en automatización industrial, control de procesos, gestión de energía, transporte inteligente y teconologias de la salud. Tambien servicios de digitalizacion y software avanzado para oprtimizar la producción y la infraestructura.  |Brinda multiples funciones de negocio con una única visión de la verdad. Esto ayuda a las empresas a gestionar mejor los procesos de negocios complejos dándoles a los empleados de diferentes departamentos un acceso fácil a información en tiempo real en toda a empresa.| 
@@ -553,9 +553,6 @@ Ocupación: Estudiante
 Url: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211212_upc_edu_pe/EZwrIjs6eCpGoXGtIJDmEhoBF9R8IPjJyn-Pjs6LYvVhmw?e=Se64nT
 
 Gabriela Bueno, ex trabajadora de Fishman, mencionó que los clientes suelen pedir productos desde un catálogo, principalmente máquinas centrífugas que la empresa importa y luego instala y mantiene. Afirmó que el inventario está actualizado y que los mantenimientos se llevan a cabo fuera de la temporada de pesca, ya que es cuando las máquinas no están en uso. Sobre la facturación, Gabriela coincidió en que es un proceso eficiente y digital. Finalmente, sugirió que el sistema de inventario podría mejorarse agregando imágenes de los productos, destacando la importancia de este aspecto para una mejor gestión. Utiliza telefono iphone y una laptop con macOS.Además de usar chrome como navegador predeterminado
-
-
-
 
 
 **Entrevista 2**
