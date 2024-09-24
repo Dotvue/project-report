@@ -581,10 +581,10 @@ Miguel del Castillo, un empresario del sector pesquero, comentó que los pedidos
 ### 2.3.1. User Personas.
 En esta sección, se incluyen las fichas de User Personas que representan arquetipos detallados de los segmentos objetivo definidos para nuestro sitio web. Estos arquetipos se han creado a partir de un análisis de las entrevistas que hemos realizado con usuarios reales y un estudio comparativo de la competencia, con el objetivo de capturar las caracterí­sticas, necesidades, y comportamientos de nuestros usuarios.
 
-**Segmento 1:**  
-<img src="assests/Ricardo Salas-user.png">
+**Segmento 1:**   
+<img src="assests/Ricardo Salas-user.png">  
 
-**Segmento 2:**
+**Segmento 2:**  
 <img src="assests/Carlos Martinez-userpesque.png">
 
 ### 2.3.2. User Task Matrix.
