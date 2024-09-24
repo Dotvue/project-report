@@ -743,6 +743,33 @@ A continuación, estableceremos las epicas, para luego detallarlas en historias 
 
 ## 3.4. Product Backlog.
 
+ En este segmento del informe otorgaremos a las historias de usuario un peso en base a la complejidad, riesgo y esfuerzo. Utilizaremos este método para darle la relevancia adecuada a cada historia de usuario.
+
+https://trello.com/b/NknfxMfU/product-backlog
+
+|#Orden| User Story Id| Titulo | Descripción|StoryPoints (1 / 2 / 3 / 5/ 8)|
+|-|-|-|-|-|
+|1|US16| Navegación por la LandingPage| Como usuario potencial, quiero poder navegar fácilmente por la landing page para obtener información clara y precisa sobre AquaEngine|3|
+|2 |  US19 |Contacto con ventas desde la landing page |Como usuario potencial,quiero poder contactar al equipo de ventas directamente desde la landing page, para obtener más información sobre los productos o servicios.  | 3 |
+|3 | US17 | Visualización de Precios |  Como usuario potencial, quiero ver claramente los precios de los productos ofrecidos en la landing page, para evaluar si se ajustan a mi presupuesto| 1|
+|4 | US18| Comparación de beneficios |Como usuario potencial, quiero comparar los beneficios de diferentes planes en la landing page, para decidir cuál es la mejor opción para mí.         | 1  |
+| 5| US12 | Solicitud de compra de equipo estándar|Como empresario pesquero, quiero poder seleccionar un equipo estándar y realizar la compra a través de la plataforma, para asegurarme de tener el equipo que necesito rápidamente.| 3       |
+|6 | US10 | Gestión de inventario| Como productor de maquinaria pesquera  Quiero gestionar el inventario de mis productos  Para saber qué productos están disponibles para la venta.            |   5        |
+|7 |US07 |Generación de facturas| Como productor de maquinaria pesquera  Quiero generar facturas automáticamente Para acelerar el proceso de facturación.  |    3     |
+|8 |US03 |Estado de equipos | Como empresario pesquero Quiero verificar el estado actual de mis equipos  Para saber si están operativos o necesitan mantenimiento.|  3    |
+| 9|US14 |Seguimiento de solicitudes de equipos | Como empresario pesquero, quiero poder hacer seguimiento del estado de mis pedidos, para saber cuándo recibiré los equipos solicitados.|     3   |
+| 10|US04 | Registro de equipos |Como empresario pesquero Quiero poder añadir equipos a mi cuenta  Para mantener un monitoreo de los equipos recientes para evitar estados críticos.|     3      |
+|11 |US06 | Alertas de equipos críticos| Como empresario pesquero Quiero establecer alertas para el estado crítico de mis equipos  Para recibir notificaciones cuando un equipo necesite atención urgente.|  5      |
+|12 |US11 | Consulta de productos en inventario | Como productor de maquinaria pesquera  Quiero consultar el inventario actual de productos  Para planificar mis próximas ventas. |    3   |
+|13 |US09 | Notificaciones de estado |Como empresario pesquero Quiero recibir notificaciones sobre el estado de mis equipos  Para estar informado sobre cualquier cambio crítico.|     3   |
+|14 |US13 |Solicitud de compra de equipo personalizado| Como empresario pesquero, quiero poder realizar una solicitud de compra de equipos personalizados, para obtener un equipo adaptado a las necesidades de mi operación. |   3   |
+|15 |US15 |Cancelación de solicitudes de equipos| Como empresario pesquero, quiero poder cancelar una solicitud de pedidos, para adaptarme a cambios en mis operaciones.|  1     |
+|16 |US08 | Historial de facturación|Como productor de maquinaria pesquera  Quiero consultar el historial de todas mis facturas  Para llevar un registro completo de las transacciones.|    3    |
+|17|US05 |Historial de mantenimiento | Como empresario pesquero Quiero consultar el historial de mantenimiento de mis equipos  Para revisar las actividades realizadas.|    |
+|18 |US01 | Registro de un nuevo usuario|Como empresario pesquero o productor de maquinaria  Quiero registrar una cuenta en la aplicación  Para acceder a las funciones asignadas a mi rol.|     1   |
+|19|US02 |Inicio de sesión | Como empresario pesquero o productor de maquinaria  Quiero poder iniciar sesión en la aplicación  Para acceder a las funciones habilitadas para mi cuenta.|    1     |
+|20 |US20 |Consulta de reseñas de clientes |Como usuario potencial, quiero ver reseñas de clientes en la landing page, para conocer la experiencia de otros usuarios con el producto.|      3   |
+
 
   
 # Capítulo IV: Product Design
@@ -1680,7 +1707,7 @@ Ocupación: _____
 {texto}
 
 ### 5.3.3. Evaluaciones según heurísticas.
-| HEURÍSTICA   | EVALUACIÓN ✅❌ | NOTA      |
+| HEURÍSTICA   | EVALUACIÓN  | NOTA      |
 | --------------------------------------------- | ---------- | --------- |
 | Visibilidad del estado del sistema            |            | {texto}   |
 | Coincidencia entre el sistema y el mundo real |            | {texto}   |
@@ -1694,4 +1721,4 @@ Ocupación: _____
 | Ayuda y documentación                         |            | {texto}   |  
   
 ## 5.4. Video About-the-Product.
-[URL del video about the product](https://www.example.com)
+
