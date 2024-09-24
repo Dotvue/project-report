@@ -46,9 +46,9 @@
 </center>
 
 # Project Report Collaboration Insights
-Link de reporte: [GitHub Startup report](https://github.com/Dotvue/project-report)  
-Link de landing page: [Startup landing page](https://landing.com)  
-Link de organización: [GitHub Dotvue organization](https://github.com/orgs/Dotvue/repositories)  
+Link de reporte: https://github.com/Dotvue/project-report  
+Link de landing page: https://landing.com  
+Link de organización: https://github.com/orgs/Dotvue/repositories  
 
 (Imagenes de los commits cada entrega)
 
