@@ -735,10 +735,6 @@ A continuación, estableceremos las epicas, para luego detallarlas en historias 
 | TS15 | Actualizar Registro de Facturación | Como desarrollador,<br> Quiero implementar el endpoint PUT para actualizar registros de facturación,<br> Para permitir a los usuarios modificar detalles de facturación existentes. | Escenario 1: Actualización exitosa de un registro de facturación<br> Dado que el endpoint /api/v1/billing/{id} está disponible,<br> Cuando se envía una solicitud PUT con el id y valores actualizados para billingId y billingDetails,<br> Entonces se recibe una respuesta con estado 200,<br> Y el recurso de Facturación actualizado está incluido en el cuerpo de la respuesta con los nuevos valores para billingId y billingDetails.<br><br>Escenario 2: Actualización de un registro de facturación inexistente<br> Dado que el endpoint /api/v1/billing/{id} está disponible,<br> Cuando se envía una solicitud PUT con un id inválido y valores actualizados,<br> Entonces se recibe una respuesta con estado 404,<br> Y se incluye un mensaje en el cuerpo de la respuesta, con el valor "Registro de facturación no encontrado para actualizar." | E10 |
 | TS16 | Eliminar Registro de Facturación | Como desarrollador,<br> Quiero implementar el endpoint DELETE para eliminar registros de facturación,<br> Para permitir a los usuarios eliminar entradas de facturación del sistema. | Escenario 1: Eliminación exitosa de un registro de facturación<br> Dado que el endpoint /api/v1/billing/{id} está disponible,<br> Cuando se envía una solicitud DELETE con un id válido,<br> Entonces se recibe una respuesta con estado 200,<br> Y se incluye un mensaje en el cuerpo de la respuesta, con el valor "Registro de facturación eliminado con éxito.".<br><br>Escenario 2: Eliminación de un registro de facturación inexistente<br> Dado que el endpoint /api/v1/billing/{id} está disponible,<br> Cuando se envía una solicitud DELETE con un id inválido,<br> Entonces se recibe una respuesta con estado 404,<br> Y se incluye un mensaje en el cuerpo de la respuesta, con el valor "Registro de facturación no encontrado para eliminar." | E10 |
 
-
-
-
-
 ## 3.3. Impact Mapping.
 
 ## 3.4. Product Backlog.
@@ -1028,8 +1024,12 @@ Link Application Prototype (Figma): [URL del Prototipo Figma](https://shorturl.a
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 <img src="assests/Diagrama de Clase_AQUAENGINE.png">
+
 ### 4.7.2. Class Dictionary.
 
+## 4.8. Database Design
+### 4.8.1. Database Diagram
+<img src="assests/AquaEngine-2024-09-24_12-14.png">
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
