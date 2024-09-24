@@ -635,11 +635,12 @@ En esta sección, se presenta el User Task Matrix, que agrupa las principales ta
 | US17 | Cancelación de solicitudes de equipos | Media | Baja | Alta | Alta |
 | US18 | Navegación por la Landing Page | Media | Media | Alta | Media |
 | US19 | Visualización de Precios | Baja | Baja | Alta | Alta |
-| US20 | Comparación de beneficioS | Baja | Baja | Media | Media | 
+| US20 | Comparación de beneficios | Baja | Baja | Media | Media | 
 | US21 | Contacto con ventas desde la landing page | Media | Baja | Alta | Media |
 | US22 | Consulta de reseñas de clientes | Baja | Baja | Media | Media
 ### 2.3.3. User Journey Mapping.
 En esta sección se presentan los User Journey Maps, que ilustran el end-to-end journey que experimentan nuestros segmentos objetivo sin la intervención de nuestra solución propuesta. En estos mapas se identifican las etapas, interacciones y puntos de contacto que atraviesan para cumplir sus objetivos educativos. Por un lado, se presenta el recorrido completo que sigue el dueño, Ricardo Salas, al proponer un proyecto especial para el sector pesquero. Por otro lado, se detalla el recorrido del nuevo empresario, Carlos Martinez, al buscar materiales o productos para dicho proyecto asignado.
+
 **Segmento 1**
 <img src="assests/user1-journey.png">
 
@@ -648,11 +649,14 @@ En esta sección se presentan los User Journey Maps, que ilustran el end-to-end 
 
 ### 2.3.4. Empathy Mapping.
 Para los Empathy Mapping, esta herramienta nos ayudará a conocer un poco más lo que los usuarios sienten o necesitan de nuestra aplicación. Para llevarlo a cabo, se usará a las User Personas, los cuales son "Ricardo Salas", quien es el dueño de una pequeña empresa especializada en la produccion de maquinarias. El segundo es "Carlos Martinez", quien es un empresario nuevo que tiene ganas de competir en el mercado, pero debera optimizar tanto la comunicacion entre los proovedores con el mantenimiento de sus herramientas y maquinaria.
+
 **Segmento 1:**
-<img src="assests/Segmento 1 Empathy Map.png">
+
+<img src="assests/Empathy map Segmento 1.png">
 
 **Segmento 2:**
-<img src="assests/Segmento 2 Empathy Map.png">
+
+<img src="assests/Empathy map pesquero.png">
 
 ### 2.3.5. As-is Scenario Mapping.
 Para los As-Is Scenario, es una herramienta que nos ayuda a ejemplificar de mejor manera cual es el escenario actual sobre el problema que se intentará resolver, en este caso lo que son las clases en línea, presentando para nuestro proyecto el problema al momento del fabricante de maquinaria pesquera.
