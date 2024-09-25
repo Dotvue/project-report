@@ -670,7 +670,7 @@ A continuación, estableceremos las epicas, para luego detallarlas en historias 
 | E01 | Registro |Como empresario pesquero o productor de maquinaria, Quiero poder registrarme o iniciar sesión para acceder a las funciones asignadas a mi rol. | | |
 | E02 | Monitoreo de equipos| Como empresario pesquero, Quiero poder verificar el estado de mis equipos a través de la aplicación web | | |
 | E03 | Facturación  | Como productor de maquinaria pesquera, Quiero realizar mi facturación de manera más rápida. | | |
-| E04 | Inventario | Como productor de maquinaria pesquera deseo tener un inventario al que  | | |
+| E04 | Inventario | Como productor de maquinaria pesquera deseo tener un inventario modificable | | |
 | E05 | Solicitudes de Equipos | Como empresario pesquero, quiero poder realizar solicitudes de compra de equipos a la empresa productora para que me brinden el equipo necesario. | | |
 | E06 | Landing Page y Precios | Como usuario potencial,<br> Quiero navegar por una Landing Page Informativa<br> Para poder informarme sobre los beneficios y costos de un producto | | |
 |E07|Gestión del inventario|Como desarrollador, <br> Quiero desarrollar y mantener endpoints de API para gestionar el inventario de los productores de maquinaria, <br> Para permitir la gestion de inventario a traves de la aplicacion web|||
