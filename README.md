@@ -643,9 +643,36 @@ Para los As-Is Scenario, es una herramienta que nos ayuda a ejemplificar de mejo
 <img src="assests/as-is pesquero.jpg">
 
 ## 2.4. Ubiquitous Language.
-```
-Texto ubiquo: Definicion de este
-```
+El lenguaje ubicuo es una parte fundamental de la estategia de UX. Esta consiste en el conjunto de términos y frases fuera del contexto de un desarrollador pero que se usan para la logica de negocio, permitiendole así al usuario poder leer y entender mejor el proyecto. Aplicar el lenguaje ubicuo(ubiquitous language) en un proyecto consigue los siguientes beneficios:
+
+- **Aumenta la Accesibilidad:** Un lenguaje claro y conciso es esencial para que la aplicación sea accesible para personas con diferentes niveles de alfabetización y habilidades cognitivas. Esto incluye el uso de terminología sencilla, descripciones precisas y frases directas, lo cual ayuda a eliminar barreras de comprensión y a crear una experiencia más inclusiva.
+
+- **Facilita el Onboarding de Nuevos Usuarios:** Un lenguaje consistente y bien estructurado ayuda a que los nuevos usuarios comprendan rápidamente el funcionamiento de la aplicación. Al utilizar términos intuitivos y mensajes claros, se reduce la curva de aprendizaje y se mejora la adopción inicial del producto.
+- **Incrementa la Eficiencia en el Desarrollo:** Los equipos de desarrollo pueden trabajar más eficientemente cuando se utiliza un lenguaje compartido y coherente en toda la aplicación. Esto reduce la necesidad de aclaraciones y permite un flujo de trabajo más fluido y menos propenso a errores.
+
+
+ ### Glosario
+
+- **empresa pesquera (Empresa Fabricadora):** Organización dedicada a la producción de maquinaria pesada para la industria pesquera. Su función principal es diseñar, fabricar y distribuir equipos especializados para operaciones pesqueras, además de gestionar el inventario de maquinaria disponible.
+
+- **Fishing Company (Empresa Pesquera):** Organización que opera en la industria de la pesca y adquiere maquinaria de la empresa fabricadora. Estas empresas realizan solicitudes específicas de equipos para optimizar sus operaciones pesqueras y cumplir con sus necesidades de producción.
+
+- **Machinery (Maquinaria):** Equipos pesados utilizados en actividades pesqueras, tales como grúas, sistemas de procesamiento de pescado, y equipos de refrigeración. Cada maquinaria tiene un ciclo de vida en el inventario que incluye fabricación, solicitud, asignación, uso y mantenimiento.
+- **Request (Solicitud):** Proceso mediante el cual una empresa pesquera solicita maquinaria específica desde el inventario de la empresa fabricadora. Las solicitudes pueden ser para compra, alquiler o pruebas, y deben ser aprobadas por el departamento correspondiente.
+
+- **SalesOrder (Orden de Venta):** Registro formal de una transacción entre la empresa fabricadora y una empresa pesquera, detallando el tipo y cantidad de maquinaria, condiciones de venta, y cronograma de entrega.
+
+- **Monitoring (Monitoreo):** Actividad que implica la supervisión del estado y rendimiento de la maquinaria en uso. Incluye la recolección de datos operacionales para analizar la eficiencia de los equipos y predecir necesidades de mantenimiento o reemplazo.
+
+- **Inventory (Inventario):** Sistema que gestiona y rastrea el estado y disponibilidad de la maquinaria y componentes. Incluye información sobre las reservas. Las empresas manufacturadoras pueden consultar el inventario para ver la disponibilidad de equipos y trabajar sus solicitudes.
+
+- **Template (Plantilla):** Especificación predefinida de un modelo de maquinaria que sirve como base para la fabricación. Cada plantilla incluye características técnicas, capacidad y funcionalidad, y se utiliza para estandarizar la producción de maquinaria.
+
+- **Analytics (Análisis):** Proceso de interpretación de datos recopilados del uso de maquinaria y el rendimiento en campo. Se utiliza para optimizar el diseño de nuevas maquinarias y mejorar la eficiencia de los equipos existentes.
+
+- **Monitoring (Monitoreo):** Proceso integral de supervisión del estado y rendimiento de la maquinaria en una empresa pesquera.
+
+
 
 ---
 
