@@ -416,7 +416,7 @@ En la etapa inicial de nuestro proyecto, decidimos llevar a cabo la implementaci
 Repositorio Github: https://github.com/Dotvue/AquaEngine-landing-page
 #### 5.2.1.1. Sprint Planning 1.
 
-Para el primer sprint el equipo establecio que el desarrollo de las tareas serian unas 18 horas.
+Para el primer sprint el equipo establecio que el desarrollo de las tareas serian unas 20 horas.
 
 <table>
     <thead>
@@ -479,79 +479,315 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
         <tr>
             <td>Sprint 1 Velocity</td>
             <td>
-                ?
+                8
             </td>
         </tr>
         <tr>
             <td>Sum of story points</td>
             <td>
-                ?
+                8
             </td>
         </tr>
     </tbody>
 </table>
 
-#### 5.2.X.2. Sprint Backlog n.
-![SprintBacklog n](image.jpg) Nica hago la tabla 
-#### 5.2.X.3. Development Evidence for Sprint Review.
-![Sprint review development Evidence](image.jpg)
-#### 5.2.X.4. Testing Suite Evidence for Sprint Review.
-![Sprint review Testing suite Evidence](image.jpg)
-#### 5.2.X.5. Execution Evidence for Sprint Review.
-![Sprint review Execution Evidence](image.jpg)
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review.
-![Sprint review Services Documentation Evidence](image.jpg)
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review.
-![Sprint review Software Deployment Evidence](image.jpg)
-#### 5.2.X.8. Team Collaboration Insights during Sprint.
-![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
+#### 5.2.1.2. Sprint Backlog 1.
+Enlaze al product backlog con las tareas correspondientes: https://www.pivotaltracker.com/projects/2717945
 
-## 5.3. Validation Interviews.
-### 5.3.1. Diseño de Entrevistas.
-**Preguntas generales:**
+![sprint-1](./assets/images/chapter-V/pivotal-tracker.png)
 
-1. ¿Cuál es su nombre? 
-2. ¿Qué edad tiene? 
-3. ¿A qué se dedica? 
-4. ¿[Opinion de idea de propuesta]? 
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 1</strong> </td>
+  </tr>
 
-**Entrevistas usuario segmento 2**
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?  
-   
-**Entrevistas usuario segmento 2**
-1. ¿Lorem? 
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem? 
-### 5.3.2. Registro de Entrevistas.
-**Segmento 1**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)  
-{texto mucho}
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>Description<strong></td>
+    <td align="center"> <strong>Estimation (Hours)<strong></td>
+    <td align="center"> <strong>Assigned To<strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  <strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="4" align="center"> ID </td>
+    <td rowspan="4" align="center"> US18 Navegación por la Landing Page</td>
+    <td align="center"> TA01 </td>
+     <td align="center"> menu con hipervinculos responsive</td>
+    <td align="center">Cada Hipervinculo debe de rediriguirte a una seccion especifica de la landing page </td>
+    <td align="center"> 2</td>
+    <td align="center"> Gonzalo Andre Zavala Quedena</td>
+    <td align="center">Done</td>
+  </tr>
 
-**Segmento 2**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)
-{texto}
-### 5.3.3. Evaluaciones según heurísticas.
-| HEURÍSTICA   | EVALUACIÓN ✅❌ | NOTA      |
-| --------------------------------------------- | ---------- | --------- |
-| Visibilidad del estado del sistema            |            | {texto}   |
-| Coincidencia entre el sistema y el mundo real |            | {texto}   |
-| Control y libertad del usuario                |            | {texto}   |
-| Consistencia y estándares                     |            | {texto}   |
-| Prevención de errores                         |            | {texto}   |
-| Mostrar antes que recordar                    |            | {texto}   |
-| Flexibilidad y eficiencia de uso              |            | {texto}   |
-| Diseño estético y minimalista                 |            | {texto}   |
-| Comunicar errores con facilidad               |            | {texto}   |
-| Ayuda y documentación                         |            | {texto}   |
-## 5.4. Video About-the-Product.
-[URL del video about the product](https://www.example.com)
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> menu de navegacion mobile</td>
+    <td align="center"> Se debe desarrollar el menu mobile, haciendo uso de un icono que despliegue los hipervinculos</td>
+    <td align="center"> 2</td>
+    <td align="center"> Gonzalo Andre Zavala Quedena</td>
+    <td align="center">Done</td>
+  </tr>
+
+   <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Hero</td>
+    <td align="center"> Se debe desarrollar un banner con una frase y un botón call to action que permita dirigirnos a la aplicación web.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Daniel Mateo del Castillo Bueno</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center"> TA04 </td>
+    <td align="center"> Hero responsive</td>
+    <td align="center"> Esta seccion debe de ajustarse el diseño dependiendo del tamaño de la pantalla del navegador.</td>
+    <td align="center"> 1</td>
+    <td align="center"> Daniel Mateo del Castillo Bueno</td>
+    <td align="center">Done</td>
+  </tr>
+<!----------------------------------------------->
+  <tr>
+    <td rowspan="2" align="center"> ID </td>
+    <td rowspan="2" align="center"> US19 Visualización de Precios</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Planes</td>
+    <td align="center"> Debe de representar la informacion del uso de la aplicacion a traves de iconos o imagenes</td>
+    <td align="center"> 1</td>
+    <td align="center"> Sebastian Andres Aiquipa Poma</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Seccion Responsive </td>
+    <td align="center"> Esta seccion debe de ajustarse el diseño dependiendo del tamaño de la pantalla del navegador </td>
+    <td align="center"> 2</td>
+    <td align="center"> Sebastian Andres Aiquipa Poma</td>
+    <td align="center"> Done</td>
+  </tr>
+<!-------------------------------------------------->
+  <tr>
+    <td rowspan="2" align="center"> ID </td>
+    <td rowspan="2" align="center"> US20 Comparación de beneficios</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Desarrollo la sección funcionalidad</td>
+    <td align="center"> crea la seccion de funcionalidad que muestra los beneficios de la plataforma web.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Pedro Andre Guía Carrasco</td>
+    <td align="center"> Done</td>
+  </tr>
+   <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Seccion Responsive </td>
+    <td align="center"> Esta seccion debe de ajustarse el diseño dependiendo del tamaño de la pantalla del navegador </td>
+    <td align="center"> 1</td>
+    <td align="center"> Pedro Andre Guía Carrasco</td>
+    <td align="center"> Done</td>
+  </tr>
+
+<!---------------------------------------------------->
+  <tr>
+    <td rowspan="3" align="center"> ID </td>
+    <td rowspan="3" align="center"> US21 Contacto con ventas desde la landing page</td>
+      <td align="center"> TA01 </td>
+    <td align="center"> Formulario</td>
+    <td align="center"> Se desarrolla un formulario donde se pueda enviar un mensaje al Team.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Omar Berrocal Ramirez</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Form responsive </td>
+    <td align="center"> Esta seccion debe de tener varias configuraciones para tamaños de pantalla </td>
+    <td align="center"> 1</td>
+    <td align="center">Omar Berrocal Ramirez</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Footer</td>
+    <td align="center"> Esta seccion debe mostrarse la informacion de contacto y nuestras redes sociales </td>
+    <td align="center"> 2</td>
+    <td align="center">Gonzalo Andre Zavala Quedena </td>
+    <td align="center"> Done</td>
+  </tr>
+<!------------------------------------------------>
+   <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> US22 Consulta de reseñas de clientes</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Reseñas</td>
+    <td align="center"> Se desarrolla secion donde se muestra comentarios de las experiencias de los usuarios de la plataforma web</td>
+    <td align="center"> 2</td>
+    <td align="center"> Gonzalo Andre Zavala Quedena </td>
+    <td align="center"> Done</td>
+  </tr>
+
+</table>
+
+#### 5.2.1.3. Development Evidence for Sprint Review.
+
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center">https://github.com/Dotvue/AquaEngine-landing-page </td>
+    <td align="center"> main</td>
+    <td align="center"> 8c635063c7d47bf77d427f89251f507e8e383d80</td>
+    <td align="center"> chore: initial commit</td>
+    <td align="center"> ---</td>
+    <td align="center"> 04/09/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/funcionality</td>
+    <td align="center" > 66f2ea27cf6eaafaa540972f29b3553bf1fd65ed</td>
+    <td align="center"> feat(main): add functionality.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 07/09/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/header</td>
+    <td align="center">a07bc427df5faa3755d36946da6df24024307850</td>
+    <td align="center"> feat: add styles to dedicated navbar section up to 768px and above.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 07/09/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/recommendations</td>
+    <td align="center"> 4607fddf7278724c3ba7ed77b46cf4bc34940fdd
+</td>
+    <td align="center"> feat: add styles to recommendations section.</td>
+    <td align="center"> ---</td>
+    <td align="center">07/09/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/hero</td>
+    <td align="center"> 3ffd3bc380ed86a8008849d2b7669dc8b8938283</td>
+    <td align="center">feat: hero is now responsive</td>
+    <td align="center"> ---</td>
+    <td align="center"> 07/09/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/subscriptions</td>
+    <td align="center"> acb9b05913fc505893eac42a9727212fd106cb7f</td>
+    <td align="center"> style: update styles subscription section</td>
+    <td align="center"> ---</td>
+    <td align="center"> 08/09/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/footer</td>
+    <td align="center"> 1b5ecfeaa209ab51b5d1ceb8dd6cff8f63de0dfc</td>
+    <td align="center"> feat: add styles to footer section.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 07/09/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/form</td>
+    <td align="center">414c2fc0ffa290d3f1fa8004d26a60cc661ca611
+
+</td>
+    <td align="center"> feat(form): form completed.</td>
+    <td align="center"> ---</td>
+    <td align="center">07/09/2024</td>
+  </tr>
+
+
+  <tr>
+    <td align="center"> develop</td>
+    <td align="center">4427c7059a3dd60bccdbdb58cc90baa8a439dee0</td>
+    <td align="center">fix: resolve merge conflict with feature/form.</td>
+    <td align="center"> ---</td>
+    <td align="center">08/09/2024</td>
+  </tr>
+</table>
+
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+
+Durante este sprint 1 el equipo se enfocó en el desarrollo de la lading page por lo cual no se requirio pruebas de testing.
+
+#### 5.2.1.5. Execution Evidence for Sprint Review.
+
+Después de finalizar el Sprint 1, hemos logrado implementar todas las secciones de nuestra Landing Page, aunque con algunos desperfectos en cuanto a diseño. A continuación, te invitamos a explorar nuestros avances a través de imágenes que muestran el resultado obtenido.
+
+*Seccion de navegacion* : Nos ayudara a redirigirnos a secciones especificas de la lading page.
+
+![navbar](./assets/images/chapter-V/header.png)
+*Hero* : Banner que contendra un boton (Call to Action) que te llevara a registrarte a nuestra aplicación.
+![hero](./assets/images/chapter-V/hero.png)
+*funcionality*: Seccion donde los visitantes de la lading page podrán ver como es que funciona nuestra aplicacion y que les ofrece.
+![funcionality](./assets/images/chapter-V/functionality.png)
+
+*Planes*: seccion donde se explica las opciones de planes de suscription que tenemos, junto al precio y detalles del plan.
+![planes](./assets/images/chapter-V/subscriptions.jpeg)
+
+*Reseñas*: sección con las reseñas y comentarios de los usuarios de la aplicación web.
+![form](./assets/images/chapter-V/recommendations.png)
+
+*Form*: sección con un formulario para contactar a los desarrolladores de la aplicación
+![form](./assets/images/chapter-V/form.png)
+
+*footer*: contenido extra, como telefono,correo y redes para que puedan comunicarse con la empresa devinsons.
+![footer](./assets/images/chapter-V/footer.png)
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+En el primer sprint, hemos realizado el diseño, la programación y el despligue de la Landing Page que presentará nuesta apliación web "AquaEngine"
+
+<table> 
+  <tr>
+    <td> <strong>End Point </strong></td>
+    <td align="center"> <strong>Funciones</strong> </td>
+  </tr>
+
+  <tr>
+    <td> https://dotvue.github.io/AquaEngine-landing-page/</td>
+    <td> Desplegar Landing Page de AquaEngine</td>
+  </tr>
+</table>
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+
+Para el despliegue de nuestra Landing Page hemos utilizado GitHub Pages. Para hacer esto, hemos trabajado en un repositorio de GitHub donde divimos el trabajo en ramas. En la sección de configuración y Pages, seleccionamos la rama main para desplegar nuestra web. 
+
+**Link de la landing page desplegada:** https://dotvue.github.io/AquaEngine-landing-page/
+
+![GitHub-Pages](./assets/images/chapter-V/github-pages.png)
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
+ 
+La meta de este sprint fue la implementación de la Landing Page. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Visual Studio Code, HTML, CSS y JavaScript. Como evidencias del trabajo realizado tenemos los diagramas de flujo que representan los commits realizados por cada miembro del equipo Dotvue.
+
+![Commits-landing](./assets/images/chapter-V/commits-landing.png)
+La imagen muestra un gráfico de barras donde se refleja la cantidad de commits hechos por cada miembro del equipo en la Landing Page.
+
+![Contribuitors-landing](./assets/images/chapter-V/contribuitors-landing.png)
+En esta imagen se refleja la el nivel de modificaciones realizadas por los commits de cada integrante en la Landing Page.
+
+![Network-landing](./assets/images/chapter-V/Network-landing.png)
+En la imagen se puede apreciar las ramas feature creadas para el repositorio y las fechas en que se unieron.
