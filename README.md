@@ -45,13 +45,14 @@
 
 </center>
 
-# Project Report Collaboration Insights
-Link de reporte: https://github.com/Dotvue/project-report  
-Link de landing page: https://landing.com  
-Link de organización: https://github.com/orgs/Dotvue/repositories  
+# Project Report Collaboration Insights  
+Analiza cómo la colaboración y la gestión de tareas influyeron en los resultados del proyecto, destacando fortalezas y áreas de mejora para optimizar futuras estrategias.
 
-(Imagenes de los commits cada entrega)
+Landing Page: https://landing.com  
+Reporte: https://github.com/Dotvue/project-report  
+Organización: https://github.com/orgs/Dotvue/repositories
 
+<img src="./assets/images/team-collaboration.png" alt="collaboration insights" width="800px"/>
 
 # Contenido
 
