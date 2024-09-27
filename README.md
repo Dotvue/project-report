@@ -791,3 +791,101 @@ En esta imagen se refleja la el nivel de modificaciones realizadas por los commi
 
 ![Network-landing](./assets/images/chapter-V/Network-landing.png)
 En la imagen se puede apreciar las ramas feature creadas para el repositorio y las fechas en que se unieron.
+
+### 5.2.2. Sprint 2 
+
+
+En la etapa inicial de nuestro proyecto, decidimos llevar a cabo la implementación del diseño de nuestra Landing Page utilizando WebStorm como el entorno de desarrollo.
+
+Repositorio Github: https://github.com/Dotvue/AquaEngine-landing-page
+#### 5.2.2.1. Sprint Planning 2.
+
+Para el primer sprint el equipo establecio que el desarrollo de las tareas serian unas 20 horas.
+
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2024/09/24</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>7:30 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Aula VH-107</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Gonzalo Andre Zavala Quedena</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                <li>Daniel Mateo del Castillo Bueno</li>
+                <li>Omar Christian Berrocal Ramirez</li>
+                <li>Pedro Andre Guía Carrasco</li>
+                <li>Sebastian Andres Aiquipa Poma</li>
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Review Summary</td>
+            <td>
+                Este es el segundo sprint a realizar por el equipo
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Retrospective Summary</td>
+            <td>
+                Acuerdo de comenzar con el desarrollo del front-end  
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Goal</td>
+            <td>
+                <li>Corregir errores y observaciones del sprint 1.</li>
+                <li>implementar las vistas core del negocio en el lado front-end</li>
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Velocity</td>
+            <td>
+                20
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                20
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+#### 5.2.2.2. Sprint Backlog 2.
+
+
+#### 5.2.2.3. Development Evidence for Sprint Review.
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
