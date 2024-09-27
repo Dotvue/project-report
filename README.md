@@ -762,6 +762,7 @@ El Impact Map es una herramienta que se utiliza en la planificación de proyecto
 <img src="./assests/Impact map Semento1.png">
 
 ### Segmento 2
+<img src="./assests/Impact map Segment2.png">
 
 ## 3.4. Product Backlog.
 
