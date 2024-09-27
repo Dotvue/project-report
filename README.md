@@ -568,13 +568,27 @@ Miguel del Castillo, un empresario del sector pesquero, comentó que los pedidos
 
 
 **Entrevistas usuario segmento 2**
-1. 
+<br>**Entrevista 1**</br>
+Nombre: Jorge Gutierrez<br>
+Edad: 21 años <br>
+Ocupacion: Pescador <br>
+Browser: Google Chrome <br>
+Device: Computadora Personal Windows <br>
+Distrito: Los Olivos, Lima <br>
+<img src="./assests/entrevista.png"> <br>
+En la entrevista realizada a Jorge Gutierrez, un joven pescador que vive en Los Olivos y 21 años de edad, se discutieron aspectos clave sobre la gestión de datos y el mantenimiento de equipos de pesca. Gutiérrez explicó que los registros de capturas y equipos se llevan de manera manual, utilizando cuadernos o, a veces, hojas de cálculo, mientras que el monitoreo del estado de los equipos se realiza con frecuencia, aunque la regularidad varía según las condiciones climáticas y la temporada. Uno de los principales retos que enfrenta es la comunicación con las empresas de maquinaria, ya que los pedidos y solicitudes de mantenimiento suelen tardar, lo que afecta sus operaciones. Además, destacó que el proceso de adquisición de componentes o maquinaria nueva es complicado debido a la escasez de proveedores y sistemas ineficientes. Respecto a las actualizaciones sobre sus equipos, prefiere recibir alertas simples, como mensajes de texto o correos electrónicos, dada la limitada conectividad en las zonas de pesca. <br>
+URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212010_upc_edu_pe/ER4XHbanbLdBkV63WZ9LOaQBuMNEGdfEMS909mRS4n15iA?e=n7BQqw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ### 2.2.3. Análisis de entrevistas.
 **Segmento 1:**
-{texto}
+<br>
+Las entrevistas con Gabriela Bueno y Miguel del Castillo revelan prácticas clave en el sector pesquero sobre la gestión de pedidos, inventario y facturación. Gabriela destacó la eficiencia del inventario y sugirió agregar imágenes de productos para mejorar la gestión, mientras que Miguel enfatizó la importancia de un sistema de inventario confiable y actualizado, a pesar de problemas previos con el software. Ambos coincidieron en la eficiencia de la facturación digital, pero diferían en su enfoque de pedidos: Gabriela utilizó un catálogo, mientras que Miguel optó por visitas directas a clientes. Se recomienda considerar un enfoque híbrido para la gestión de pedidos y evaluar el software de inventario para abordar las deficiencias mencionadas.
+
 **Segmento 2:**
-{texto}
+<br>
+La entrevista con Jorge Gutiérrez, un joven pescador de 21 años, destaca la precariedad en la gestión de datos y el mantenimiento de equipos en el sector pesquero. Gutiérrez utiliza métodos manuales para registrar capturas y el estado de los equipos, lo que puede conducir a ineficiencias. Aunque monitorea sus equipos con frecuencia, enfrenta desafíos en la comunicación con empresas de maquinaria, lo que retrasa pedidos y solicitudes de mantenimiento, afectando sus operaciones. La escasez de proveedores complica aún más la adquisición de nuevos componentes. Prefiere recibir actualizaciones sobre sus equipos a través de alertas simples, como mensajes de texto o correos electrónicos, dada la limitada conectividad en su área de trabajo.
+<br>
+
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 En esta sección, se incluyen las fichas de User Personas que representan arquetipos detallados de los segmentos objetivo definidos para nuestro sitio web. Estos arquetipos se han creado a partir de un análisis de las entrevistas que hemos realizado con usuarios reales y un estudio comparativo de la competencia, con el objetivo de capturar las caracterí­sticas, necesidades, y comportamientos de nuestros usuarios.
