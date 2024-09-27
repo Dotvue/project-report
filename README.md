@@ -757,6 +757,11 @@ A continuación, estableceremos las epicas, para luego detallarlas en historias 
 | TS16 | Eliminar Registro de Facturación | Como desarrollador,<br> Quiero implementar el endpoint DELETE para eliminar registros de facturación,<br> Para permitir a los usuarios eliminar entradas de facturación del sistema. | Escenario 1: Eliminación exitosa de un registro de facturación<br> Dado que el endpoint /api/v1/billing/{id} está disponible,<br> Cuando se envía una solicitud DELETE con un id válido,<br> Entonces se recibe una respuesta con estado 200,<br> Y se incluye un mensaje en el cuerpo de la respuesta, con el valor "Registro de facturación eliminado con éxito.".<br><br>Escenario 2: Eliminación de un registro de facturación inexistente<br> Dado que el endpoint /api/v1/billing/{id} está disponible,<br> Cuando se envía una solicitud DELETE con un id inválido,<br> Entonces se recibe una respuesta con estado 404,<br> Y se incluye un mensaje en el cuerpo de la respuesta, con el valor "Registro de facturación no encontrado para eliminar." | E10 |
 
 ## 3.3. Impact Mapping.
+El Impact Map es una herramienta que se utiliza en la planificación de proyectos, productos o iniciativas, donde su objetivo es alinear las actividades de un equipo con los objetivos de negocio, asegurando que los esfuerzos se concentren en generar un impacto real y valioso. Para ello tomaremos algunas de las User Stories y como estos ayudan a los usuarios que usarán nuestra plataforma.
+### Segmento 1
+<img src="./assests/Impact map Semento1.png">
+
+### Segmento 2
 
 ## 3.4. Product Backlog.
 
