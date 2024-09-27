@@ -34,14 +34,14 @@
 
 # Registro de Versiones del Informe  
 
-| Version | Fecha | Autor | Descripcion de Modificacion |
-| ----------- | ----------- | ----------- | ----------- |
-| 0.0.1 | 17/09/2024 | Daniel Mateo del Castillo Bueno | Desarrollo Capítulo (1) APARTADO<br>1.1 - 1.2 - 1.3 |
-| 0.0.2 | 21/09/2024 | Pedro Andre Guia Carrasco | Desarrollo Capítulo (2) APARTADO<br>2.1 - 2.2 - 2.3|
-| 0.0.3 | 24/09/2024 | --- | Desarrollo Capítulo (3)  APARTADO<br>3.1 - 3.2 - 3.3 - 3.4 |
-| 0.0.4 | 26/09/2024 | Gonzalo Quedena | Desarrollo Capítulo (4) APARTADO<br>4.1 - 4.2 - 4.3 - 4.4 - 4.5 - 4.6 - 4.7 - 4.8 |
-| 0.0.5 | 26/09/2024 | Sebastián Aiquipa | Desarrollo Capítulo (4) APARTADO<br>4.6 - 4.7 - 4.8 | 
-| 0.0.6 | 28/09/2024 | --- | Desarrollo Capítulo (5) APARTADO<br>5.1 - 5.2<br>Conclusiones, Anexos, Bibliografía. |
+| Version | Fecha      | Autor                           | Descripcion de Modificacion                                                          |
+|---------|------------|---------------------------------|--------------------------------------------------------------------------------------|
+| 0.0.1   | 17/09/2024 | Daniel Mateo del Castillo Bueno | Desarrollo Capítulo (1) APARTADO<br>1.1 - 1.2 - 1.3                                  |
+| 0.0.2   | 21/09/2024 | Pedro Andre Guia Carrasco       | Desarrollo Capítulo (2) APARTADO<br>2.1 - 2.2 - 2.3                                  |
+| 0.0.3   | 24/09/2024 | ---                             | Desarrollo Capítulo (3)  APARTADO<br>3.1 - 3.2 - 3.3 - 3.4                           |
+| 0.0.4   | 26/09/2024 | Gonzalo Quedena                 | Desarrollo Capítulo (4) APARTADO<br>4.1 - 4.2 - 4.3 - 4.4 - 4.5 - 4.6 - 4.7 - 4.8    |
+| 0.0.5   | 26/09/2024 | Sebastián Aiquipa               | Desarrollo Capítulo (4) APARTADO<br>4.6 - 4.7 - 4.8                                  | 
+| 0.0.6   | 28/09/2024 | ---                             | Desarrollo Capítulo (5) APARTADO<br>5.1 - 5.2<br>Conclusiones, Anexos, Bibliografía. |
 
 </center>
 
@@ -231,21 +231,21 @@ Desarrollar aplicaciones web de alta calidad utilizando tecnologías Open Source
     <th>Habilidades</th>
   </tr>
   <tr>
-    <td><img src="./assets/chapterI/team-photos/profile-photo.png" width=800px/></td>
+    <td><img src="./assets/chapterI/team-photos/profile-photo.png" width=1000px/></td>
     <td>Gonzalo Andre Zavala Quedena</td>
     <td>Ingeniería de Software</td>
     <td>Soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), con una gran pasión por la tecnología y un fuerte compromiso con el aprendizaje continuo. Estoy enfocado en seguir desarrollándome profesionalmente, adquiriendo conocimientos y habilidades que me permitan enfrentar nuevos desafíos en el mundo del desarrollo de software.</td>
     <td><ul><li>Python</li><li>C++</li><li>C#</li><li>Angular</li><li>HTML</li><li>CSS</li><li>JavaScript</li><li>SQL Server</li></ul></td>
   </tr>
   <tr>
-    <td><img src="./assets/chapterI/team-photos/Foto-u202211212.png" width=800px/></td>
+    <td><img src="./assets/chapterI/team-photos/Foto-u202211212.png" width=1000px/></td>
     <td>Daniel Mateo del Castillo Bueno</td>
     <td>Ingeniería de Software</td>
     <td>Soy estudiante de la carrera de Ingeniería de Software de la Universidad Peruana de Ciencias aplicadas. Soy una persona muy curiosa, me gusta experimentar mucho lo cual me lleva a aprender sobre tecnología y software lo que me emociona.</td>
     <td><ul><li>Java</li><li>C++</li><li>Angular</li><li>Python</li><li>SQL</li></ul></td>
   </tr>
     <tr>
-    <td><img src="./assets/chapterI/team-photos/perfil.png" width=800px></td>
+    <td><img src="./assets/chapterI/team-photos/perfil.png" width=1000px></td>
     <td>Pedro Andre Guía Carrasco</td>
     <td>Ingeniería de Software</td>
     <td>Soy estudiante de Ingenieria de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), es increible llevar esta carrera porque se que a futuro me brindará bastantes oportunidades de negocios y deseo de cumplir mis metas. Espero seguir aprendiendo lo necesario de esta carrera para que me convierta en un profesional desarrollador de software.</td>
@@ -253,7 +253,7 @@ Desarrollar aplicaciones web de alta calidad utilizando tecnologías Open Source
   </tr>
 
   <tr>
-    <td><img src="./assets/chapterI/team-photos/Integrante-Omar.jpg" width=800px></td>
+    <td><img src="./assets/chapterI/team-photos/Integrante-Omar.jpg" width=1000px></td>
     <td>Omar Berrocal Ramirez</td>
     <td>Ingeniería de Software</td>
     <td>Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, con una gran curiosidad hacia la tecnología que tengo desde pequeño, me siento muy motivado por mi carrera. Espero explorar más y seguir aprendiendo sobre el mundo de la computación en informática</td>
@@ -261,7 +261,7 @@ Desarrollar aplicaciones web de alta calidad utilizando tecnologías Open Source
   </tr>
 
   <tr>
-    <td><img src="./assets/chapterI/team-photos/Sebastian_Aiquipa.png" width=800px></td>
+    <td><img src="./assets/chapterI/team-photos/Sebastian_Aiquipa.png" width=1000px></td>
     <td>Sebastian Andres Aiquipa Poma</td>
     <td>Ingeniería de Software</td>
     <td>Estudio en la carrera de Ingenieria de Software en la UPC. Tengo conocimientos en C++, Python y actualmente estoy practicando en Java. Considero que la comunicacion y el aprendizaje constante son las claves que me permitiran progresar.</td>
