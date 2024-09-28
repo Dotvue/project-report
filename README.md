@@ -1069,6 +1069,8 @@ Enlace
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review.
 
+Durante este sprint 2 el equipo se enfocó en el desarrollo de la primera versión del lado front-end de la aplicación web, y de la corrección de errores de la anterior entrega del trabajo, por lo cual no se requirió pruebas de testing.
+
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
