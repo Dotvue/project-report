@@ -1073,6 +1073,26 @@ Durante este sprint 2 el equipo se enfocó en el desarrollo de la primera versi�
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
+A continuación se presentará las vistas de la aplicación web que se lograron implementar con éxito en este sprint 2.
+
+**Home**: Esta es la vista Home de la apliación web, que nos permitirá navegar a través de la apliación.
+![frontend-home](./assets/images/chapter-V/frontend-home.jpeg)
+
+**Inventory**: En esta sección se pesenta el inventario de los equipo con los que cuentra la empresa de maquinaria.
+![frontend-inventory](./assets/images/chapter-V/frontend-inventory.jpeg)
+
+**Produc-Detail**: Cuando entramos a la vista de algún producto, nos muestra un diálogo con información más detallada.
+![frontend-product-detail](./assets/images/chapter-V/frontend-product-detail.jpeg)
+
+**Monitoring**: Sección en la se podrá monitorear a los equipos y saber su estado, así como cuando fue su ultimo mantenimiento.
+![frontend-monitoring](./assets/images/chapter-V/frontend-monitoring.jpeg)
+
+**maintenance**: En esta sección se podrá visualizar el historial de los mantenimientos hechos a los equipos.
+![frontend-maintenance](./assets/images/chapter-V/frontend-maintenance.jpeg)
+
+***link del video***: https://drive.google.com/file/d/1KFtE8xqGLwyorW3c1j-m4ogDFLetKEig/view?usp=sharing
+
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
 En el segundo sprint principalmente hemos desarrollado la primera versión de la aplicación web de "AquaEngine". Además se hemos utilizado servicios web para desplegar tanto el front-end de "AquaEngine", como el api fake de donde obtenemos los datos para simular una integración con una base de datos. Por último se ha actualizado la Landing Page de "AquaEngine" para que pueda redirigir a la aplicación a traves de un botón Call-To-Action.
