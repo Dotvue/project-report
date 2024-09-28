@@ -1120,4 +1120,42 @@ En el segundo sprint principalmente hemos desarrollado la primera versión de la
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
+
+Para desplegar la Web Application optamos por utilizar firebase ya que ofrece un servicio de hosting muy versátil y sin muchas complicaciones para poder desplegar una app. Para lograr el despliegue de la app se siguieron los siguientes pasos:
+
+Lo primero es crear un proyecto en firebase con tu cuenta de google.
+![firebase-proyecto](./assets/images/chapter-V/Firebase-proyecto.png)
+
+Luego procedemos a instalar las herramientas de firebase en el app con el siguiente comando en la terminal:
+```
+npm install -g firebase-tools
+```
+
+Después enlazamos la cuenta firebase con el siguiente comando:
+```
+firebase login
+```
+Esto abrió una pestaña donde seleccionamos nuestra cuenta de google que usamos para crear el proyecto en firebase.
+![login-firebase](./assets/images/chapter-V/login-firebase.png)
+
+
+Para continuar, debemos generar el build de nuestro proyecto con el comando: 
+```
+ng build
+```
+Lo que generará una carpeta "dist", y el siguiente paso fue ejecutar el comando: 
+```
+firebase init hosting
+```
+![firebase-hosting](./assets/images/chapter-V/firebase-hosting.png)
+
+Luego nos preguntará si queremos crear un nuevo proyecto, o usar un proyecto existente de firebase. Para esta opción le damos **existing project** y seleccionamos el proyecto que hemos creado anteriormente. Después nos aparecerán opciones que según sea el caso, se seleccionó entre **y/n**.
+
+Por último, finalizamos ejecutando el siguiente comando y tendremos nuestra aplicación web desplegada.
+```
+firebase deploy
+```
+
+*Enlace de la Web Application:*  https://webapp.AquaEngine/
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
