@@ -1014,6 +1014,59 @@ Enlace
 
 #### 5.2.2.3. Development Evidence for Sprint Review.
 
+
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center">https://github.com/Dotvue/AquaEngine-landing-page </td>
+    <td align="center"> master</td>
+    <td align="center"> fd00e2f2a820a99264ce44abe1f67c0a29a3f2a1</td>
+    <td align="center"> chore: initial commit</td>
+    <td align="center"> ---</td>
+    <td align="center"> 20/09/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/control</td>
+    <td align="center" > 0d727bb7dd708f49f203a5e5abdfadbcafa8639c</td>
+    <td align="center"> refactor(control): reorganize code and fix item-pop-up close functionality.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/09/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/monitoring</td>
+    <td align="center">a918e196d9194d2687598d85422cd03dc5948388</td>
+    <td align="center"> fix(monitoring): monitoring component fixed.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/09/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/planning</td>
+    <td align="center"> bda60aea4b2b784b1d1c87b92021a488e507f5ee.</td>
+    <td align="center"> feat(planning): added order-detail component.</td>
+    <td align="center"> ---</td>
+    <td align="center">27/09/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> develop</td>
+    <td align="center">05de4ad3bdddd67e63b4e710009e8486576d18a3</td>
+    <td align="center">Merge branch 'feature/control' into develop</td>
+    <td align="center"> ---</td>
+    <td align="center">27/09/2024</td>
+  </tr>
+</table>
+
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review.
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
