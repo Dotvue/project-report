@@ -1159,3 +1159,14 @@ firebase deploy
 *Enlace de la Web Application:*  https://webapp.AquaEngine/
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+La meta de este sprint fue la implementación del lado front-end de la apliación web. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, WebStorm, Vue, HTML, CSS y JavaScript. Como evidencias del trabajo realizado tenemos los diagramas de flujo que representan los commits realizados por cada miembro del equipo Dotvue.
+
+![Commits-frontend](./assets/images/chapter-V/sprint2-commits.png)
+La imagen muestra un gráfico de barras donde se refleja la cantidad de commits hechos por cada miembro del equipo en el lado front-end de la aplicación web de "AquaEngine".
+
+![Contribuitors-frontend](./assets/images/chapter-V/sprint2-contribuitors.png)
+En esta imagen se refleja la el nivel de modificaciones realizadas por los commits de cada integrante en el lado front-end de la aplicación web de "AquaEngine".
+
+![Network-frontend](./assets/images/chapter-V/sprint2-network.png)
+En la imagen se puede apreciar las ramas feature creadas para el repositorio y las fechas en que se unieron.
