@@ -1716,7 +1716,7 @@ En la etapa inicial de nuestro proyecto, decidimos llevar a cabo la implementaci
 Repositorio Github: https://github.com/Dotvue/AquaEngine-landing-page
 #### 5.2.1.1. Sprint Planning 1.
 
-Para el primer sprint el equipo establecio que el desarrollo de las tareas serian unas 18 horas.
+Para el primer sprint el equipo establecio que el desarrollo de las tareas serian unas 20 horas.
 
 <table>
     <thead>
@@ -1779,20 +1779,19 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
         <tr>
             <td>Sprint 1 Velocity</td>
             <td>
-                ?
+                8
             </td>
         </tr>
         <tr>
             <td>Sum of story points</td>
             <td>
-                ?
+                8
             </td>
         </tr>
     </tbody>
 </table>
 
 #### 5.2.1.2. Sprint Backlog 1.
-Para el primer sprint el equipo establecio que el desarrollo de las tareas serian unas 20 horas.
 Enlaze al product backlog con las tareas correspondientes: https://www.pivotaltracker.com/projects/2717945
 
 ![sprint-1](./assets/images/chapter-V/pivotal-tracker.png)
@@ -1938,54 +1937,536 @@ Enlaze al product backlog con las tareas correspondientes: https://www.pivotaltr
 </table>
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
-![Sprint review development Evidence](image.jpg)
-#### 5.2.X.4. Testing Suite Evidence for Sprint Review.
-![Sprint review Testing suite Evidence](image.jpg)
-#### 5.2.X.5. Execution Evidence for Sprint Review.
-![Sprint review Execution Evidence](image.jpg)
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review.
-![Sprint review Services Documentation Evidence](image.jpg)
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review.
-![Sprint review Software Deployment Evidence](image.jpg)
-#### 5.2.X.8. Team Collaboration Insights during Sprint.
-![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
 
-## 5.3. Validation Interviews.
-### 5.3.1. Diseño de Entrevistas.
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
 
-1. ¿Cuál es su nombre? 
-2. ¿Qué edad tiene? 
-3. ¿A qué se dedica? 
-4. ¿[Opinion de idea de propuesta]? 
+  <tr>
+    <td rowspan="27" align="center">https://github.com/Dotvue/AquaEngine-landing-page </td>
+    <td align="center"> main</td>
+    <td align="center"> 8c635063c7d47bf77d427f89251f507e8e383d80</td>
+    <td align="center"> chore: initial commit</td>
+    <td align="center"> ---</td>
+    <td align="center"> 04/09/2024</td>
+  </tr>
 
-### 5.3.2. Registro de Entrevistas.
-**Segmento 1**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)  
-{texto mucho}
+  <tr>
+    <td align="center">feature/funcionality</td>
+    <td align="center" > 66f2ea27cf6eaafaa540972f29b3553bf1fd65ed</td>
+    <td align="center"> feat(main): add functionality.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 07/09/2024</td>
+  </tr>
 
-**Segmento 2**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)
-{texto}
+  <tr>
+    <td align="center"> feature/header</td>
+    <td align="center">a07bc427df5faa3755d36946da6df24024307850</td>
+    <td align="center"> feat: add styles to dedicated navbar section up to 768px and above.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 07/09/2024</td>
+  </tr>
 
-### 5.3.3. Evaluaciones según heurísticas.
-| HEURÍSTICA   | EVALUACIÓN  | NOTA      |
-| --------------------------------------------- | ---------- | --------- |
-| Visibilidad del estado del sistema            |            | {texto}   |
-| Coincidencia entre el sistema y el mundo real |            | {texto}   |
-| Control y libertad del usuario                |            | {texto}   |
-| Consistencia y estándares                     |            | {texto}   |
-| Prevención de errores                         |            | {texto}   |
-| Mostrar antes que recordar                    |            | {texto}   |
-| Flexibilidad y eficiencia de uso              |            | {texto}   |
-| Diseño estético y minimalista                 |            | {texto}   |
-| Comunicar errores con facilidad               |            | {texto}   |
-| Ayuda y documentación                         |            | {texto}   |  
-  
-## 5.4. Video About-the-Product.
+  <tr>
+    <td align="center"> feature/recommendations</td>
+    <td align="center"> 4607fddf7278724c3ba7ed77b46cf4bc34940fdd
+</td>
+    <td align="center"> feat: add styles to recommendations section.</td>
+    <td align="center"> ---</td>
+    <td align="center">07/09/2024</td>
+  </tr>
 
+  <tr>
+    <td align="center"> feature/hero</td>
+    <td align="center"> 3ffd3bc380ed86a8008849d2b7669dc8b8938283</td>
+    <td align="center">feat: hero is now responsive</td>
+    <td align="center"> ---</td>
+    <td align="center"> 07/09/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/subscriptions</td>
+    <td align="center"> acb9b05913fc505893eac42a9727212fd106cb7f</td>
+    <td align="center"> style: update styles subscription section</td>
+    <td align="center"> ---</td>
+    <td align="center"> 08/09/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/footer</td>
+    <td align="center"> 1b5ecfeaa209ab51b5d1ceb8dd6cff8f63de0dfc</td>
+    <td align="center"> feat: add styles to footer section.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 07/09/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/form</td>
+    <td align="center">414c2fc0ffa290d3f1fa8004d26a60cc661ca611
+
+</td>
+    <td align="center"> feat(form): form completed.</td>
+    <td align="center"> ---</td>
+    <td align="center">07/09/2024</td>
+  </tr>
+
+
+  <tr>
+    <td align="center"> develop</td>
+    <td align="center">4427c7059a3dd60bccdbdb58cc90baa8a439dee0</td>
+    <td align="center">fix: resolve merge conflict with feature/form.</td>
+    <td align="center"> ---</td>
+    <td align="center">08/09/2024</td>
+  </tr>
+</table>
+
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+
+Durante este sprint 1 el equipo se enfocó en el desarrollo de la lading page por lo cual no se requirio pruebas de testing.
+
+#### 5.2.1.5. Execution Evidence for Sprint Review.
+
+Después de finalizar el Sprint 1, hemos logrado implementar todas las secciones de nuestra Landing Page, aunque con algunos desperfectos en cuanto a diseño. A continuación, te invitamos a explorar nuestros avances a través de imágenes que muestran el resultado obtenido.
+
+*Seccion de navegacion* : Nos ayudara a redirigirnos a secciones especificas de la lading page.
+
+![navbar](./assets/images/chapter-V/header.png)
+*Hero* : Banner que contendra un boton (Call to Action) que te llevara a registrarte a nuestra aplicación.
+![hero](./assets/images/chapter-V/hero.png)
+*funcionality*: Seccion donde los visitantes de la lading page podrán ver como es que funciona nuestra aplicacion y que les ofrece.
+![funcionality](./assets/images/chapter-V/functionality.png)
+
+*Planes*: seccion donde se explica las opciones de planes de suscription que tenemos, junto al precio y detalles del plan.
+![planes](./assets/images/chapter-V/subscriptions.jpeg)
+
+*Reseñas*: sección con las reseñas y comentarios de los usuarios de la aplicación web.
+![form](./assets/images/chapter-V/recommendations.png)
+
+*Form*: sección con un formulario para contactar a los desarrolladores de la aplicación
+![form](./assets/images/chapter-V/form.png)
+
+*footer*: contenido extra, como telefono,correo y redes para que puedan comunicarse con la empresa devinsons.
+![footer](./assets/images/chapter-V/footer.png)
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+En el primer sprint, hemos realizado el diseño, la programación y el despligue de la Landing Page que presentará nuesta apliación web "AquaEngine"
+
+<table> 
+  <tr>
+    <td> <strong>End Point </strong></td>
+    <td align="center"> <strong>Funciones</strong> </td>
+  </tr>
+
+  <tr>
+    <td> https://dotvue.github.io/AquaEngine-landing-page/</td>
+    <td> Desplegar Landing Page de AquaEngine</td>
+  </tr>
+</table>
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+
+Para el despliegue de nuestra Landing Page hemos utilizado GitHub Pages. Para hacer esto, hemos trabajado en un repositorio de GitHub donde divimos el trabajo en ramas. En la sección de configuración y Pages, seleccionamos la rama main para desplegar nuestra web. 
+
+**Link de la landing page desplegada:** https://dotvue.github.io/AquaEngine-landing-page/
+
+![GitHub-Pages](./assets/images/chapter-V/github-pages.png)
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
+ 
+La meta de este sprint fue la implementación de la Landing Page. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Visual Studio Code, HTML, CSS y JavaScript. Como evidencias del trabajo realizado tenemos los diagramas de flujo que representan los commits realizados por cada miembro del equipo Dotvue.
+
+![Commits-landing](./assets/images/chapter-V/commits-landing.png)
+La imagen muestra un gráfico de barras donde se refleja la cantidad de commits hechos por cada miembro del equipo en la Landing Page.
+
+![Contribuitors-landing](./assets/images/chapter-V/contribuitors-landing.png)
+En esta imagen se refleja la el nivel de modificaciones realizadas por los commits de cada integrante en la Landing Page.
+
+![Network-landing](./assets/images/chapter-V/Network-landing.png)
+En la imagen se puede apreciar las ramas feature creadas para el repositorio y las fechas en que se unieron.
+
+### 5.2.2. Sprint 2 
+
+
+En la etapa inicial de nuestro proyecto, decidimos llevar a cabo la implementación del diseño de nuestra Landing Page utilizando WebStorm como el entorno de desarrollo.
+
+Repositorio Github: https://github.com/Dotvue/AquaEngine-landing-page
+#### 5.2.2.1. Sprint Planning 2.
+
+Para el primer sprint el equipo establecio que el desarrollo de las tareas serian unas 20 horas.
+
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2024/09/24</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>7:30 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Aula VH-107</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Gonzalo Andre Zavala Quedena</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                <li>Daniel Mateo del Castillo Bueno</li>
+                <li>Omar Christian Berrocal Ramirez</li>
+                <li>Pedro Andre Guía Carrasco</li>
+                <li>Sebastian Andres Aiquipa Poma</li>
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Review Summary</td>
+            <td>
+                Este es el segundo sprint a realizar por el equipo
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Retrospective Summary</td>
+            <td>
+                Acuerdo de comenzar con el desarrollo del front-end  
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Goal</td>
+            <td>
+                <li>Corregir errores y observaciones del sprint 1.</li>
+                <li>implementar las vistas core del negocio en el lado front-end</li>
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Velocity</td>
+            <td>
+                22
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                30
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+#### 5.2.2.2. Sprint Backlog 2.
+
+Para el print 2 usamos la herramienta trello para organizar las tareas del equipo.
+Enlace 
+ ![trello-sprint-2](./assets/images/chapter-V/trello-sprint-2.png)
+
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 2</strong> </td>
+  </tr>
+
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>Description<strong></td>
+    <td align="center"> <strong>Estimation (Hours)<strong></td>
+    <td align="center"> <strong>Assigned To<strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  <strong></td>
+  </tr>
+
+<!----------------------------------------------->
+  <tr>
+    <td rowspan="2" align="center"> ID </td>
+    <td rowspan="2" align="center"> US12 Solicitud de compra de equipo estándar</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Ordering Machinery</td>
+    <td align="center"> Desarrollo de una sección de maquinaria ofertada al empresario pesquero</td>
+    <td align="center"> 3</td>
+    <td align="center">Pedro Andre Guía Carrasco</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Ordel Detail </td>
+    <td align="center"> Se derarrolla una sección que incluya las equipos seleccionados por el pescador </td>
+    <td align="center"> 2</td>
+    <td align="center"> Pedro Andre Guía Carrasco</td>
+    <td align="center"> Done</td>
+  </tr>
+<!-------------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> US03 Estado de equipos</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Monitoring Section</td>
+    <td align="center"> Se desarrolla la funcionalidad que muestra el estado de los equipos.</td>
+    <td align="center"> 3</td>
+    <td align="center"> Daniel Mateo del Castillo Bueno</td>
+    <td align="center"> Done</td>
+  </tr>
+<!-------------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> US04 Registro de equipos</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Equipment registration Form</td>
+    <td align="center"> Se desarrolla un formulario que permite registrar nuevos equipos pesqueros al inventario.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Omar Berrocal Ramirez</td>
+    <td align="center"> In progress</td>
+  </tr>
+  <!-------------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> US05 Historial de mantenimiento</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Equipment Maintenance Setion</td>
+    <td align="center"> Se la sección de control de mantenimiento de los equipos.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Omar Berrocal Ramirez</td>
+    <td align="center"> In progress</td>
+  </tr>
+  <!-------------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> US06 Alerta de equipos críticos</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Critical Alerts</td>
+    <td align="center"> Se desarrolla una funcionalidad de mensajes que alerten de estado crítico de algún equipo.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Daniel Mateo del Castillo Bueno</td>
+    <td align="center"> In progress</td>
+  </tr>
+  <!-------------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> US09 Notificaciones de estado</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Status Notifications</td>
+    <td align="center"> Se desarrollo la sección donde se muestre las notificaciones recibidas junto con niveles de estados.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Gonzalo Andre Zavala Queneda</td>
+    <td align="center"> In progress</td>
+  </tr>
+<!---------------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> US10 Gestión de inventario</td>
+      <td align="center"> TA01 </td>
+    <td align="center"> Equipments Table</td>
+    <td align="center"> Se desarrolla una tabla donde se muestra todos la maquinaria disponible por la empresa.</td>
+    <td align="center"> 3</td>
+    <td align="center"> Gonzalo Andre Zavala Queneda</td>
+    <td align="center"> Done</td>
+  </tr>
+<!------------------------------------------------>
+   <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> US11 Consulta de productos en inventario</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Produc Details</td>
+    <td align="center"> Se desarrolla un diálogo donde se muestren los detalles del producto seleccionado</td>
+    <td align="center"> 2</td>
+    <td align="center"> Omar Christian Berrocal Ramirez </td>
+    <td align="center"> Done</td>
+  </tr>
+  <!---------------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> US21 Acceso a la aplicación web</td>
+      <td align="center"> TA01 </td>
+    <td align="center"> Call to Action</td>
+    <td align="center"> Se desarrolla un botón call to action en el landing page que redirige a la aplicación web.</td>
+    <td align="center"> 1</td>
+    <td align="center"> Gonzalo Andre Zavala Queneda</td>
+    <td align="center"> Done</td>
+  </tr>
+</table>
+
+#### 5.2.2.3. Development Evidence for Sprint Review.
+
+
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center">https://github.com/Dotvue/AquaEngine-landing-page </td>
+    <td align="center"> master</td>
+    <td align="center"> fd00e2f2a820a99264ce44abe1f67c0a29a3f2a1</td>
+    <td align="center"> chore: initial commit</td>
+    <td align="center"> ---</td>
+    <td align="center"> 20/09/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/control</td>
+    <td align="center" > 0d727bb7dd708f49f203a5e5abdfadbcafa8639c</td>
+    <td align="center"> refactor(control): reorganize code and fix item-pop-up close functionality.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/09/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/monitoring</td>
+    <td align="center">a918e196d9194d2687598d85422cd03dc5948388</td>
+    <td align="center"> fix(monitoring): monitoring component fixed.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/09/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/planning</td>
+    <td align="center"> bda60aea4b2b784b1d1c87b92021a488e507f5ee.</td>
+    <td align="center"> feat(planning): added order-detail component.</td>
+    <td align="center"> ---</td>
+    <td align="center">27/09/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> develop</td>
+    <td align="center">05de4ad3bdddd67e63b4e710009e8486576d18a3</td>
+    <td align="center">Merge branch 'feature/control' into develop</td>
+    <td align="center"> ---</td>
+    <td align="center">27/09/2024</td>
+  </tr>
+</table>
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+
+Durante este sprint 2 el equipo se enfocó en el desarrollo de la primera versión del lado front-end de la aplicación web, y de la corrección de errores de la anterior entrega del trabajo, por lo cual no se requirió pruebas de testing.
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+
+A continuación se presentará las vistas de la aplicación web que se lograron implementar con éxito en este sprint 2.
+
+**Home**: Esta es la vista Home de la apliación web, que nos permitirá navegar a través de la apliación.
+![frontend-home](./assets/images/chapter-V/frontend-home.jpeg)
+
+**Inventory**: En esta sección se pesenta el inventario de los equipo con los que cuentra la empresa de maquinaria.
+![frontend-inventory](./assets/images/chapter-V/frontend-inventory.jpeg)
+
+**Produc-Detail**: Cuando entramos a la vista de algún producto, nos muestra un diálogo con información más detallada.
+![frontend-product-detail](./assets/images/chapter-V/frontend-product-detail.jpeg)
+
+**Monitoring**: Sección en la se podrá monitorear a los equipos y saber su estado, así como cuando fue su ultimo mantenimiento.
+![frontend-monitoring](./assets/images/chapter-V/frontend-monitoring.jpeg)
+
+**maintenance**: En esta sección se podrá visualizar el historial de los mantenimientos hechos a los equipos.
+![frontend-maintenance](./assets/images/chapter-V/frontend-maintenance.jpeg)
+
+***link del video***: https://drive.google.com/file/d/1KFtE8xqGLwyorW3c1j-m4ogDFLetKEig/view?usp=sharing
+
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+En el segundo sprint principalmente hemos desarrollado la primera versión de la aplicación web de "AquaEngine". Además se hemos utilizado servicios web para desplegar tanto el front-end de "AquaEngine", como el api fake de donde obtenemos los datos para simular una integración con una base de datos. Por último se ha actualizado la Landing Page de "AquaEngine" para que pueda redirigir a la aplicación a traves de un botón Call-To-Action.
+
+<table> 
+  <tr>
+    <td> <strong>End Point </strong></td>
+    <td align="center"> <strong>Funciones</strong> </td>
+  </tr>
+
+  <tr>
+    <td> https://dotvue.github.io/AquaEngine-landing-page/ </td>
+    <td> Desplegar Landing Page de AquaEngine</td>
+  </tr>
+  <tr>
+    <td> https://my-json-server.typicode.com/Dotvue/AquaEngine-fakeapi </td>
+    <td> Desplegar la Fake Api de AquaEngine</td>
+  </tr>
+  <tr>
+    <td> https://webapp.AquaEngine/</td>
+    <td> Desplegar FrontEnd de AquaEngine</td>
+  </tr>
+</table>
+
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+
+Para desplegar la Web Application optamos por utilizar firebase ya que ofrece un servicio de hosting muy versátil y sin muchas complicaciones para poder desplegar una app. Para lograr el despliegue de la app se siguieron los siguientes pasos:
+
+Lo primero es crear un proyecto en firebase con tu cuenta de google.
+![firebase-proyecto](./assets/images/chapter-V/Firebase-proyecto.png)
+
+Luego procedemos a instalar las herramientas de firebase en el app con el siguiente comando en la terminal:
+```
+npm install -g firebase-tools
+```
+
+Después enlazamos la cuenta firebase con el siguiente comando:
+```
+firebase login
+```
+Esto abrió una pestaña donde seleccionamos nuestra cuenta de google que usamos para crear el proyecto en firebase.
+![login-firebase](./assets/images/chapter-V/login-firebase.png)
+
+
+Para continuar, debemos generar el build de nuestro proyecto con el comando: 
+```
+ng build
+```
+Lo que generará una carpeta "dist", y el siguiente paso fue ejecutar el comando: 
+```
+firebase init hosting
+```
+![firebase-hosting](./assets/images/chapter-V/firebase-hosting.png)
+
+Luego nos preguntará si queremos crear un nuevo proyecto, o usar un proyecto existente de firebase. Para esta opción le damos **existing project** y seleccionamos el proyecto que hemos creado anteriormente. Después nos aparecerán opciones que según sea el caso, se seleccionó entre **y/n**.
+
+Por último, finalizamos ejecutando el siguiente comando y tendremos nuestra aplicación web desplegada.
+```
+firebase deploy
+```
+
+*Enlace de la Web Application:*  https://webapp.AquaEngine/
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+La meta de este sprint fue la implementación del lado front-end de la apliación web. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, WebStorm, Vue, HTML, CSS y JavaScript. Como evidencias del trabajo realizado tenemos los diagramas de flujo que representan los commits realizados por cada miembro del equipo Dotvue.
+
+![Commits-frontend](./assets/images/chapter-V/sprint2-commits.png)
+La imagen muestra un gráfico de barras donde se refleja la cantidad de commits hechos por cada miembro del equipo en el lado front-end de la aplicación web de "AquaEngine".
+
+![Contribuitors-frontend](./assets/images/chapter-V/sprint2-contribuitors.png)
+En esta imagen se refleja la el nivel de modificaciones realizadas por los commits de cada integrante en el lado front-end de la aplicación web de "AquaEngine".
+
+![Network-frontend](./assets/images/chapter-V/sprint2-network.png)
+En la imagen se puede apreciar las ramas feature creadas para el repositorio y las fechas en que se unieron.
