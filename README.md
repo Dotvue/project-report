@@ -1075,6 +1075,29 @@ Durante este sprint 2 el equipo se enfocó en el desarrollo de la primera versi�
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
+En el segundo sprint principalmente hemos desarrollado la primera versión de la aplicación web de "AquaEngine". Además se hemos utilizado servicios web para desplegar tanto el front-end de "AquaEngine", como el api fake de donde obtenemos los datos para simular una integración con una base de datos. Por último se ha actualizado la Landing Page de "AquaEngine" para que pueda redirigir a la aplicación a traves de un botón Call-To-Action.
+
+<table> 
+  <tr>
+    <td> <strong>End Point </strong></td>
+    <td align="center"> <strong>Funciones</strong> </td>
+  </tr>
+
+  <tr>
+    <td> https://dotvue.github.io/AquaEngine-landing-page/ </td>
+    <td> Desplegar Landing Page de AquaEngine</td>
+  </tr>
+  <tr>
+    <td> https://my-json-server.typicode.com/Dotvue/AquaEngine-fakeapi </td>
+    <td> Desplegar la Fake Api de AquaEngine</td>
+  </tr>
+  <tr>
+    <td> https://webapp.AquaEngine/</td>
+    <td> Desplegar FrontEnd de AquaEngine</td>
+  </tr>
+</table>
+
+
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
