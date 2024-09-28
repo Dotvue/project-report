@@ -175,36 +175,13 @@ Landing Page: https://aqua-engine-landing-page.vercel.app/?lang=es
 # Student Outcome
 El curso contribuye al cumplimiento del **Student Outcome ABET:ABET – EAC - Student Outcome 5** Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
 
-<table border="1">
-  <tr>
-    <th>Criterio Especifico</th>
-    <th>Acciones Realizadas</th>
-    <th>Conclusiones</th>
-  </tr>
+| Criterio Específico | Acciones Realizadas | Conclusiones|
+|---------------------|---------------------|-------------|
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta</td> | <b>Gonzalo Quedena</b></br>TB1:<br>Todo el equipo asumió roles de liderazgo de manera colaborativa, lo que permitió una distribución equitativa de las responsabilidades. Juntos, establecimos metas claras, planificamos las tareas y mantuvimos una comunicación fluida para asegurar el progreso constante. Además, la colaboración conjunta en áreas clave, como el desarrollo de la landing page, fomentó un entorno inclusivo donde se valoraron las contribuciones de todos los miembros. Este enfoque de liderazgo compartido y trabajo coordinado garantizó tanto la calidad como la eficiencia en cada fase del proyecto.</br>TP:</br>Desarrollo del front-end en colaboración con otros miembros de equipo, coordinando la integración de nuestras soluciones. Asumo un liderazgo conjunto, en donde se distribuyen tareas, se establecen objetivos y asegura el cumplimiento de los plazos y la calidad del producto.<b></b><br><br><b>Daniel del Castillo</b></br>TB1:</br>Durante todo el proceso de esta entrega, encaminé un poco mejor las ideas de mis compañeros utilizando mi conocimiento del dominio de modo que todos pudimos desarrollar mutuamente las ideas propuestas</br>TP:<br>Para esta entrega partcipé activamente en el proceso de intercambio de ideas y organización de bounded contexts con mis compañeros durante las reuniones de los sprints además de realizar segmentos que no pudieron completarse en entregas pasadas.<br><br><b>Pedro Guia Carrasco</b></br>TB1:<br>En proceso de desarrollo del proyecto, pude notar el compromiso del equipo en las tareas asignadas al inicio del trabajo. Gracias a eso pude exigirme en cumplir todo a su tiempo </br>TP:<br>Para esta entrega participé en el proceso de intercambio de ideas para los bounded context junto a mis compañeros de trabajo durante los tiempos de reunion y realice el sprint 2 que trata sobre el frontend.<br><b>Omar Berrocal</b></br>TB1:<br>Las reuniones realizadas por el equipo y el uso de gitflow ayudaron al trabajo en equipo. Usando herramientas ya conocidas por todos los miembros, hizo que todo se comprenda mejor.</br>TP:<br>Para esta entrega participé en las reuniones del equipo, porponiendo ideas y escuchando las ideas de los demás. Así pudimos llegar a un acuerdo y empezar con el desarrollo del trabajo parcial<br><br><b>Sebastian Aiquipa</b></br>TB1:</br>El equipo mostró una dinámica de trabajo colaborativa y efectiva, donde cada miembro asumió roles de liderazgo de manera equitativa. Esto facilitó una distribución justa de responsabilidades, lo que permitió establecer objetivos claros y una planificación eficiente de las tareas. La comunicación constante y la colaboración en áreas clave, como el desarrollo de la landing page, promovió un ambiente inclusivo, donde cada contribución fue valorada. | CONCLUSIÓN |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | <b>Gonzalo Quedena</b></br>TB1:<br>Para esta entrega, fomentamos un entorno colaborativo e inclusivo al involucrar activamente a todos los miembros del equipo en el análisis de las necesidades, utilizando entrevistas detalladas como base. Juntos, establecimos metas claras para asegurar un diseño UX/UI que garantizara una experiencia óptima para todos los usuarios. La planificación de tareas se llevó a cabo de manera organizada, permitiendo realizar un análisis exhaustivo de la competencia y cumplir con los objetivos del proyecto, identificando oportunidades clave en la optimización de las actividades.</br>TP:</br>Desarrollo AquaEngine para digitalizar procesos en empresas pesqueras, asegurando que el equipo trabaje en armonía, con metas claras y una planificación eficaz para cumplir los objetivos del proyecto.<br><br><b>Daniel del Castillo</b></br>TB1:<br>Duante esta entrega, fomentamos el ambiente colaborativo y establecimos metas. Nuestro lider desarrolló un trello en el que seguí adecuadamente las tareas que no se habían realizado de momento<br>TP:<br>Desarrollé la sección de analiticas para la empresa, para ello segmenté la carga laboral, establecí una fecha limite y lo realicé en 3 historias de usuario.<br><br><b>Pedro Guia Carrasco</b></br>TB1:<br>Para esta entrega, fomentamos el trabajo en equipo que se requiere para esta ocasión. Analizamos las herramientas a utilizar para el desarrollo del producto y tuvimos cuidado en entender lo que requiere el usuario. Cumplimos los objetivos de la lista de tareas que tiene cada integrante del grupo y no tuvimos problema en entregar a tiempo nuestra parte del reporte.</br>TP:<br>Desarrolle la seccion de planning para elló segmenté el orden de maquinaria, los detalles de la orden y orden final, esto establece la una historia de usuario.</br><br><b>Omar Berrocal</b></br>TB1:<br>Durante esta entrega empleamos tecnicas como gitflow y manejo de ramas lo que nos permitió trabajar de forma organizada. Plantear metas y manejarlas en un trello fue idóneo para saber que tareas se encontraban pendientes y quienes necesitaban ayuda, y de esa manera poder ayudar.</br>TP:<br>Trabajé en el feature de control, apoyando con el desarrollo de el inventario y la visualización de los detalles del equipo.<br><br><b>Sebastian Aiquipa</b></br>TB1:</br>A lo largo del proyecto, el equipo demostró una sólida capacidad de colaboración e inclusión, involucrando a todos los miembros en cada etapa del proceso. La planificación fue clave para asegurar un diseño UX/UI efectivo y un análisis detallado de la competencia, lo que permitió identificar oportunidades clave de mejora. La utilización de herramientas organizativas, como Trello, ayudó a estructurar el trabajo y seguir de cerca el progreso, lo que facilitó el cumplimiento de las metas en el tiempo establecido. | CONCLUSIÓN |  
 
-  <tr>
-    <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
-    <td>
-    <p align="justify">
-        <b>Gonzalo Quedena</b></br>TB1:<br>Todo el equipo asumió roles de liderazgo de manera colaborativa, lo que permitió una distribución equitativa de las responsabilidades. Juntos, establecimos metas claras, planificamos las tareas y mantuvimos una comunicación fluida para asegurar el progreso constante. Además, la colaboración conjunta en áreas clave, como el desarrollo de la landing page, fomentó un entorno inclusivo donde se valoraron las contribuciones de todos los miembros. Este enfoque de liderazgo compartido y trabajo coordinado garantizó tanto la calidad como la eficiencia en cada fase del proyecto.</br>TP:</br>Desarrollo del front-end en colaboración con otros miembros de equipo, coordinando la integración de nuestras soluciones. Asumo un liderazgo conjunto, en donde se distribuyen tareas, se establecen objetivos y asegura el cumplimiento de los plazos y la calidad del producto.<b></b><br><br><b>Daniel del Castillo</b></br>TB1:</br>Durante todo el proceso de esta entrega, encaminé un poco mejor las ideas de mis compañeros utilizando mi conocimiento del dominio de modo que todos pudimos desarrollar mutuamente las ideas propuestas</br>TP:<br>Para esta entrega partcipé activamente en el proceso de intercambio de ideas y organización de bounded contexts con mis compañeros durante las reuniones de los sprints además de realizar segmentos que no pudieron completarse en entregas pasadas.<br><br><b>Pedro Guia Carrasco</b></br>TB1:<br>En proceso de desarrollo del proyecto, pude notar el compromiso del equipo en las tareas asignadas al inicio del trabajo. Gracias a eso pude exigirme en cumplir todo a su tiempo </br>TP:<br>Para esta entrega participé en el proceso de intercambio de ideas para los bounded context junto a mis compañeros de trabajo durante los tiempos de reunion y realice el sprint 2 que trata sobre el frontend.<br><b>Omar Berrocal</b></br>TB1:<br>Las reuniones realizadas por el equipo y el uso de gitflow ayudaron al trabajo en equipo. Usando herramientas ya conocidas por todos los miembros, hizo que todo se comprenda mejor.</br>TP:<br>Para esta entrega participé en las reuniones del equipo, porponiendo ideas y escuchando las ideas de los demás. Así pudimos llegar a un acuerdo y empezar con el desarrollo del trabajo parcial<br>
-        <br><b>Sebastian Aiquipa</b></br>TB1:</br>El equipo mostró una dinámica de trabajo colaborativa y efectiva, donde cada miembro asumió roles de liderazgo de manera equitativa. Esto facilitó una distribución justa de responsabilidades, lo que permitió establecer objetivos claros y una planificación eficiente de las tareas. La comunicación constante y la colaboración en áreas clave, como el desarrollo de la landing page, promovió un ambiente inclusivo, donde cada contribución fue valorada.
-    </p>
-    </td>
-    <td>
-    </td>
-  </tr>
-
-  <tr>
-    <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
-    <td>
-    <p align="justify">
-        <b>Gonzalo Quedena</b></br>TB1:<br>Para esta entrega, fomentamos un entorno colaborativo e inclusivo al involucrar activamente a todos los miembros del equipo en el análisis de las necesidades, utilizando entrevistas detalladas como base. Juntos, establecimos metas claras para asegurar un diseño UX/UI que garantizara una experiencia óptima para todos los usuarios. La planificación de tareas se llevó a cabo de manera organizada, permitiendo realizar un análisis exhaustivo de la competencia y cumplir con los objetivos del proyecto, identificando oportunidades clave en la optimización de las actividades.</br>TP:</br>Desarrollo AquaEngine para digitalizar procesos en empresas pesqueras, asegurando que el equipo trabaje en armonía, con metas claras y una planificación eficaz para cumplir los objetivos del proyecto.<br><br><b>Daniel del Castillo</b></br>TB1:<br>Duante esta entrega, fomentamos el ambiente colaborativo y establecimos metas. Nuestro lider desarrolló un trello en el que seguí adecuadamente las tareas que no se habían realizado de momento<br>TP:<br>Desarrollé la sección de analiticas para la empresa, para ello segmenté la carga laboral, establecí una fecha limite y lo realicé en 3 historias de usuario.<br><br><b>Pedro Guia Carrasco</b></br>TB1:<br>Para esta entrega, fomentamos el trabajo en equipo que se requiere para esta ocasión. Analizamos las herramientas a utilizar para el desarrollo del producto y tuvimos cuidado en entender lo que requiere el usuario. Cumplimos los objetivos de la lista de tareas que tiene cada integrante del grupo y no tuvimos problema en entregar a tiempo nuestra parte del reporte.</br>TP:<br>Desarrolle la seccion de planning para elló segmenté el orden de maquinaria, los detalles de la orden y orden final, esto establece la una historia de usuario.</br><br><b>Omar Berrocal</b></br>TB1:<br>Durante esta entrega empleamos tecnicas como gitflow y manejo de ramas lo que nos permitió trabajar de forma organizada. Plantear metas y manejarlas en un trello fue idóneo para saber que tareas se encontraban pendientes y quienes necesitaban ayuda, y de esa manera poder ayudar.</br>TP:<br>Trabajé en el feature de control, apoyando con el desarrollo de el inventario y la visualización de los detalles del equipo.<br><br><b>Sebastian Aiquipa</b></br>TB1:</br>A lo largo del proyecto, el equipo demostró una sólida capacidad de colaboración e inclusión, involucrando a todos los miembros en cada etapa del proceso. La planificación fue clave para asegurar un diseño UX/UI efectivo y un análisis detallado de la competencia, lo que permitió identificar oportunidades clave de mejora. La utilización de herramientas organizativas, como Trello, ayudó a estructurar el trabajo y seguir de cerca el progreso, lo que facilitó el cumplimiento de las metas en el tiempo establecido.
-    </p>
-    </td>
-    <td>
-    </td>
-  </tr>
-</table>   
+---  
+</br></br>
 
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
@@ -224,52 +201,14 @@ Desarrollar aplicaciones web de alta calidad utilizando tecnologías Open Source
 
 #### 1.1.2. Perfiles de integrantes del equipo
 
-<table border="1">
-  <tr>
-    <th></th>
-    <th>Nombre y Apellido</th>
-    <th>Carrera</th>
-    <th>Acerca de</th>
-    <th>Habilidades</th>
-  </tr>
-  <tr>
-    <td><img src="./assets/chapterI/team-photos/profile-photo.png" width=1000px/></td>
-    <td>Gonzalo Andre Zavala Quedena</td>
-    <td>Ingeniería de Software</td>
-    <td>Soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), con una gran pasión por la tecnología y un fuerte compromiso con el aprendizaje continuo. Estoy enfocado en seguir desarrollándome profesionalmente, adquiriendo conocimientos y habilidades que me permitan enfrentar nuevos desafíos en el mundo del desarrollo de software.</td>
-    <td><ul><li>Python</li><li>C++</li><li>C#</li><li>Angular</li><li>HTML</li><li>CSS</li><li>JavaScript</li><li>SQL Server</li></ul></td>
-  </tr>
-  <tr>
-    <td><img src="./assets/chapterI/team-photos/Foto-u202211212.png" width=1000px/></td>
-    <td>Daniel Mateo del Castillo Bueno</td>
-    <td>Ingeniería de Software</td>
-    <td>Soy estudiante de la carrera de Ingeniería de Software de la Universidad Peruana de Ciencias aplicadas. Soy una persona muy curiosa, me gusta experimentar mucho lo cual me lleva a aprender sobre tecnología y software lo que me emociona.</td>
-    <td><ul><li>Java</li><li>C++</li><li>Angular</li><li>Python</li><li>SQL</li></ul></td>
-  </tr>
-    <tr>
-    <td><img src="./assets/chapterI/team-photos/perfil.png" width=1000px></td>
-    <td>Pedro Andre Guía Carrasco</td>
-    <td>Ingeniería de Software</td>
-    <td>Soy estudiante de Ingenieria de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), es increible llevar esta carrera porque se que a futuro me brindará bastantes oportunidades de negocios y deseo de cumplir mis metas. Espero seguir aprendiendo lo necesario de esta carrera para que me convierta en un profesional desarrollador de software.</td>
-    <td><ul><li>Java</li><li>Python</li><li>SQL</li><li>HTML</li><li>JavaScript</li></ul></td>
-  </tr>
+|                         | Nombre y Apellido                  | Carrera               | Acerca de                                                                                                                                                                                                             | Habilidades                                |
+|-------------------------|------------------------------------|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
+| ![Gonzalo](./assets/chapterI/team-photos/profile-photo.png) | Gonzalo Andre Zavala Quedena | Ingeniería de Software | Soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), con una gran pasión por la tecnología y un fuerte compromiso con el aprendizaje continuo. Estoy enfocado en seguir desarrollándome profesionalmente, adquiriendo conocimientos y habilidades que me permitan enfrentar nuevos desafíos en el mundo del desarrollo de software. | - Python <br> - C++ <br> - C# <br> - Angular <br> - HTML <br> - CSS <br> - JavaScript <br> - SQL Server |
+| ![Daniel](./assets/chapterI/team-photos/Foto-u202211212.png) | Daniel Mateo del Castillo Bueno | Ingeniería de Software | Soy estudiante de la carrera de Ingeniería de Software de la Universidad Peruana de Ciencias aplicadas. Soy una persona muy curiosa, me gusta experimentar mucho lo cual me lleva a aprender sobre tecnología y software lo que me emociona. | - Java <br> - C++ <br> - Angular <br> - Python <br> - SQL |
+| ![Pedro](./assets/chapterI/team-photos/perfil.png) | Pedro Andre Guía Carrasco | Ingeniería de Software | Soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), es increíble llevar esta carrera porque sé que a futuro me brindará bastantes oportunidades de negocios y deseo de cumplir mis metas. Espero seguir aprendiendo lo necesario de esta carrera para que me convierta en un profesional desarrollador de software. | - Java <br> - Python <br> - SQL <br> - HTML <br> - JavaScript |
+| ![Omar](./assets/chapterI/team-photos/Integrante-Omar.jpg) | Omar Berrocal Ramirez | Ingeniería de Software | Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, con una gran curiosidad hacia la tecnología que tengo desde pequeño, me siento muy motivado por mi carrera. Espero explorar más y seguir aprendiendo sobre el mundo de la computación en informática. | - Java <br> - C++ <br> - C# <br> - Python <br> - JavaScript <br> - TypeScript <br> - SQL |
+| ![Sebastian](./assets/chapterI/team-photos/Sebastian_Aiquipa.png) | Sebastian Andres Aiquipa Poma | Ingeniería de Software | Estudio en la carrera de Ingeniería de Software en la UPC. Tengo conocimientos en C++, Python y actualmente estoy practicando en Java. Considero que la comunicación y el aprendizaje constante son las claves que me permitirán progresar. | - C++ <br> - Python <br> - JavaScript |
 
-  <tr>
-    <td><img src="./assets/chapterI/team-photos/Integrante-Omar.jpg" width=1000px></td>
-    <td>Omar Berrocal Ramirez</td>
-    <td>Ingeniería de Software</td>
-    <td>Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, con una gran curiosidad hacia la tecnología que tengo desde pequeño, me siento muy motivado por mi carrera. Espero explorar más y seguir aprendiendo sobre el mundo de la computación en informática</td>
-    <td><ul><li>Java</li><li>C++</li><li>C#</li><li>Python</li><li>Javascript</li><li>Typescript</li><li>SQL</li></ul></td>
-  </tr>
-
-  <tr>
-    <td><img src="./assets/chapterI/team-photos/Sebastian_Aiquipa.png" width=1000px></td>
-    <td>Sebastian Andres Aiquipa Poma</td>
-    <td>Ingeniería de Software</td>
-    <td>Estudio en la carrera de Ingenieria de Software en la UPC. Tengo conocimientos en C++, Python y actualmente estoy practicando en Java. Considero que la comunicacion y el aprendizaje constante son las claves que me permitiran progresar.</td>
-    <td><ul><li>C++</li><li>Python</li><li>JavaScript</li></ul></td>
-  </tr>
-</table>
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
@@ -861,17 +800,17 @@ Las decisiones visuales reflejan un diseño moderno y profesional, transmitiendo
 **Color**  
 Seleccionamos esta gama de colores porque armoniza con el diseño del logo y refleja la temática de nuestra aplicación, asegurando la identidad de la marca.  
 
-![Colores generales](/assets/images/chapter-iv/style-guidelines/color-palette.png)
+<img src="./assets/images/chapter-iv/style-guidelines/color-palette.png"/>  
 
 **Tipografia**   
 Seleccionamos esta tipografía por su excelente legibilidad en diversos entornos, además de su carácter poco común, lo que nos permite diferenciarnos frente a la competencia y aportar una identidad única a nuestra marca.
 
-![Tipografias generales](/assets/images/chapter-iv/style-guidelines/typography.png)
+<img src="./assets/images/chapter-iv/style-guidelines/typography.png"/>  
 
 **Branding**   
 El nombre del producto es ArtCollab, el cual cuenta con un logo representado por el icono de un bolígrafo con motivos coloridos a su alrededor haciendo referencia tanto a los escritores como artistas que son parte de los usuarios principales de nuestro aplicativo.
 
-![Branding general](/assets/images/chapter-iv/style-guidelines/logo.png)
+<img src="./assets/images/chapter-iv/style-guidelines/logo.png"/>  
 
 ### 4.1.2. Web Style Guidelines.
 Nuestra página web está diseñada para ofrecer una experiencia de navegación fluida y accesible, sin importar el dispositivo que utilices. Hemos implementado un diseño basado en el patrón Z, que guía de manera intuitiva la mirada de los usuarios hacia los elementos clave, permitiendo que la información más importante sea fácilmente captada.
@@ -916,7 +855,7 @@ Los resultados de búsqueda mostrarán información relevante sobre componentes,
 **Interface de busqueda:**  
 La interfaz de búsqueda contará con un diseño intuitivo para ayudar a los usuarios a encontrar la información deseada de manera rápida. Los filtros incluirán categorías como tipo de equipo, estado del pedido y niveles de inventario. La interfaz amigable mejorará la eficiencia en la búsqueda de datos específicos y optimizará la experiencia del usuario.
 
-![Search interface preview web](/assets/images/chapter-iv/style-guidelines/searching-system.png)
+<img src="./assets/images/chapter-iv/style-guidelines/searching-system.png"/>  
 
 ### 4.2.5. Navigation Systems.
 La navegación en la aplicación web será sencilla y minimalista, permitiendo a los usuarios acceder fácilmente a las diversas opciones disponibles.
@@ -930,7 +869,7 @@ Permite el movimiento vertical dentro de la página. Incluye una barra de navega
 **Local Navigation System**  
 Complementa al sistema global permitiendo el acceso a otras páginas dentro del sub-sitio.
 
-![Navigation interface preview web](/assets/images/chapter-iv/style-guidelines/nav.png)
+<img src="./assets/images/chapter-iv/style-guidelines/nav.png"/>  
 
 ## 4.3. Landing Page UI Design.
 En esta sección, presentamos el diseño de la página de aterrizaje (landing page) de la aplicación web, que tiene como objetivo captar la atención de los usuarios y convertirlos en clientes potenciales. La página de aterrizaje es la primera impresión que los usuarios tendrán de la aplicación, por lo que es fundamental que sea atractiva, informativa y fácil de usar.  
@@ -943,7 +882,7 @@ Link a los Wireframes de la Landing Page (Figma):
 Sección principal captando la atención del usuario con una introducción a la aplicación brindando información  
 respecto a las características de uso.
 
-![Landing page Wireframe](/assets/images/chapter-iv/landing%20page%20wireframe/wireframe1.png)
+<img src="./assets/images/chapter-iv/landing%20page%20wireframe/wireframe1.png"/>  
 
 ## 2. Preview and Subscriptions
 Sección donde el usuario visualizará una vista previa respecto a cómo hacemos uso de la aplicación. Además de  
