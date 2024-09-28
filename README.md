@@ -863,13 +863,13 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
         <tr>
             <td>Sprint 2 Velocity</td>
             <td>
-                20
+                22
             </td>
         </tr>
         <tr>
             <td>Sum of story points</td>
             <td>
-                20
+                30
             </td>
         </tr>
     </tbody>
