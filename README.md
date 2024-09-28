@@ -877,6 +877,140 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
 
 #### 5.2.2.2. Sprint Backlog 2.
 
+Para el print 2 usamos la herramienta trello para organizar las tareas del equipo.
+Enlace 
+ ![trello-sprint-2](./assets/images/chapter-V/trello-sprint-2.png)
+
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 2</strong> </td>
+  </tr>
+
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>Description<strong></td>
+    <td align="center"> <strong>Estimation (Hours)<strong></td>
+    <td align="center"> <strong>Assigned To<strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  <strong></td>
+  </tr>
+
+<!----------------------------------------------->
+  <tr>
+    <td rowspan="2" align="center"> ID </td>
+    <td rowspan="2" align="center"> US12 Solicitud de compra de equipo estándar</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Ordering Machinery</td>
+    <td align="center"> Desarrollo de una sección de maquinaria ofertada al empresario pesquero</td>
+    <td align="center"> 3</td>
+    <td align="center">Pedro Andre Guía Carrasco</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Ordel Detail </td>
+    <td align="center"> Se derarrolla una sección que incluya las equipos seleccionados por el pescador </td>
+    <td align="center"> 2</td>
+    <td align="center"> Pedro Andre Guía Carrasco</td>
+    <td align="center"> Done</td>
+  </tr>
+<!-------------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> US03 Estado de equipos</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Monitoring Section</td>
+    <td align="center"> Se desarrolla la funcionalidad que muestra el estado de los equipos.</td>
+    <td align="center"> 3</td>
+    <td align="center"> Daniel Mateo del Castillo Bueno</td>
+    <td align="center"> Done</td>
+  </tr>
+<!-------------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> US04 Registro de equipos</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Equipment registration Form</td>
+    <td align="center"> Se desarrolla un formulario que permite registrar nuevos equipos pesqueros al inventario.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Omar Berrocal Ramirez</td>
+    <td align="center"> In progress</td>
+  </tr>
+  <!-------------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> US05 Historial de mantenimiento</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Equipment Maintenance Setion</td>
+    <td align="center"> Se la sección de control de mantenimiento de los equipos.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Omar Berrocal Ramirez</td>
+    <td align="center"> In progress</td>
+  </tr>
+  <!-------------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> US06 Alerta de equipos críticos</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Critical Alerts</td>
+    <td align="center"> Se desarrolla una funcionalidad de mensajes que alerten de estado crítico de algún equipo.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Daniel Mateo del Castillo Bueno</td>
+    <td align="center"> In progress</td>
+  </tr>
+  <!-------------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> US09 Notificaciones de estado</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Status Notifications</td>
+    <td align="center"> Se desarrollo la sección donde se muestre las notificaciones recibidas junto con niveles de estados.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Gonzalo Andre Zavala Queneda</td>
+    <td align="center"> In progress</td>
+  </tr>
+<!---------------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> US10 Gestión de inventario</td>
+      <td align="center"> TA01 </td>
+    <td align="center"> Equipments Table</td>
+    <td align="center"> Se desarrolla una tabla donde se muestra todos la maquinaria disponible por la empresa.</td>
+    <td align="center"> 3</td>
+    <td align="center"> Gonzalo Andre Zavala Queneda</td>
+    <td align="center"> Done</td>
+  </tr>
+<!------------------------------------------------>
+   <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> US11 Consulta de productos en inventario</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Produc Details</td>
+    <td align="center"> Se desarrolla un diálogo donde se muestren los detalles del producto seleccionado</td>
+    <td align="center"> 2</td>
+    <td align="center"> Omar Christian Berrocal Ramirez </td>
+    <td align="center"> Done</td>
+  </tr>
+  <!---------------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> US21 Acceso a la aplicación web</td>
+      <td align="center"> TA01 </td>
+    <td align="center"> Call to Action</td>
+    <td align="center"> Se desarrolla un botón call to action en el landing page que redirige a la aplicación web.</td>
+    <td align="center"> 1</td>
+    <td align="center"> Gonzalo Andre Zavala Queneda</td>
+    <td align="center"> Done</td>
+  </tr>
+</table>
 
 #### 5.2.2.3. Development Evidence for Sprint Review.
 
