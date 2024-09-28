@@ -674,7 +674,7 @@ Para los Empathy Mapping, esta herramienta nos ayudará a conocer un poco más l
 <img src="assests/Empathy map pesquero.png">
 
 ### 2.3.5. As-is Scenario Mapping.
-Para los As-Is Scenario, es una herramienta que nos ayuda a ejemplificar de mejor manera cual es el escenario actual sobre el problema que se intentará resolver, en este caso lo que son las clases en línea, presentando para nuestro proyecto el problema al momento del fabricante de maquinaria pesquera.
+Para los As-Is Scenario, es una herramienta que nos ayuda a ejemplificar de mejor manera cual es el escenario actual sobre el problema que se intentará resolver, en este caso el problema seria la demanda de equipos de las empresas maquinarias.
 
 **Segmento 1**  
 
